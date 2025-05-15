@@ -86,9 +86,20 @@ void Obsidian::calculateMaxCounts() {
     }
 }
 
+/*
+file format (when something repeats twice and is followed by ... <> then it will repeat <> times in file)
+:
+nodes_size
+node00 node10 node20
+node01 node11 node21
+... <nodes_size>
+node0 count0 potential_count0
+node1 count1 potential_count1
+... <nodes_size>
+*/
 void Obsidian::FileOutput(string path) const {
-    ofstream file(path, ofstream::trunc);
-    file << nodes.size();
+    ofstream write(path, ofstream::trunc);
+    write << nodes.size() << endl;
     for (map<string,pair<string,string>*>::const_iterator i = nodes.cbegin(); i!=nodes.cend(); i++) {
         string node0 = i->first;
         const pair<string,string> parents = *nodes.at(node0);
@@ -98,14 +109,14 @@ void Obsidian::FileOutput(string path) const {
             node1 = "Primal";
             node2 = "Aspect";
         }
-        file << node0 << ' ' << node1 << ' ' << node2 << endl;
+        write << node0 << ' ' << node1 << ' ' << node2 << endl;
     }
     for (map<string,nodeInfo*>::const_iterator i = nodeData.cbegin(); i!=nodeData.cend(); i++) {
         string node = i->first;
         const nodeInfo info = *nodeData.at(node);
         int count = info.count;
         int maxCount = info.maxCount;
-        file << node << ' ' << count << ' ' << maxCount << endl;
+        write << node << ' ' << count << ' ' << maxCount << endl;
     }
 }
 

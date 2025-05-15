@@ -12,8 +12,8 @@ class Network {
         
         std::vector<int> operator[](int i);
         
-        int toInt(std::string s) {return idTable[s];}
-        std::string toString(int i) {return ridTable[i];}
+        int toInt(std::string s) const {return idTable.at(s);}
+        std::string toString(int i) const {return ridTable.at(i);}
         size_t size() {return _size;}
     private:
         size_t _size;

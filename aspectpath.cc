@@ -5,13 +5,20 @@
 
 using namespace std;
 
-AspectPath::AspectPath(const Network &network) {
-    nodes = network;
+void AspectPath::setNetwork(const Network &network, bool override) {
+    if (!initialized) {
+        nodes = network;
+        initialized = true;
+    }
 }
 
-void AspectPath::calculate(string start, string end) {
+vector<int>* AspectPath::getPath(string start, string end) {
     int sid = nodes.toInt(start);
     int eid = nodes.toInt(end);
+    return getPath(sid, eid);
+}
+
+vector<int>* AspectPath::getPath(int sid, int eid) {
     //dij algorithm
     vector<int> unvisited;
     set<int> visited;
@@ -55,9 +62,19 @@ void AspectPath::calculate(string start, string end) {
         }
     }
     delete[] times;
-    for (int i = 0; i<nodes.size(); i++) {
-        dij = previous;
-    }
+    return previous;
 }
+
+vector<int>* AspectPath::traversePath(vector<int>* dij, int start, int end) {
+    vector<int>* path = new vector<int>;
+    int cursor = end;
+    while (cursor!=start) {
+        path->push_back(cursor);
+        cursor = path[cursor][0];
+    }
+    path->push_back(start);
+    return path;
+}
+
 
 #endif

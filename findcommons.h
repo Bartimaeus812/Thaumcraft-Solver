@@ -5,18 +5,27 @@
 #include <map>
 #include <string>
 #include <vector>
+#include <aspectpath.h>
+#include <fstream>
 
 class FindCommons {
     public:
-        FindCommons(std::map<std::string,std::pair<std::string,std::string>*> nodeMap);
+        FindCommons(const Network &nodes);
+        ~FindCommons();
+
         void calculateCommons();
 
         void addNode(std::string s);
         void clearNodes() {nodes.clear();}
+        void clearHistory();
+
+        void inputHistory(std::string path);
+        void outputHistory(std::string path) const;
     private:
-        std::map<std::string,std::pair<std::string,std::string>*> network;
+        Network network;
         std::vector<int> nodes;
         std::vector<int> commons;
+        std::map<std::pair<int,int>,std::vector<int>*> history;
 };
 
 #endif

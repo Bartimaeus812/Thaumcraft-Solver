@@ -5,14 +5,15 @@
 #include <set>
 #include <stack>
 
-class AspectPath {
+static class AspectPath {
     public:
-        AspectPath(const Network &network);
-        void calculate(std::string start, std::string end);
-        std::vector<std::string>* getPaths(int n) const;
+        static void setNetwork(const Network &network, bool override = false);
+        static std::vector<int>* getPath(std::string start, std::string end);
+        static std::vector<int>* getPath(int start, int end);
+        static std::vector<int>* traversePath(std::vector<int>* path, int start, int end);
     private:
-        Network nodes;
-        std::vector<int>* dij;
+        static inline bool initialized {false};
+        static Network nodes;
 };
 
 #endif
