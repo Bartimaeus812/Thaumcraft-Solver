@@ -5,7 +5,7 @@
 #include <map>
 #include <string>
 #include <vector>
-#include <aspectpath.h>
+#include "aspectpath.h"
 #include <fstream>
 
 class FindCommons {
@@ -13,7 +13,10 @@ class FindCommons {
         FindCommons(const Network &nodes);
         ~FindCommons();
 
-        void calculateCommons();
+//        void calculateCommons();
+        void calculateDistances();
+        enum tree {Herba,Metallum,Praecantatio};
+        void oracle(std::string aspect, tree option);
 
         void addNode(std::string s);
         void clearNodes() {nodes.clear();}
@@ -23,6 +26,7 @@ class FindCommons {
         void outputHistory(std::string path) const;
     private:
         Network network;
+        AspectPath* aspectSearch;
         std::vector<int> nodes;
         std::vector<int> commons;
         std::map<std::pair<int,int>,std::vector<int>*> history;

@@ -5,11 +5,8 @@
 
 using namespace std;
 
-void AspectPath::setNetwork(const Network &network, bool override) {
-    if (!initialized) {
-        nodes = network;
-        initialized = true;
-    }
+AspectPath::AspectPath(const Network &network) {
+    nodes = network;
 }
 
 vector<int>* AspectPath::getPath(string start, string end) {
@@ -65,12 +62,12 @@ vector<int>* AspectPath::getPath(int sid, int eid) {
     return previous;
 }
 
-vector<int>* AspectPath::traversePath(vector<int>* dij, int start, int end) {
+vector<int>* AspectPath::traversePath(const vector<int>* dij, int start, int end) {
     vector<int>* path = new vector<int>;
     int cursor = end;
     while (cursor!=start) {
         path->push_back(cursor);
-        cursor = path[cursor][0];
+        cursor = dij[cursor][0];
     }
     path->push_back(start);
     return path;

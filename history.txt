@@ -1,0 +1,319 @@
+159
+Aer Herba 3
+Aer Aqua Herba
+Aer Praecantatio 3
+Aer Vacuos Praecantatio
+Aer Metallum 5
+Aer Aqua Herba Terra Metallum
+Alienis Herba 5
+Alienis Vacuos Aer Aqua Herba
+Alienis Praecantatio 3
+Alienis Vacuos Praecantatio
+Alienis Metallum 6
+Alienis Vacuos Fames Victus Terra Metallum
+Vacuos Herba 4
+Vacuos Aer Aqua Herba
+Vacuos Praecantatio 2
+Vacuos Praecantatio
+Vacuos Metallum 5
+Vacuos Fames Victus Terra Metallum
+Tenebrae Herba 5
+Tenebrae Vacuos Aer Aqua Herba
+Tenebrae Praecantatio 3
+Tenebrae Vacuos Praecantatio
+Tenebrae Metallum 6
+Tenebrae Vacuos Fames Victus Terra Metallum
+Aqua Herba 2
+Aqua Herba
+Aqua Praecantatio 4
+Aqua Aer Vacuos Praecantatio
+Aqua Metallum 4
+Aqua Herba Terra Metallum
+Herba Praecantatio 5
+Herba Aqua Aer Vacuos Praecantatio
+Herba Metallum 3
+Herba Terra Metallum
+Arbor Herba 2
+Arbor Herba
+Arbor Praecantatio 4
+Arbor Aer Vacuos Praecantatio
+Arbor Metallum 4
+Arbor Herba Terra Metallum
+Auram Herba 4
+Auram Aer Aqua Herba
+Auram Praecantatio 2
+Auram Praecantatio
+Auram Metallum 6
+Auram Aer Aqua Herba Terra Metallum
+Praecantatio Herba 5
+Praecantatio Vacuos Aer Aqua Herba
+Praecantatio Metallum 5
+Praecantatio Potentia Ordo Vitreus Metallum
+Bestia Herba 3
+Bestia Victus Herba
+Bestia Praecantatio 5
+Bestia Motus Aer Vacuos Praecantatio
+Bestia Metallum 4
+Bestia Victus Terra Metallum
+Motus Herba 4
+Motus Aer Aqua Herba
+Motus Praecantatio 4
+Motus Aer Vacuos Praecantatio
+Motus Metallum 4
+Motus Ordo Vitreus Metallum
+Victus Herba 2
+Victus Herba
+Victus Praecantatio 4
+Victus Fames Vacuos Praecantatio
+Victus Metallum 3
+Victus Terra Metallum
+Cognitio Herba 4
+Cognitio Spiritus Victus Herba
+Cognitio Praecantatio 4
+Cognitio Ignis Infernus Praecantatio
+Cognitio Metallum 5
+Cognitio Spiritus Victus Terra Metallum
+Ignis Herba 5
+Ignis Cognitio Spiritus Victus Herba
+Ignis Praecantatio 3
+Ignis Infernus Praecantatio
+Ignis Metallum 5
+Ignis Potentia Ordo Vitreus Metallum
+Spiritus Herba 3
+Spiritus Victus Herba
+Spiritus Praecantatio 5
+Spiritus Victus Fames Vacuos Praecantatio
+Spiritus Metallum 4
+Spiritus Victus Terra Metallum
+Corpus Herba 4
+Corpus Bestia Victus Herba
+Corpus Praecantatio 5
+Corpus Mortuus Perditio Vacuos Praecantatio
+Corpus Metallum 5
+Corpus Bestia Victus Terra Metallum
+Mortuus Herba 3
+Mortuus Victus Herba
+Mortuus Praecantatio 4
+Mortuus Perditio Vacuos Praecantatio
+Mortuus Metallum 4
+Mortuus Victus Terra Metallum
+Desidia Herba 4
+Desidia Spiritus Victus Herba
+Desidia Praecantatio 5
+Desidia Vinculum Perditio Vacuos Praecantatio
+Desidia Metallum 5
+Desidia Spiritus Victus Terra Metallum
+Vinculum Herba 5
+Vinculum Motus Aer Aqua Herba
+Vinculum Praecantatio 4
+Vinculum Perditio Vacuos Praecantatio
+Vinculum Metallum 5
+Vinculum Motus Ordo Vitreus Metallum
+Exanimus Herba 4
+Exanimus Mortuus Victus Herba
+Exanimus Praecantatio 5
+Exanimus Motus Aer Vacuos Praecantatio
+Exanimus Metallum 5
+Exanimus Motus Ordo Vitreus Metallum
+Fabrico Herba 4
+Fabrico Humanus Messis Herba
+Fabrico Praecantatio 5
+Fabrico Instrumentum Ordo Potentia Praecantatio
+Fabrico Metallum 5
+Fabrico Humanus Perfodio Terra Metallum
+Humanus Herba 3
+Humanus Messis Herba
+Humanus Praecantatio 5
+Humanus Cognitio Ignis Infernus Praecantatio
+Humanus Metallum 4
+Humanus Perfodio Terra Metallum
+Instrumentum Herba 4
+Instrumentum Humanus Messis Herba
+Instrumentum Praecantatio 4
+Instrumentum Ordo Potentia Praecantatio
+Instrumentum Metallum 4
+Instrumentum Ordo Vitreus Metallum
+Fames Herba 3
+Fames Victus Herba
+Fames Praecantatio 3
+Fames Vacuos Praecantatio
+Fames Metallum 4
+Fames Victus Terra Metallum
+Gelum Herba 5
+Gelum Perditio Mortuus Victus Herba
+Gelum Praecantatio 4
+Gelum Ignis Infernus Praecantatio
+Gelum Metallum 6
+Gelum Ignis Potentia Ordo Vitreus Metallum
+Perditio Herba 4
+Perditio Mortuus Victus Herba
+Perditio Praecantatio 3
+Perditio Vacuos Praecantatio
+Perditio Metallum 5
+Perditio Mortuus Victus Terra Metallum
+Gula Herba 4
+Gula Fames Victus Herba
+Gula Praecantatio 3
+Gula Vacuos Praecantatio
+Gula Metallum 5
+Gula Fames Victus Terra Metallum
+Terra Herba 2
+Terra Herba
+Terra Praecantatio 5
+Terra Victus Fames Vacuos Praecantatio
+Terra Metallum 2
+Terra Metallum
+Infernus Herba 6
+Infernus Praecantatio Vacuos Aer Aqua Herba
+Infernus Praecantatio 2
+Infernus Praecantatio
+Infernus Metallum 6
+Infernus Praecantatio Potentia Ordo Vitreus Metallum
+Ordo Herba 4
+Ordo Vitreus Terra Herba
+Ordo Praecantatio 3
+Ordo Potentia Praecantatio
+Ordo Metallum 3
+Ordo Vitreus Metallum
+Ira Herba 6
+Ira Ignis Cognitio Spiritus Victus Herba
+Ira Praecantatio 4
+Ira Ignis Infernus Praecantatio
+Ira Metallum 6
+Ira Ignis Potentia Ordo Vitreus Metallum
+Telum Herba 5
+Telum Instrumentum Humanus Messis Herba
+Telum Praecantatio 4
+Telum Ignis Infernus Praecantatio
+Telum Metallum 5
+Telum Instrumentum Ordo Vitreus Metallum
+Iter Herba 3
+Iter Terra Herba
+Iter Praecantatio 5
+Iter Motus Aer Vacuos Praecantatio
+Iter Metallum 3
+Iter Terra Metallum
+Limus Herba 3
+Limus Aqua Herba
+Limus Praecantatio 5
+Limus Aqua Aer Vacuos Praecantatio
+Limus Metallum 4
+Limus Victus Terra Metallum
+Lucrum Herba 4
+Lucrum Humanus Messis Herba
+Lucrum Praecantatio 4
+Lucrum Fames Vacuos Praecantatio
+Lucrum Metallum 5
+Lucrum Humanus Perfodio Terra Metallum
+Lux Herba 4
+Lux Aer Aqua Herba
+Lux Praecantatio 4
+Lux Aer Vacuos Praecantatio
+Lux Metallum 6
+Lux Aer Aqua Herba Terra Metallum
+Luxuria Herba 4
+Luxuria Fames Victus Herba
+Luxuria Praecantatio 4
+Luxuria Fames Vacuos Praecantatio
+Luxuria Metallum 5
+Luxuria Fames Victus Terra Metallum
+Machina Herba 5
+Machina Motus Aer Aqua Herba
+Machina Praecantatio 5
+Machina Motus Aer Vacuos Praecantatio
+Machina Metallum 5
+Machina Motus Ordo Vitreus Metallum
+Messis Herba 2
+Messis Herba
+Messis Praecantatio 6
+Messis Herba Aqua Aer Vacuos Praecantatio
+Messis Metallum 4
+Messis Herba Terra Metallum
+Metallum Herba 3
+Metallum Terra Herba
+Metallum Praecantatio 5
+Metallum Vitreus Ordo Potentia Praecantatio
+Vitreus Herba 3
+Vitreus Terra Herba
+Vitreus Praecantatio 4
+Vitreus Ordo Potentia Praecantatio
+Vitreus Metallum 2
+Vitreus Metallum
+Meto Herba 3
+Meto Messis Herba
+Meto Praecantatio 5
+Meto Instrumentum Ordo Potentia Praecantatio
+Meto Metallum 5
+Meto Instrumentum Ordo Vitreus Metallum
+Pannus Herba 4
+Pannus Bestia Victus Herba
+Pannus Praecantatio 5
+Pannus Instrumentum Ordo Potentia Praecantatio
+Pannus Metallum 5
+Pannus Bestia Victus Terra Metallum
+Perfodio Herba 3
+Perfodio Terra Herba
+Perfodio Praecantatio 6
+Perfodio Humanus Cognitio Ignis Infernus Praecantatio
+Perfodio Metallum 3
+Perfodio Terra Metallum
+Permutatio Herba 5
+Permutatio Perditio Mortuus Victus Herba
+Permutatio Praecantatio 4
+Permutatio Perditio Vacuos Praecantatio
+Permutatio Metallum 4
+Permutatio Ordo Vitreus Metallum
+Potentia Herba 5
+Potentia Ordo Vitreus Terra Herba
+Potentia Praecantatio 2
+Potentia Praecantatio
+Potentia Metallum 4
+Potentia Ordo Vitreus Metallum
+Sano Herba 3
+Sano Victus Herba
+Sano Praecantatio 4
+Sano Ordo Potentia Praecantatio
+Sano Metallum 4
+Sano Victus Terra Metallum
+Sensus Herba 4
+Sensus Aer Aqua Herba
+Sensus Praecantatio 4
+Sensus Aer Vacuos Praecantatio
+Sensus Metallum 5
+Sensus Spiritus Victus Terra Metallum
+Superbia Herba 5
+Superbia Vacuos Aer Aqua Herba
+Superbia Praecantatio 3
+Superbia Vacuos Praecantatio
+Superbia Metallum 6
+Superbia Vacuos Fames Victus Terra Metallum
+Volatus Herba 4
+Volatus Aer Aqua Herba
+Volatus Praecantatio 4
+Volatus Aer Vacuos Praecantatio
+Volatus Metallum 5
+Volatus Motus Ordo Vitreus Metallum
+Tempestas Herba 3
+Tempestas Aqua Herba
+Tempestas Praecantatio 4
+Tempestas Aer Vacuos Praecantatio
+Tempestas Metallum 5
+Tempestas Aqua Herba Terra Metallum
+Tutamen Herba 3
+Tutamen Terra Herba
+Tutamen Praecantatio 5
+Tutamen Instrumentum Ordo Potentia Praecantatio
+Tutamen Metallum 3
+Tutamen Terra Metallum
+Venenum Herba 3
+Venenum Aqua Herba
+Venenum Praecantatio 4
+Venenum Perditio Vacuos Praecantatio
+Venenum Metallum 5
+Venenum Aqua Herba Terra Metallum
+Vitium Herba 5
+Vitium Perditio Mortuus Victus Herba
+Vitium Praecantatio 2
+Vitium Praecantatio
+Vitium Metallum 6
+Vitium Praecantatio Potentia Ordo Vitreus Metallum

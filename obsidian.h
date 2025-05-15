@@ -6,6 +6,8 @@
 #include <filesystem>
 #include <string>
 #include <map>
+#include <algorithm>
+#include <vector>
 
 class Obsidian {
     public:
@@ -16,9 +18,9 @@ class Obsidian {
         };
         void inputCounts();
         void calculateMaxCounts();
-        const std::map<std::string,std::pair<std::string,std::string>*> GetNodes() const;
-        const std::map<std::string,nodeInfo*> GetData() const;
-        void FileOutput(std::string path) const;
+        const std::map<std::string,std::pair<std::string,std::string>*> getNodes() const;
+        const std::map<std::string,nodeInfo*> getData() const;
+        void fileOutput(std::string path) const;
     private:
         int getDepth(std::string s) const;
         std::map<std::string,std::pair<std::string,std::string>*> nodes;

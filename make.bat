@@ -1,0 +1,1 @@
+g++ aspectpath.cc findcommons.cc main.cc network.cc obsidian.cc

@@ -46,7 +46,7 @@ Obsidian::Obsidian(string path, bool isFileNotFolder) {
                 } else {
                     pos = s.find(']')-2;
                     node1 = s.substr(2,pos);
-                    s = s.substr(pos+4);
+                    s = s.substr(pos+6);
                     pos = s.length()-2;
                     node2 = s.substr(0,pos);
                 }
@@ -66,18 +66,35 @@ void Obsidian::inputCounts() {
     }
 }
 
+/*vector<pair<string,int>> Obsidian::sort(map<string,int> m) {
+    vector<pair<string,int>> v;
+    for (map<string,int>::iterator i = m.begin(); i!=m.end(); i++) {
+        v.push_back(*i);
+    }
+    sort(v.begin(),v.end(),[](const pair<string,int> &a, const pair<string,int> &b) {
+        return a.second < b.second;
+    });
+    return v;
+}*/
+
 void Obsidian::calculateMaxCounts() {
     map<string,int> depths;
     for (map<string,pair<string,string>*>::iterator i = nodes.begin(); i!=nodes.end(); i++) {
         string node = i->first;
         depths[node] = getDepth(node);
     }
-    sort(depths.begin(),depths.end(),[](const pair<string,int> &a, const pair<string,int> &b) {
+
+    vector<pair<string,int>> v;
+    for (map<string,int>::iterator i = depths.begin(); i!=depths.end(); i++) {
+        v.push_back(*i);
+    }
+    sort(v.begin(),v.end(),[](pair<string,int> &a, pair<string,int> &b) {
         return a.second < b.second;
     });
-    for (map<string,int>::iterator i = depths.begin(); i!=depths.end(); i++) {
-        string node = i->first;
-        if (i->second==0) {
+
+    for (int i = 0; i<v.size(); i++) {
+        string node = v[i].first;
+        if (v[i].second==0) {
             nodeData[node]->maxCount = nodeData[node]->count;
         } else {
             pair<string,string> parents = *nodes[node];
@@ -97,7 +114,7 @@ node0 count0 potential_count0
 node1 count1 potential_count1
 ... <nodes_size>
 */
-void Obsidian::FileOutput(string path) const {
+void Obsidian::fileOutput(string path) const {
     ofstream write(path, ofstream::trunc);
     write << nodes.size() << endl;
     for (map<string,pair<string,string>*>::const_iterator i = nodes.cbegin(); i!=nodes.cend(); i++) {
@@ -129,11 +146,11 @@ int Obsidian::getDepth(string s) const {
     }
 }
 
-const map<string,pair<string,string>*> Obsidian::GetNodes() const {
+const map<string,pair<string,string>*> Obsidian::getNodes() const {
     return nodes;
 }
 
-const map<string,Obsidian::nodeInfo*> Obsidian::GetData() const {
+const map<string,Obsidian::nodeInfo*> Obsidian::getData() const {
     return nodeData;
 }
 

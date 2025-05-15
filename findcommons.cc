@@ -6,7 +6,7 @@
 using namespace std;
 
 FindCommons::FindCommons(const Network &nodes) {
-    AspectPath::setNetwork(nodes);
+    aspectSearch = new AspectPath(nodes);
     network = nodes;
 }
 
@@ -14,7 +14,7 @@ FindCommons::~FindCommons() {
     clearHistory();
 }
 
-void FindCommons::calculateCommons() {
+/*void FindCommons::calculateCommons() {
     vector<pair<int,int>*> searches;
     //search between all nodes
     for (int i = 0; i<nodes.size(); i++) {
@@ -34,7 +34,7 @@ void FindCommons::calculateCommons() {
                         searches.push_back(query);
                     } else {
                         swap(query->first, query->second);
-                        history[*query] = AspectPath::getPath(query->first,query->second);
+                        history[*query] = aspectSearch->getPath(query->first,query->second);
                         searches.push_back(query);
                     }
                 }
@@ -45,13 +45,68 @@ void FindCommons::calculateCommons() {
     if (searches.size()==1) {
         pair<int,int>* query = searches[0];
         vector<int>* dij = history[*query];
-        vector<int>* path = AspectPath::traversePath(dij, query->first, query->second);
+        vector<int>* path = aspectSearch->traversePath(dij, query->first, query->second);
         commons.push_back((*path)[path->size()/2]);
         delete path;
     }
     for (int i = 0; i<searches.size(); i++) {
         delete searches[i];
     }
+}*/
+
+void FindCommons::calculateDistances() {
+    string tree0 = "Herba";
+    string tree1 = "Metallum";
+    string tree2 = "Praecantatio";
+    int t0id = network.toInt(tree0);
+    int t1id = network.toInt(tree1);
+    int t2id = network.toInt(tree2);
+    int* targets = new int[3];
+    targets[0] = t0id;
+    targets[1] = t1id;
+    targets[2] = t2id;
+    for (int i = 0; i<3; i++) {
+        for (int j = 0; j<network.size(); j++) {
+            int t = targets[i];
+            if (t!=j) {
+                vector<int>* v = aspectSearch->getPath(t,j);
+                pair<int,int> p(j,t);
+                history[p] = aspectSearch->traversePath(v,t,j);
+            }
+        }
+    }
+}
+
+void FindCommons::oracle(string aspect, tree option) {
+    int start = network.toInt(aspect);
+    int end = -1;
+    switch (option) {
+        case tree::Herba:
+            end = network.toInt("Herba");
+        break;
+        case tree::Metallum:
+            end = network.toInt("Metallum");
+        break;
+        case tree::Praecantatio:
+            end = network.toInt("Praecantatio");
+    }
+    pair<int,int> p(start,end);
+    pair<int,int> rp(end,start);
+    vector<int>* v;
+    if (history.count(p)>0) {
+        v = history[p];
+    } else if (history.count(rp)>0) {
+        v = history[rp];
+    } else {
+        v = aspectSearch->getPath(end,start);
+        v = aspectSearch->traversePath(v, end,start);
+    }
+    cout << v->size() << endl;
+    cout << p.first << ' ' << p.second << endl;
+    for (int i = 0; i<v->size(); i++) {
+        cout << network.toString((*v)[i]) << ' ';
+    }
+    cout << endl;
 }
 
 void FindCommons::addNode(string s) {
@@ -72,7 +127,7 @@ void FindCommons::inputHistory(string path) {
 /*
 file format (when something repeats twice and is followed by ... <> then it will repeat <> times in file)
 :
-history_size dij_size
+history_size
 nodeA0 nodeB0
 node0 node0_count
 0link0 0link1 ... <node0_count>
@@ -88,28 +143,24 @@ node1 node1_count
 ... <history_size>
 */
 void FindCommons::outputHistory(string path) const {
-    ofstream write(path);
-    write << history.size() << ' ' << nodes.size() << endl;
+    ofstream write(path, ofstream::trunc);
+    write << history.size() << endl;
     for (map<pair<int,int>,vector<int>*>::const_iterator i = history.cbegin(); i!=history.cend(); i++) {
         pair<int,int> query = i->first;
-        vector<int>* dij = history.at(query);
+        vector<int> path = *history.at(query);
         string nodeA = network.toString(query.first);
         string nodeB = network.toString(query.second);
-        write << nodeA << ' ' << nodeB << endl;
-        for (int i = 0; i<nodes.size(); i++) {
-            string node = network.toString(i);
-            int count = dij[i].size();
-            write << node << ' ' << count << endl;
-            for (int j = 0; j<count; j++) {
-                write << network.toString(dij[i][j]);
-                if (j<count-1) {
-                    write << ' ';
-                } else {
-                    write << '\n';
-                }
+        write << nodeA << ' ' << nodeB << ' ' << path.size() << endl;
+        for (int i = 0; i<path.size(); i++) {
+            write << network.toString(path[i]);
+            if (i<path.size()-1) {
+                write << ' ';
+            } else {
+                write << endl;
             }
         }
     }
+    write.close();
 }
 
 #endif

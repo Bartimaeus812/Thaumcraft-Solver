@@ -14,7 +14,7 @@ class Network {
         
         int toInt(std::string s) const {return idTable.at(s);}
         std::string toString(int i) const {return ridTable.at(i);}
-        size_t size() {return _size;}
+        size_t size() const {return _size;}
     private:
         size_t _size;
         int idCount;

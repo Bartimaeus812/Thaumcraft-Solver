@@ -1,7 +1,7 @@
 #ifndef NETWORK_CC
 #define NETWORK_CC
 
-#include "network.h";
+#include "network.h"
 
 using namespace std;
 
