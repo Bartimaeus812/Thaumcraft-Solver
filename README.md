@@ -18,6 +18,7 @@ Planned capabilities:
   Game Solving: Simulating the game:
 
       Simulating a board:
+        Different board sizes
         Aspect placement on the board
         Holes in the board
       Scoring moves based on maintaining the abundance of research aspects
