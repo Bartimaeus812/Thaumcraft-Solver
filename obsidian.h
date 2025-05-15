@@ -1,3 +1,6 @@
+#ifndef OBSIDIAN_H
+#define OBSIDIAN_H
+
 #include <iostream>
 #include <fstream>
 #include <filesystem>
@@ -6,7 +9,7 @@
 
 class Obsidian {
     public:
-        Obsidian(std::string path, bool isFileNotFolder);
+        Obsidian(std::string path, bool isFileNotFolder = true);
         struct nodeInfo {
             int count {0};
             int maxCount {0};
@@ -21,3 +24,5 @@ class Obsidian {
         std::map<std::string,std::pair<std::string,std::string>*> nodes;
         std::map<std::string,nodeInfo*> nodeData;
 };
+
+#endif

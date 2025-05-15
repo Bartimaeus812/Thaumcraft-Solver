@@ -1,3 +1,6 @@
+#ifndef OBSIDIAN_CC
+#define OBSIDIAN_CC
+
 #include "obsidian.h"
 
 using namespace std;
@@ -122,3 +125,5 @@ const map<string,pair<string,string>*> Obsidian::GetNodes() const {
 const map<string,Obsidian::nodeInfo*> Obsidian::GetData() const {
     return nodeData;
 }
+
+#endif
