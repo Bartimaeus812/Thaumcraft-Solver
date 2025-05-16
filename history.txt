@@ -5,12 +5,12 @@ Aer Vacuos 2
 Aer Vacuos
 Aer Tenebrae 4
 Aer Vacuos Tenebrae Lux
-Aer Aqua 2
-Aer Aqua
-Aer Herba 4
-Aer Aqua Herba Arbor
+Aer Aqua 3
+Aer Aqua Tempestas
 Aer Arbor 2
 Aer Arbor
+Aer Herba 3
+Aer Arbor Herba
 Aer Auram 2
 Aer Auram
 Aer Praecantatio 4
@@ -19,8 +19,8 @@ Aer Bestia 3
 Aer Bestia Motus
 Aer Motus 2
 Aer Motus
-Aer Victus 3
-Aer Aqua Victus
+Aer Victus 12
+Aer Vacuos Aqua Arbor Herba Bestia Motus Victus Spiritus Fames Sensus Tempestas
 Aer Cognitio 6
 Aer Cognitio Ignis Spiritus Lux Sensus
 Aer Ignis 3
@@ -29,8 +29,8 @@ Aer Spiritus 3
 Aer Spiritus Sensus
 Aer Corpus 4
 Aer Bestia Motus Corpus
-Aer Mortuus 10
-Aer Vacuos Aqua Motus Victus Spiritus Mortuus Exanimus Perditio Sensus
+Aer Mortuus 8
+Aer Vacuos Motus Spiritus Mortuus Exanimus Perditio Sensus
 Aer Desidia 6
 Aer Motus Spiritus Desidia Vinculum Sensus
 Aer Vinculum 3
@@ -51,8 +51,8 @@ Aer Perditio 3
 Aer Vacuos Perditio
 Aer Gula 3
 Aer Vacuos Gula
-Aer Terra 8
-Aer Aqua Herba Arbor Motus Victus Terra Iter
+Aer Terra 6
+Aer Arbor Herba Motus Terra Iter
 Aer Infernus 7
 Aer Vacuos Auram Praecantatio Ignis Infernus Lux
 Aer Ordo 3
@@ -63,8 +63,8 @@ Aer Telum 4
 Aer Ignis Telum Lux
 Aer Iter 3
 Aer Motus Iter
-Aer Limus 3
-Aer Aqua Limus
+Aer Limus 4
+Aer Aqua Limus Tempestas
 Aer Lucrum 4
 Aer Vacuos Fames Lucrum
 Aer Lux 2
@@ -73,24 +73,24 @@ Aer Luxuria 4
 Aer Vacuos Fames Luxuria
 Aer Machina 3
 Aer Motus Machina
-Aer Messis 5
-Aer Aqua Herba Arbor Messis
-Aer Metallum 11
-Aer Aqua Herba Arbor Motus Victus Terra Ordo Iter Metallum Vitreus
+Aer Messis 4
+Aer Arbor Herba Messis
+Aer Metallum 9
+Aer Arbor Herba Motus Terra Ordo Iter Metallum Vitreus
 Aer Vitreus 4
 Aer Motus Ordo Vitreus
-Aer Meto 10
-Aer Aqua Herba Arbor Motus Instrumentum Ordo Machina Messis Meto
+Aer Meto 9
+Aer Arbor Herba Motus Instrumentum Ordo Machina Messis Meto
 Aer Pannus 4
 Aer Bestia Motus Pannus
-Aer Perfodio 11
-Aer Aqua Herba Arbor Bestia Motus Victus Humanus Terra Iter Perfodio
+Aer Perfodio 9
+Aer Arbor Herba Bestia Motus Humanus Terra Iter Perfodio
 Aer Permutatio 6
 Aer Vacuos Motus Perditio Ordo Permutatio
 Aer Potentia 9
 Aer Vacuos Auram Praecantatio Motus Ignis Ordo Lux Potentia
-Aer Sano 6
-Aer Aqua Motus Victus Ordo Sano
+Aer Sano 4
+Aer Motus Ordo Sano
 Aer Sensus 2
 Aer Sensus
 Aer Superbia 4
@@ -99,10 +99,10 @@ Aer Volatus 2
 Aer Volatus
 Aer Tempestas 2
 Aer Tempestas
-Aer Tutamen 12
-Aer Aqua Herba Arbor Motus Victus Instrumentum Terra Ordo Iter Machina Tutamen
-Aer Venenum 3
-Aer Aqua Venenum
+Aer Tutamen 10
+Aer Arbor Herba Motus Instrumentum Terra Ordo Iter Machina Tutamen
+Aer Venenum 6
+Aer Vacuos Aqua Perditio Tempestas Venenum
 Aer Vitium 6
 Aer Vacuos Auram Praecantatio Perditio Vitium
 Alienis Aer 3
@@ -111,12 +111,12 @@ Alienis Vacuos 2
 Alienis Vacuos
 Alienis Tenebrae 2
 Alienis Tenebrae
-Alienis Aqua 4
-Aer Alienis Vacuos Aqua
-Alienis Herba 8
-Aer Alienis Vacuos Aqua Herba Arbor Victus Fames
+Alienis Aqua 9
+Aer Alienis Vacuos Aqua Victus Fames Perditio Tempestas Venenum
 Alienis Arbor 4
 Aer Alienis Vacuos Arbor
+Alienis Herba 7
+Aer Alienis Vacuos Arbor Herba Victus Fames
 Alienis Auram 5
 Aer Alienis Vacuos Auram Praecantatio
 Alienis Praecantatio 3
@@ -169,8 +169,8 @@ Alienis Telum 5
 Alienis Tenebrae Ignis Telum Lux
 Alienis Iter 5
 Aer Alienis Vacuos Motus Iter
-Alienis Limus 7
-Aer Alienis Vacuos Aqua Victus Fames Limus
+Alienis Limus 5
+Alienis Vacuos Victus Fames Limus
 Alienis Lucrum 4
 Alienis Vacuos Fames Lucrum
 Alienis Lux 3
@@ -179,14 +179,14 @@ Alienis Luxuria 4
 Alienis Vacuos Fames Luxuria
 Alienis Machina 5
 Aer Alienis Vacuos Motus Machina
-Alienis Messis 11
-Aer Alienis Vacuos Aqua Herba Arbor Victus Humanus Fames Lucrum Messis
+Alienis Messis 10
+Aer Alienis Vacuos Arbor Herba Victus Humanus Fames Lucrum Messis
 Alienis Metallum 6
 Alienis Vacuos Victus Fames Terra Metallum
 Alienis Vitreus 13
 Aer Alienis Vacuos Praecantatio Motus Victus Fames Perditio Terra Ordo Vitreus Permutatio Potentia
-Alienis Meto 24
-Aer Alienis Vacuos Tenebrae Aqua Herba Arbor Praecantatio Motus Victus Ignis Humanus Instrumentum Fames Perditio Ordo Telum Lucrum Lux Machina Messis Meto Permutatio Potentia
+Alienis Meto 23
+Aer Alienis Vacuos Tenebrae Arbor Herba Praecantatio Motus Victus Ignis Humanus Instrumentum Fames Perditio Ordo Telum Lucrum Lux Machina Messis Meto Permutatio Potentia
 Alienis Pannus 8
 Aer Alienis Vacuos Bestia Motus Victus Fames Pannus
 Alienis Perfodio 8
@@ -217,12 +217,12 @@ Vacuos Alienis 2
 Alienis Vacuos
 Vacuos Tenebrae 2
 Vacuos Tenebrae
-Vacuos Aqua 3
-Aer Vacuos Aqua
-Vacuos Herba 7
-Aer Vacuos Aqua Herba Arbor Victus Fames
+Vacuos Aqua 8
+Aer Vacuos Aqua Victus Fames Perditio Tempestas Venenum
 Vacuos Arbor 3
 Aer Vacuos Arbor
+Vacuos Herba 6
+Aer Vacuos Arbor Herba Victus Fames
 Vacuos Auram 4
 Aer Vacuos Auram Praecantatio
 Vacuos Praecantatio 2
@@ -275,8 +275,8 @@ Vacuos Telum 11
 Aer Vacuos Tenebrae Praecantatio Ignis Gelum Perditio Infernus Telum Lux Potentia
 Vacuos Iter 4
 Aer Vacuos Motus Iter
-Vacuos Limus 6
-Aer Vacuos Aqua Victus Fames Limus
+Vacuos Limus 4
+Vacuos Victus Fames Limus
 Vacuos Lucrum 3
 Vacuos Fames Lucrum
 Vacuos Lux 4
@@ -285,14 +285,14 @@ Vacuos Luxuria 3
 Vacuos Fames Luxuria
 Vacuos Machina 4
 Aer Vacuos Motus Machina
-Vacuos Messis 10
-Aer Vacuos Aqua Herba Arbor Victus Humanus Fames Lucrum Messis
+Vacuos Messis 9
+Aer Vacuos Arbor Herba Victus Humanus Fames Lucrum Messis
 Vacuos Metallum 5
 Vacuos Victus Fames Terra Metallum
 Vacuos Vitreus 12
 Aer Vacuos Praecantatio Motus Victus Fames Perditio Terra Ordo Vitreus Permutatio Potentia
-Vacuos Meto 19
-Aer Vacuos Aqua Herba Arbor Praecantatio Motus Victus Humanus Instrumentum Fames Perditio Ordo Lucrum Machina Messis Meto Permutatio Potentia
+Vacuos Meto 18
+Aer Vacuos Arbor Herba Praecantatio Motus Victus Humanus Instrumentum Fames Perditio Ordo Lucrum Machina Messis Meto Permutatio Potentia
 Vacuos Pannus 7
 Aer Vacuos Bestia Motus Victus Fames Pannus
 Vacuos Perfodio 7
@@ -323,12 +323,12 @@ Tenebrae Alienis 2
 Alienis Tenebrae
 Tenebrae Vacuos 2
 Vacuos Tenebrae
-Tenebrae Aqua 5
-Aer Vacuos Tenebrae Aqua Lux
-Tenebrae Herba 9
-Aer Vacuos Tenebrae Aqua Herba Arbor Victus Fames Lux
+Tenebrae Aqua 10
+Aer Vacuos Tenebrae Aqua Victus Fames Perditio Lux Tempestas Venenum
 Tenebrae Arbor 5
 Aer Vacuos Tenebrae Arbor Lux
+Tenebrae Herba 8
+Aer Vacuos Tenebrae Arbor Herba Victus Fames Lux
 Tenebrae Auram 6
 Aer Vacuos Tenebrae Auram Praecantatio Lux
 Tenebrae Praecantatio 3
@@ -381,8 +381,8 @@ Tenebrae Telum 4
 Tenebrae Ignis Telum Lux
 Tenebrae Iter 6
 Aer Vacuos Tenebrae Motus Iter Lux
-Tenebrae Limus 8
-Aer Vacuos Tenebrae Aqua Victus Fames Limus Lux
+Tenebrae Limus 5
+Vacuos Tenebrae Victus Fames Limus
 Tenebrae Lucrum 4
 Vacuos Tenebrae Fames Lucrum
 Tenebrae Lux 2
@@ -391,8 +391,8 @@ Tenebrae Luxuria 4
 Vacuos Tenebrae Fames Luxuria
 Tenebrae Machina 6
 Aer Vacuos Tenebrae Motus Lux Machina
-Tenebrae Messis 14
-Aer Vacuos Tenebrae Aqua Herba Arbor Victus Cognitio Ignis Humanus Fames Lucrum Lux Messis
+Tenebrae Messis 13
+Aer Vacuos Tenebrae Arbor Herba Victus Cognitio Ignis Humanus Fames Lucrum Lux Messis
 Tenebrae Metallum 6
 Vacuos Tenebrae Victus Fames Terra Metallum
 Tenebrae Vitreus 15
@@ -423,32 +423,32 @@ Tenebrae Venenum 4
 Vacuos Tenebrae Perditio Venenum
 Tenebrae Vitium 5
 Vacuos Tenebrae Praecantatio Perditio Vitium
-Aqua Aer 2
-Aer Aqua
-Aqua Alienis 4
-Aer Alienis Vacuos Aqua
-Aqua Vacuos 3
-Aer Vacuos Aqua
-Aqua Tenebrae 5
-Aer Vacuos Tenebrae Aqua Lux
-Aqua Herba 2
-Aqua Herba
-Aqua Arbor 4
-Aer Aqua Herba Arbor
-Aqua Auram 3
-Aer Aqua Auram
-Aqua Praecantatio 5
-Aer Vacuos Aqua Auram Praecantatio
+Aqua Aer 3
+Aer Aqua Tempestas
+Aqua Alienis 9
+Aer Alienis Vacuos Aqua Victus Fames Perditio Tempestas Venenum
+Aqua Vacuos 8
+Aer Vacuos Aqua Victus Fames Perditio Tempestas Venenum
+Aqua Tenebrae 10
+Aer Vacuos Tenebrae Aqua Victus Fames Perditio Lux Tempestas Venenum
+Aqua Arbor 6
+Aer Aqua Arbor Herba Victus Tempestas
+Aqua Herba 3
+Aqua Herba Victus
+Aqua Auram 4
+Aer Aqua Auram Tempestas
+Aqua Praecantatio 11
+Aer Vacuos Aqua Auram Praecantatio Victus Fames Perditio Tempestas Venenum Vitium
 Aqua Bestia 3
 Aqua Bestia Victus
-Aqua Motus 3
-Aer Aqua Motus
+Aqua Motus 6
+Aer Aqua Bestia Motus Victus Tempestas
 Aqua Victus 2
 Aqua Victus
 Aqua Cognitio 4
 Aqua Victus Cognitio Spiritus
-Aqua Ignis 4
-Aer Aqua Ignis Lux
+Aqua Ignis 11
+Aer Aqua Victus Cognitio Ignis Spiritus Gelum Perditio Lux Tempestas Venenum
 Aqua Spiritus 3
 Aqua Victus Spiritus
 Aqua Corpus 5
@@ -457,104 +457,210 @@ Aqua Mortuus 3
 Aqua Victus Mortuus
 Aqua Desidia 4
 Aqua Victus Spiritus Desidia
-Aqua Vinculum 6
-Aer Aqua Motus Vinculum Perditio Venenum
-Aqua Exanimus 6
-Aer Aqua Motus Victus Mortuus Exanimus
-Aqua Fabrico 7
-Aqua Herba Bestia Victus Fabrico Humanus Messis
-Aqua Humanus 6
-Aqua Herba Bestia Victus Humanus Messis
-Aqua Instrumentum 16
-Aer Aqua Herba Bestia Motus Victus Humanus Instrumentum Terra Ordo Machina Messis Meto Pannus Sano Tutamen
+Aqua Vinculum 4
+Aqua Vinculum Perditio Venenum
+Aqua Exanimus 4
+Aqua Victus Mortuus Exanimus
+Aqua Fabrico 5
+Aqua Bestia Victus Fabrico Humanus
+Aqua Humanus 4
+Aqua Bestia Victus Humanus
+Aqua Instrumentum 10
+Aqua Bestia Victus Humanus Instrumentum Terra Ordo Pannus Sano Tutamen
 Aqua Fames 3
 Aqua Victus Fames
 Aqua Gelum 4
 Aqua Gelum Perditio Venenum
 Aqua Perditio 3
 Aqua Perditio Venenum
-Aqua Gula 6
-Aer Vacuos Aqua Victus Fames Gula
-Aqua Terra 4
-Aqua Herba Victus Terra
-Aqua Infernus 8
-Aer Vacuos Aqua Auram Praecantatio Ignis Infernus Lux
-Aqua Ordo 6
-Aer Aqua Motus Victus Ordo Sano
-Aqua Ira 5
-Aer Aqua Ignis Ira Lux
-Aqua Telum 5
-Aer Aqua Ignis Telum Lux
-Aqua Iter 7
-Aer Aqua Herba Motus Victus Terra Iter
+Aqua Gula 4
+Aqua Victus Fames Gula
+Aqua Terra 3
+Aqua Victus Terra
+Aqua Infernus 17
+Aer Vacuos Aqua Auram Praecantatio Victus Cognitio Ignis Spiritus Fames Gelum Perditio Infernus Lux Tempestas Venenum Vitium
+Aqua Ordo 4
+Aqua Victus Ordo Sano
+Aqua Ira 12
+Aer Aqua Victus Cognitio Ignis Spiritus Gelum Perditio Ira Lux Tempestas Venenum
+Aqua Telum 20
+Aer Aqua Bestia Victus Cognitio Ignis Spiritus Humanus Instrumentum Gelum Perditio Terra Ordo Telum Lux Pannus Sano Tempestas Tutamen Venenum
+Aqua Iter 4
+Aqua Victus Terra Iter
 Aqua Limus 2
 Aqua Limus
 Aqua Lucrum 4
 Aqua Victus Fames Lucrum
-Aqua Lux 3
-Aer Aqua Lux
+Aqua Lux 4
+Aer Aqua Lux Tempestas
 Aqua Luxuria 4
 Aqua Victus Fames Luxuria
-Aqua Machina 4
-Aer Aqua Motus Machina
-Aqua Messis 3
-Aqua Herba Messis
-Aqua Metallum 5
-Aqua Herba Victus Terra Metallum
-Aqua Vitreus 5
-Aqua Herba Victus Terra Vitreus
-Aqua Meto 4
-Aqua Herba Messis Meto
+Aqua Machina 7
+Aer Aqua Bestia Motus Victus Machina Tempestas
+Aqua Messis 4
+Aqua Herba Victus Messis
+Aqua Metallum 4
+Aqua Victus Terra Metallum
+Aqua Vitreus 4
+Aqua Victus Terra Vitreus
+Aqua Meto 5
+Aqua Herba Victus Messis Meto
 Aqua Pannus 4
 Aqua Bestia Victus Pannus
-Aqua Perfodio 5
-Aqua Herba Victus Terra Perfodio
+Aqua Perfodio 4
+Aqua Victus Terra Perfodio
 Aqua Permutatio 4
 Aqua Perditio Permutatio Venenum
-Aqua Potentia 12
-Aer Vacuos Aqua Auram Praecantatio Motus Victus Ignis Ordo Lux Potentia Sano
+Aqua Potentia 5
+Aqua Victus Ordo Potentia Sano
 Aqua Sano 3
 Aqua Victus Sano
-Aqua Sensus 3
-Aer Aqua Sensus
-Aqua Superbia 5
-Aer Vacuos Aqua Superbia Volatus
-Aqua Volatus 3
-Aer Aqua Volatus
+Aqua Sensus 6
+Aer Aqua Victus Spiritus Sensus Tempestas
+Aqua Superbia 10
+Aer Vacuos Aqua Victus Fames Perditio Superbia Volatus Tempestas Venenum
+Aqua Volatus 4
+Aer Aqua Volatus Tempestas
 Aqua Tempestas 2
 Aqua Tempestas
-Aqua Tutamen 5
-Aqua Herba Victus Terra Tutamen
+Aqua Tutamen 4
+Aqua Victus Terra Tutamen
 Aqua Venenum 2
 Aqua Venenum
 Aqua Vitium 4
 Aqua Perditio Venenum Vitium
-Herba Aer 4
-Aer Aqua Herba Arbor
-Herba Alienis 8
-Aer Alienis Vacuos Aqua Herba Arbor Victus Fames
-Herba Vacuos 7
-Aer Vacuos Aqua Herba Arbor Victus Fames
-Herba Tenebrae 9
-Aer Vacuos Tenebrae Aqua Herba Arbor Victus Fames Lux
-Herba Aqua 2
-Aqua Herba
+Arbor Aer 2
+Aer Arbor
+Arbor Alienis 4
+Aer Alienis Vacuos Arbor
+Arbor Vacuos 3
+Aer Vacuos Arbor
+Arbor Tenebrae 5
+Aer Vacuos Tenebrae Arbor Lux
+Arbor Aqua 6
+Aer Aqua Arbor Herba Victus Tempestas
+Arbor Herba 2
+Arbor Herba
+Arbor Auram 3
+Aer Arbor Auram
+Arbor Praecantatio 5
+Aer Vacuos Arbor Auram Praecantatio
+Arbor Bestia 6
+Aer Arbor Herba Bestia Motus Victus
+Arbor Motus 3
+Aer Arbor Motus
+Arbor Victus 3
+Arbor Herba Victus
+Arbor Cognitio 11
+Aer Arbor Herba Victus Cognitio Ignis Spiritus Humanus Lux Messis Sensus
+Arbor Ignis 4
+Aer Arbor Ignis Lux
+Arbor Spiritus 6
+Aer Arbor Herba Victus Spiritus Sensus
+Arbor Corpus 8
+Aer Arbor Herba Bestia Motus Victus Corpus Mortuus
+Arbor Mortuus 4
+Arbor Herba Victus Mortuus
+Arbor Desidia 9
+Aer Arbor Herba Motus Victus Spiritus Desidia Vinculum Sensus
+Arbor Vinculum 4
+Aer Arbor Motus Vinculum
+Arbor Exanimus 4
+Aer Arbor Motus Exanimus
+Arbor Fabrico 5
+Arbor Herba Fabrico Humanus Messis
+Arbor Humanus 4
+Arbor Herba Humanus Messis
+Arbor Instrumentum 12
+Aer Arbor Herba Motus Humanus Instrumentum Terra Ordo Machina Messis Meto Tutamen
+Arbor Fames 6
+Aer Vacuos Arbor Herba Victus Fames
+Arbor Gelum 7
+Aer Vacuos Arbor Ignis Gelum Perditio Lux
+Arbor Perditio 4
+Aer Vacuos Arbor Perditio
+Arbor Gula 4
+Aer Vacuos Arbor Gula
+Arbor Terra 3
+Arbor Herba Terra
+Arbor Infernus 8
+Aer Vacuos Arbor Auram Praecantatio Ignis Infernus Lux
+Arbor Ordo 4
+Aer Arbor Motus Ordo
+Arbor Ira 5
+Aer Arbor Ignis Ira Lux
+Arbor Telum 5
+Aer Arbor Ignis Telum Lux
+Arbor Iter 6
+Aer Arbor Herba Motus Terra Iter
+Arbor Limus 4
+Arbor Herba Victus Limus
+Arbor Lucrum 9
+Aer Vacuos Arbor Herba Victus Humanus Fames Lucrum Messis
+Arbor Lux 3
+Aer Arbor Lux
+Arbor Luxuria 7
+Aer Vacuos Arbor Herba Victus Fames Luxuria
+Arbor Machina 4
+Aer Arbor Motus Machina
+Arbor Messis 3
+Arbor Herba Messis
+Arbor Metallum 4
+Arbor Herba Terra Metallum
+Arbor Vitreus 4
+Arbor Herba Terra Vitreus
+Arbor Meto 4
+Arbor Herba Messis Meto
+Arbor Pannus 7
+Aer Arbor Herba Bestia Motus Victus Pannus
+Arbor Perfodio 4
+Arbor Herba Terra Perfodio
+Arbor Permutatio 7
+Aer Vacuos Arbor Motus Perditio Ordo Permutatio
+Arbor Potentia 10
+Aer Vacuos Arbor Auram Praecantatio Motus Ignis Ordo Lux Potentia
+Arbor Sano 4
+Arbor Herba Victus Sano
+Arbor Sensus 3
+Aer Arbor Sensus
+Arbor Superbia 5
+Aer Vacuos Arbor Superbia Volatus
+Arbor Volatus 3
+Aer Arbor Volatus
+Arbor Tempestas 3
+Aer Arbor Tempestas
+Arbor Tutamen 4
+Arbor Herba Terra Tutamen
+Arbor Venenum 9
+Aer Vacuos Aqua Arbor Herba Victus Perditio Tempestas Venenum
+Arbor Vitium 7
+Aer Vacuos Arbor Auram Praecantatio Perditio Vitium
+Herba Aer 3
+Aer Arbor Herba
+Herba Alienis 7
+Aer Alienis Vacuos Arbor Herba Victus Fames
+Herba Vacuos 6
+Aer Vacuos Arbor Herba Victus Fames
+Herba Tenebrae 8
+Aer Vacuos Tenebrae Arbor Herba Victus Fames Lux
+Herba Aqua 3
+Aqua Herba Victus
 Herba Arbor 2
-Herba Arbor
-Herba Auram 5
-Aer Aqua Herba Arbor Auram
-Herba Praecantatio 9
-Aer Vacuos Aqua Herba Arbor Auram Praecantatio Victus Fames
+Arbor Herba
+Herba Auram 4
+Aer Arbor Herba Auram
+Herba Praecantatio 8
+Aer Vacuos Arbor Herba Auram Praecantatio Victus Fames
 Herba Bestia 3
 Herba Bestia Victus
-Herba Motus 9
-Aer Aqua Herba Arbor Bestia Motus Victus Terra Iter
+Herba Motus 8
+Aer Arbor Herba Bestia Motus Victus Terra Iter
 Herba Victus 2
 Herba Victus
 Herba Cognitio 6
 Herba Victus Cognitio Spiritus Humanus Messis
-Herba Ignis 11
-Aer Aqua Herba Arbor Victus Cognitio Ignis Spiritus Humanus Lux Messis
+Herba Ignis 10
+Aer Arbor Herba Victus Cognitio Ignis Spiritus Humanus Lux Messis
 Herba Spiritus 3
 Herba Victus Spiritus
 Herba Corpus 5
@@ -563,8 +669,8 @@ Herba Mortuus 3
 Herba Victus Mortuus
 Herba Desidia 4
 Herba Victus Spiritus Desidia
-Herba Vinculum 15
-Aer Aqua Herba Arbor Bestia Motus Victus Spiritus Mortuus Desidia Vinculum Perditio Terra Iter Venenum
+Herba Vinculum 13
+Aer Arbor Herba Bestia Motus Victus Spiritus Mortuus Desidia Vinculum Perditio Terra Iter
 Herba Exanimus 4
 Herba Victus Mortuus Exanimus
 Herba Fabrico 4
@@ -575,34 +681,34 @@ Herba Instrumentum 7
 Herba Humanus Instrumentum Terra Messis Meto Tutamen
 Herba Fames 3
 Herba Victus Fames
-Herba Gelum 7
-Aqua Herba Victus Mortuus Gelum Perditio Venenum
-Herba Perditio 6
-Aqua Herba Victus Mortuus Perditio Venenum
+Herba Gelum 5
+Herba Victus Mortuus Gelum Perditio
+Herba Perditio 4
+Herba Victus Mortuus Perditio
 Herba Gula 4
 Herba Victus Fames Gula
 Herba Terra 2
 Herba Terra
-Herba Infernus 16
-Aer Vacuos Aqua Herba Arbor Auram Praecantatio Victus Cognitio Ignis Spiritus Humanus Fames Infernus Lux Messis
+Herba Infernus 15
+Aer Vacuos Arbor Herba Auram Praecantatio Victus Cognitio Ignis Spiritus Humanus Fames Infernus Lux Messis
 Herba Ordo 6
 Herba Victus Terra Ordo Vitreus Sano
-Herba Ira 17
-Aer Aqua Herba Arbor Victus Cognitio Ignis Spiritus Humanus Instrumentum Terra Ira Telum Lux Messis Meto Tutamen
+Herba Ira 16
+Aer Arbor Herba Victus Cognitio Ignis Spiritus Humanus Instrumentum Terra Ira Telum Lux Messis Meto Tutamen
 Herba Telum 8
 Herba Humanus Instrumentum Terra Telum Messis Meto Tutamen
 Herba Iter 3
 Herba Terra Iter
-Herba Limus 4
-Aqua Herba Victus Limus
+Herba Limus 3
+Herba Victus Limus
 Herba Lucrum 6
 Herba Victus Humanus Fames Lucrum Messis
-Herba Lux 5
-Aer Aqua Herba Arbor Lux
+Herba Lux 4
+Aer Arbor Herba Lux
 Herba Luxuria 4
 Herba Victus Fames Luxuria
-Herba Machina 15
-Aer Aqua Herba Arbor Bestia Motus Victus Humanus Instrumentum Terra Iter Machina Messis Meto Tutamen
+Herba Machina 14
+Aer Arbor Herba Bestia Motus Victus Humanus Instrumentum Terra Iter Machina Messis Meto Tutamen
 Herba Messis 2
 Herba Messis
 Herba Metallum 3
@@ -615,132 +721,26 @@ Herba Pannus 4
 Herba Bestia Victus Pannus
 Herba Perfodio 3
 Herba Terra Perfodio
-Herba Permutatio 11
-Aqua Herba Victus Mortuus Perditio Terra Ordo Vitreus Permutatio Sano Venenum
+Herba Permutatio 9
+Herba Victus Mortuus Perditio Terra Ordo Vitreus Permutatio Sano
 Herba Potentia 7
 Herba Victus Terra Ordo Vitreus Potentia Sano
 Herba Sano 3
 Herba Victus Sano
-Herba Sensus 7
-Aer Aqua Herba Arbor Victus Spiritus Sensus
-Herba Superbia 9
-Aer Vacuos Aqua Herba Arbor Victus Fames Superbia Volatus
-Herba Volatus 5
-Aer Aqua Herba Arbor Volatus
-Herba Tempestas 3
-Aqua Herba Tempestas
+Herba Sensus 6
+Aer Arbor Herba Victus Spiritus Sensus
+Herba Superbia 8
+Aer Vacuos Arbor Herba Victus Fames Superbia Volatus
+Herba Volatus 4
+Aer Arbor Herba Volatus
+Herba Tempestas 6
+Aer Aqua Arbor Herba Victus Tempestas
 Herba Tutamen 3
 Herba Terra Tutamen
-Herba Venenum 3
-Aqua Herba Venenum
-Herba Vitium 7
-Aqua Herba Victus Mortuus Perditio Venenum Vitium
-Arbor Aer 2
-Aer Arbor
-Arbor Alienis 4
-Aer Alienis Vacuos Arbor
-Arbor Vacuos 3
-Aer Vacuos Arbor
-Arbor Tenebrae 5
-Aer Vacuos Tenebrae Arbor Lux
-Arbor Aqua 4
-Aer Aqua Herba Arbor
-Arbor Herba 2
-Herba Arbor
-Arbor Auram 3
-Aer Arbor Auram
-Arbor Praecantatio 5
-Aer Vacuos Arbor Auram Praecantatio
-Arbor Bestia 6
-Aer Herba Arbor Bestia Motus Victus
-Arbor Motus 3
-Aer Arbor Motus
-Arbor Victus 3
-Herba Arbor Victus
-Arbor Cognitio 11
-Aer Herba Arbor Victus Cognitio Ignis Spiritus Humanus Lux Messis Sensus
-Arbor Ignis 4
-Aer Arbor Ignis Lux
-Arbor Spiritus 6
-Aer Herba Arbor Victus Spiritus Sensus
-Arbor Corpus 8
-Aer Herba Arbor Bestia Motus Victus Corpus Mortuus
-Arbor Mortuus 4
-Herba Arbor Victus Mortuus
-Arbor Desidia 9
-Aer Herba Arbor Motus Victus Spiritus Desidia Vinculum Sensus
-Arbor Vinculum 4
-Aer Arbor Motus Vinculum
-Arbor Exanimus 4
-Aer Arbor Motus Exanimus
-Arbor Fabrico 5
-Herba Arbor Fabrico Humanus Messis
-Arbor Humanus 4
-Herba Arbor Humanus Messis
-Arbor Instrumentum 12
-Aer Herba Arbor Motus Humanus Instrumentum Terra Ordo Machina Messis Meto Tutamen
-Arbor Fames 6
-Aer Vacuos Herba Arbor Victus Fames
-Arbor Gelum 7
-Aer Vacuos Arbor Ignis Gelum Perditio Lux
-Arbor Perditio 4
-Aer Vacuos Arbor Perditio
-Arbor Gula 4
-Aer Vacuos Arbor Gula
-Arbor Terra 3
-Herba Arbor Terra
-Arbor Infernus 8
-Aer Vacuos Arbor Auram Praecantatio Ignis Infernus Lux
-Arbor Ordo 4
-Aer Arbor Motus Ordo
-Arbor Ira 5
-Aer Arbor Ignis Ira Lux
-Arbor Telum 5
-Aer Arbor Ignis Telum Lux
-Arbor Iter 6
-Aer Herba Arbor Motus Terra Iter
-Arbor Limus 6
-Aer Aqua Herba Arbor Victus Limus
-Arbor Lucrum 9
-Aer Vacuos Herba Arbor Victus Humanus Fames Lucrum Messis
-Arbor Lux 3
-Aer Arbor Lux
-Arbor Luxuria 7
-Aer Vacuos Herba Arbor Victus Fames Luxuria
-Arbor Machina 4
-Aer Arbor Motus Machina
-Arbor Messis 3
-Herba Arbor Messis
-Arbor Metallum 4
-Herba Arbor Terra Metallum
-Arbor Vitreus 4
-Herba Arbor Terra Vitreus
-Arbor Meto 4
-Herba Arbor Messis Meto
-Arbor Pannus 7
-Aer Herba Arbor Bestia Motus Victus Pannus
-Arbor Perfodio 4
-Herba Arbor Terra Perfodio
-Arbor Permutatio 7
-Aer Vacuos Arbor Motus Perditio Ordo Permutatio
-Arbor Potentia 10
-Aer Vacuos Arbor Auram Praecantatio Motus Ignis Ordo Lux Potentia
-Arbor Sano 4
-Herba Arbor Victus Sano
-Arbor Sensus 3
-Aer Arbor Sensus
-Arbor Superbia 5
-Aer Vacuos Arbor Superbia Volatus
-Arbor Volatus 3
-Aer Arbor Volatus
-Arbor Tempestas 3
-Aer Arbor Tempestas
-Arbor Tutamen 4
-Herba Arbor Terra Tutamen
-Arbor Venenum 5
-Aer Aqua Herba Arbor Venenum
-Arbor Vitium 7
-Aer Vacuos Arbor Auram Praecantatio Perditio Vitium
+Herba Venenum 4
+Aqua Herba Victus Venenum
+Herba Vitium 5
+Herba Victus Mortuus Perditio Vitium
 Auram Aer 2
 Aer Auram
 Auram Alienis 5
@@ -749,20 +749,20 @@ Auram Vacuos 4
 Aer Vacuos Auram Praecantatio
 Auram Tenebrae 6
 Aer Vacuos Tenebrae Auram Praecantatio Lux
-Auram Aqua 3
-Aer Aqua Auram
-Auram Herba 5
-Aer Aqua Herba Arbor Auram
+Auram Aqua 4
+Aer Aqua Auram Tempestas
 Auram Arbor 3
 Aer Arbor Auram
+Auram Herba 4
+Aer Arbor Herba Auram
 Auram Praecantatio 2
 Auram Praecantatio
 Auram Bestia 4
 Aer Auram Bestia Motus
 Auram Motus 3
 Aer Auram Motus
-Auram Victus 4
-Aer Aqua Auram Victus
+Auram Victus 14
+Aer Vacuos Aqua Arbor Herba Auram Praecantatio Bestia Motus Victus Spiritus Fames Sensus Tempestas
 Auram Cognitio 10
 Aer Auram Praecantatio Cognitio Ignis Spiritus Infernus Lux Potentia Sensus
 Auram Ignis 7
@@ -771,8 +771,8 @@ Auram Spiritus 4
 Aer Auram Spiritus Sensus
 Auram Corpus 5
 Aer Auram Bestia Motus Corpus
-Auram Mortuus 13
-Aer Vacuos Aqua Auram Praecantatio Motus Victus Spiritus Mortuus Exanimus Perditio Sensus Vitium
+Auram Mortuus 11
+Aer Vacuos Auram Praecantatio Motus Spiritus Mortuus Exanimus Perditio Sensus Vitium
 Auram Desidia 7
 Aer Auram Motus Spiritus Desidia Vinculum Sensus
 Auram Vinculum 4
@@ -793,8 +793,8 @@ Auram Perditio 6
 Aer Vacuos Auram Praecantatio Perditio Vitium
 Auram Gula 5
 Aer Vacuos Auram Praecantatio Gula
-Auram Terra 9
-Aer Aqua Herba Arbor Auram Motus Victus Terra Iter
+Auram Terra 7
+Aer Arbor Herba Auram Motus Terra Iter
 Auram Infernus 3
 Auram Praecantatio Infernus
 Auram Ordo 6
@@ -805,8 +805,8 @@ Auram Telum 8
 Aer Auram Praecantatio Ignis Infernus Telum Lux Potentia
 Auram Iter 4
 Aer Auram Motus Iter
-Auram Limus 4
-Aer Aqua Auram Limus
+Auram Limus 5
+Aer Aqua Auram Limus Tempestas
 Auram Lucrum 6
 Aer Vacuos Auram Praecantatio Fames Lucrum
 Auram Lux 3
@@ -815,24 +815,24 @@ Auram Luxuria 6
 Aer Vacuos Auram Praecantatio Fames Luxuria
 Auram Machina 4
 Aer Auram Motus Machina
-Auram Messis 6
-Aer Aqua Herba Arbor Auram Messis
-Auram Metallum 14
-Aer Aqua Herba Arbor Auram Praecantatio Motus Victus Terra Ordo Iter Metallum Vitreus Potentia
+Auram Messis 5
+Aer Arbor Herba Auram Messis
+Auram Metallum 12
+Aer Arbor Herba Auram Praecantatio Motus Terra Ordo Iter Metallum Vitreus Potentia
 Auram Vitreus 7
 Aer Auram Praecantatio Motus Ordo Vitreus Potentia
-Auram Meto 13
-Aer Aqua Herba Arbor Auram Praecantatio Motus Instrumentum Ordo Machina Messis Meto Potentia
+Auram Meto 12
+Aer Arbor Herba Auram Praecantatio Motus Instrumentum Ordo Machina Messis Meto Potentia
 Auram Pannus 5
 Aer Auram Bestia Motus Pannus
-Auram Perfodio 12
-Aer Aqua Herba Arbor Auram Bestia Motus Victus Humanus Terra Iter Perfodio
+Auram Perfodio 10
+Aer Arbor Herba Auram Bestia Motus Humanus Terra Iter Perfodio
 Auram Permutatio 10
 Aer Vacuos Auram Praecantatio Motus Perditio Ordo Permutatio Potentia Vitium
 Auram Potentia 3
 Auram Praecantatio Potentia
-Auram Sano 9
-Aer Aqua Auram Praecantatio Motus Victus Ordo Potentia Sano
+Auram Sano 7
+Aer Auram Praecantatio Motus Ordo Potentia Sano
 Auram Sensus 3
 Aer Auram Sensus
 Auram Superbia 6
@@ -841,10 +841,10 @@ Auram Volatus 3
 Aer Auram Volatus
 Auram Tempestas 3
 Aer Auram Tempestas
-Auram Tutamen 15
-Aer Aqua Herba Arbor Auram Praecantatio Motus Victus Instrumentum Terra Ordo Iter Machina Potentia Tutamen
-Auram Venenum 4
-Aer Aqua Auram Venenum
+Auram Tutamen 13
+Aer Arbor Herba Auram Praecantatio Motus Instrumentum Terra Ordo Iter Machina Potentia Tutamen
+Auram Venenum 9
+Aer Vacuos Aqua Auram Praecantatio Perditio Tempestas Venenum Vitium
 Auram Vitium 3
 Auram Praecantatio Vitium
 Praecantatio Aer 4
@@ -855,12 +855,12 @@ Praecantatio Vacuos 2
 Vacuos Praecantatio
 Praecantatio Tenebrae 3
 Vacuos Tenebrae Praecantatio
-Praecantatio Aqua 5
-Aer Vacuos Aqua Auram Praecantatio
-Praecantatio Herba 9
-Aer Vacuos Aqua Herba Arbor Auram Praecantatio Victus Fames
+Praecantatio Aqua 11
+Aer Vacuos Aqua Auram Praecantatio Victus Fames Perditio Tempestas Venenum Vitium
 Praecantatio Arbor 5
 Aer Vacuos Arbor Auram Praecantatio
+Praecantatio Herba 8
+Aer Vacuos Arbor Herba Auram Praecantatio Victus Fames
 Praecantatio Auram 2
 Auram Praecantatio
 Praecantatio Bestia 10
@@ -911,8 +911,8 @@ Praecantatio Telum 5
 Praecantatio Ignis Infernus Telum Potentia
 Praecantatio Iter 8
 Aer Vacuos Auram Praecantatio Motus Ordo Iter Potentia
-Praecantatio Limus 8
-Aer Vacuos Aqua Auram Praecantatio Victus Fames Limus
+Praecantatio Limus 5
+Vacuos Praecantatio Victus Fames Limus
 Praecantatio Lucrum 4
 Vacuos Praecantatio Fames Lucrum
 Praecantatio Lux 9
@@ -921,8 +921,8 @@ Praecantatio Luxuria 4
 Vacuos Praecantatio Fames Luxuria
 Praecantatio Machina 9
 Aer Vacuos Auram Praecantatio Motus Instrumentum Ordo Machina Potentia
-Praecantatio Messis 19
-Aer Vacuos Aqua Herba Arbor Auram Praecantatio Victus Cognitio Ignis Humanus Instrumentum Fames Infernus Ordo Lucrum Messis Meto Potentia
+Praecantatio Messis 18
+Aer Vacuos Arbor Herba Auram Praecantatio Victus Cognitio Ignis Humanus Instrumentum Fames Infernus Ordo Lucrum Messis Meto Potentia
 Praecantatio Metallum 5
 Praecantatio Ordo Metallum Vitreus Potentia
 Praecantatio Vitreus 4
@@ -963,10 +963,10 @@ Bestia Tenebrae 8
 Aer Vacuos Tenebrae Bestia Motus Victus Fames Lux
 Bestia Aqua 3
 Aqua Bestia Victus
+Bestia Arbor 6
+Aer Arbor Herba Bestia Motus Victus
 Bestia Herba 3
 Herba Bestia Victus
-Bestia Arbor 6
-Aer Herba Arbor Bestia Motus Victus
 Bestia Auram 4
 Aer Auram Bestia Motus
 Bestia Praecantatio 10
@@ -1067,12 +1067,12 @@ Motus Vacuos 3
 Aer Vacuos Motus
 Motus Tenebrae 5
 Aer Vacuos Tenebrae Motus Lux
-Motus Aqua 3
-Aer Aqua Motus
-Motus Herba 9
-Aer Aqua Herba Arbor Bestia Motus Victus Terra Iter
+Motus Aqua 6
+Aer Aqua Bestia Motus Victus Tempestas
 Motus Arbor 3
 Aer Arbor Motus
+Motus Herba 8
+Aer Arbor Herba Bestia Motus Victus Terra Iter
 Motus Auram 3
 Aer Auram Motus
 Motus Praecantatio 7
@@ -1123,8 +1123,8 @@ Motus Telum 5
 Motus Instrumentum Ordo Telum Machina
 Motus Iter 2
 Motus Iter
-Motus Limus 6
-Aer Aqua Bestia Motus Victus Limus
+Motus Limus 4
+Bestia Motus Victus Limus
 Motus Lucrum 4
 Bestia Motus Humanus Lucrum
 Motus Lux 3
@@ -1161,12 +1161,12 @@ Motus Tempestas 3
 Aer Motus Tempestas
 Motus Tutamen 7
 Motus Instrumentum Terra Ordo Iter Machina Tutamen
-Motus Venenum 6
-Aer Aqua Motus Vinculum Perditio Venenum
+Motus Venenum 4
+Motus Vinculum Perditio Venenum
 Motus Vitium 4
 Motus Vinculum Perditio Vitium
-Victus Aer 3
-Aer Aqua Victus
+Victus Aer 12
+Aer Vacuos Aqua Arbor Herba Bestia Motus Victus Spiritus Fames Sensus Tempestas
 Victus Alienis 4
 Alienis Vacuos Victus Fames
 Victus Vacuos 3
@@ -1175,12 +1175,12 @@ Victus Tenebrae 4
 Vacuos Tenebrae Victus Fames
 Victus Aqua 2
 Aqua Victus
+Victus Arbor 3
+Arbor Herba Victus
 Victus Herba 2
 Herba Victus
-Victus Arbor 3
-Herba Arbor Victus
-Victus Auram 4
-Aer Aqua Auram Victus
+Victus Auram 14
+Aer Vacuos Aqua Arbor Herba Auram Praecantatio Bestia Motus Victus Spiritus Fames Sensus Tempestas
 Victus Praecantatio 4
 Vacuos Praecantatio Victus Fames
 Victus Bestia 2
@@ -1233,8 +1233,8 @@ Victus Limus 2
 Victus Limus
 Victus Lucrum 3
 Victus Fames Lucrum
-Victus Lux 4
-Aer Aqua Victus Lux
+Victus Lux 16
+Aer Vacuos Tenebrae Aqua Arbor Herba Bestia Motus Victus Cognitio Ignis Spiritus Fames Lux Sensus Tempestas
 Victus Luxuria 3
 Victus Fames Luxuria
 Victus Machina 4
@@ -1261,8 +1261,8 @@ Victus Sensus 3
 Victus Spiritus Sensus
 Victus Superbia 4
 Vacuos Victus Fames Superbia
-Victus Volatus 6
-Aer Aqua Bestia Motus Victus Volatus
+Victus Volatus 4
+Bestia Motus Victus Volatus
 Victus Tempestas 3
 Aqua Victus Tempestas
 Victus Tutamen 3
@@ -1281,10 +1281,10 @@ Cognitio Tenebrae 4
 Tenebrae Cognitio Ignis Lux
 Cognitio Aqua 4
 Aqua Victus Cognitio Spiritus
+Cognitio Arbor 11
+Aer Arbor Herba Victus Cognitio Ignis Spiritus Humanus Lux Messis Sensus
 Cognitio Herba 6
 Herba Victus Cognitio Spiritus Humanus Messis
-Cognitio Arbor 11
-Aer Herba Arbor Victus Cognitio Ignis Spiritus Humanus Lux Messis Sensus
 Cognitio Auram 10
 Aer Auram Praecantatio Cognitio Ignis Spiritus Infernus Lux Potentia Sensus
 Cognitio Praecantatio 5
@@ -1385,12 +1385,12 @@ Ignis Vacuos 10
 Aer Vacuos Tenebrae Praecantatio Ignis Gelum Perditio Infernus Lux Potentia
 Ignis Tenebrae 3
 Tenebrae Ignis Lux
-Ignis Aqua 4
-Aer Aqua Ignis Lux
-Ignis Herba 11
-Aer Aqua Herba Arbor Victus Cognitio Ignis Spiritus Humanus Lux Messis
+Ignis Aqua 11
+Aer Aqua Victus Cognitio Ignis Spiritus Gelum Perditio Lux Tempestas Venenum
 Ignis Arbor 4
 Aer Arbor Ignis Lux
+Ignis Herba 10
+Aer Arbor Herba Victus Cognitio Ignis Spiritus Humanus Lux Messis
 Ignis Auram 7
 Aer Auram Praecantatio Ignis Infernus Lux Potentia
 Ignis Praecantatio 4
@@ -1441,8 +1441,8 @@ Ignis Telum 2
 Ignis Telum
 Ignis Iter 7
 Aer Motus Ignis Ordo Iter Lux Potentia
-Ignis Limus 8
-Aer Aqua Victus Cognitio Ignis Spiritus Limus Lux
+Ignis Limus 5
+Victus Cognitio Ignis Spiritus Limus
 Ignis Lucrum 4
 Cognitio Ignis Humanus Lucrum
 Ignis Lux 2
@@ -1493,10 +1493,10 @@ Spiritus Tenebrae 12
 Aer Vacuos Tenebrae Victus Cognitio Ignis Spiritus Mortuus Fames Perditio Lux Sensus
 Spiritus Aqua 3
 Aqua Victus Spiritus
+Spiritus Arbor 6
+Aer Arbor Herba Victus Spiritus Sensus
 Spiritus Herba 3
 Herba Victus Spiritus
-Spiritus Arbor 6
-Aer Herba Arbor Victus Spiritus Sensus
 Spiritus Auram 4
 Aer Auram Spiritus Sensus
 Spiritus Praecantatio 15
@@ -1599,10 +1599,10 @@ Corpus Tenebrae 7
 Vacuos Tenebrae Corpus Mortuus Fames Perditio Luxuria
 Corpus Aqua 5
 Aqua Bestia Victus Corpus Mortuus
+Corpus Arbor 8
+Aer Arbor Herba Bestia Motus Victus Corpus Mortuus
 Corpus Herba 5
 Herba Bestia Victus Corpus Mortuus
-Corpus Arbor 8
-Aer Herba Arbor Bestia Motus Victus Corpus Mortuus
 Corpus Auram 5
 Aer Auram Bestia Motus Corpus
 Corpus Praecantatio 8
@@ -1695,8 +1695,8 @@ Corpus Venenum 4
 Corpus Mortuus Perditio Venenum
 Corpus Vitium 4
 Corpus Mortuus Perditio Vitium
-Mortuus Aer 10
-Aer Vacuos Aqua Motus Victus Spiritus Mortuus Exanimus Perditio Sensus
+Mortuus Aer 8
+Aer Vacuos Motus Spiritus Mortuus Exanimus Perditio Sensus
 Mortuus Alienis 4
 Alienis Vacuos Mortuus Perditio
 Mortuus Vacuos 3
@@ -1705,12 +1705,12 @@ Mortuus Tenebrae 4
 Vacuos Tenebrae Mortuus Perditio
 Mortuus Aqua 3
 Aqua Victus Mortuus
+Mortuus Arbor 4
+Arbor Herba Victus Mortuus
 Mortuus Herba 3
 Herba Victus Mortuus
-Mortuus Arbor 4
-Herba Arbor Victus Mortuus
-Mortuus Auram 13
-Aer Vacuos Aqua Auram Praecantatio Motus Victus Spiritus Mortuus Exanimus Perditio Sensus Vitium
+Mortuus Auram 11
+Aer Vacuos Auram Praecantatio Motus Spiritus Mortuus Exanimus Perditio Sensus Vitium
 Mortuus Praecantatio 5
 Vacuos Praecantatio Mortuus Perditio Vitium
 Mortuus Bestia 4
@@ -1763,8 +1763,8 @@ Mortuus Limus 3
 Victus Mortuus Limus
 Mortuus Lucrum 4
 Victus Mortuus Fames Lucrum
-Mortuus Lux 15
-Aer Vacuos Tenebrae Aqua Motus Victus Cognitio Ignis Spiritus Mortuus Exanimus Gelum Perditio Lux Sensus
+Mortuus Lux 13
+Aer Vacuos Tenebrae Motus Cognitio Ignis Spiritus Mortuus Exanimus Gelum Perditio Lux Sensus
 Mortuus Luxuria 3
 Corpus Mortuus Luxuria
 Mortuus Machina 4
@@ -1811,10 +1811,10 @@ Desidia Tenebrae 5
 Vacuos Tenebrae Desidia Vinculum Perditio
 Desidia Aqua 4
 Aqua Victus Spiritus Desidia
+Desidia Arbor 9
+Aer Arbor Herba Motus Victus Spiritus Desidia Vinculum Sensus
 Desidia Herba 4
 Herba Victus Spiritus Desidia
-Desidia Arbor 9
-Aer Herba Arbor Motus Victus Spiritus Desidia Vinculum Sensus
 Desidia Auram 7
 Aer Auram Motus Spiritus Desidia Vinculum Sensus
 Desidia Praecantatio 6
@@ -1915,12 +1915,12 @@ Vinculum Vacuos 3
 Vacuos Vinculum Perditio
 Vinculum Tenebrae 4
 Vacuos Tenebrae Vinculum Perditio
-Vinculum Aqua 6
-Aer Aqua Motus Vinculum Perditio Venenum
-Vinculum Herba 15
-Aer Aqua Herba Arbor Bestia Motus Victus Spiritus Mortuus Desidia Vinculum Perditio Terra Iter Venenum
+Vinculum Aqua 4
+Aqua Vinculum Perditio Venenum
 Vinculum Arbor 4
 Aer Arbor Motus Vinculum
+Vinculum Herba 13
+Aer Arbor Herba Bestia Motus Victus Spiritus Mortuus Desidia Vinculum Perditio Terra Iter
 Vinculum Auram 4
 Aer Auram Motus Vinculum
 Vinculum Praecantatio 5
@@ -1971,8 +1971,8 @@ Vinculum Telum 9
 Motus Ignis Vinculum Instrumentum Gelum Perditio Ordo Telum Machina
 Vinculum Iter 3
 Motus Vinculum Iter
-Vinculum Limus 12
-Aer Aqua Bestia Motus Victus Spiritus Mortuus Desidia Vinculum Perditio Limus Venenum
+Vinculum Limus 11
+Aqua Bestia Motus Victus Spiritus Mortuus Desidia Vinculum Perditio Limus Venenum
 Vinculum Lucrum 8
 Vacuos Bestia Motus Vinculum Humanus Fames Perditio Lucrum
 Vinculum Lux 4
@@ -2021,12 +2021,12 @@ Exanimus Vacuos 6
 Aer Vacuos Motus Mortuus Exanimus Perditio
 Exanimus Tenebrae 8
 Aer Vacuos Tenebrae Motus Mortuus Exanimus Perditio Lux
-Exanimus Aqua 6
-Aer Aqua Motus Victus Mortuus Exanimus
-Exanimus Herba 4
-Herba Victus Mortuus Exanimus
+Exanimus Aqua 4
+Aqua Victus Mortuus Exanimus
 Exanimus Arbor 4
 Aer Arbor Motus Exanimus
+Exanimus Herba 4
+Herba Victus Mortuus Exanimus
 Exanimus Auram 4
 Aer Auram Motus Exanimus
 Exanimus Praecantatio 11
@@ -2127,12 +2127,12 @@ Fabrico Vacuos 5
 Vacuos Fabrico Humanus Fames Lucrum
 Fabrico Tenebrae 11
 Vacuos Tenebrae Cognitio Ignis Fabrico Humanus Instrumentum Fames Telum Lucrum Lux
-Fabrico Aqua 7
-Aqua Herba Bestia Victus Fabrico Humanus Messis
+Fabrico Aqua 5
+Aqua Bestia Victus Fabrico Humanus
+Fabrico Arbor 5
+Arbor Herba Fabrico Humanus Messis
 Fabrico Herba 4
 Herba Fabrico Humanus Messis
-Fabrico Arbor 5
-Herba Arbor Fabrico Humanus Messis
 Fabrico Auram 11
 Aer Auram Praecantatio Bestia Motus Fabrico Humanus Instrumentum Ordo Machina Potentia
 Fabrico Praecantatio 5
@@ -2217,12 +2217,12 @@ Fabrico Superbia 12
 Vacuos Bestia Motus Fabrico Humanus Instrumentum Fames Ordo Lucrum Machina Superbia Volatus
 Fabrico Volatus 8
 Bestia Motus Fabrico Humanus Instrumentum Ordo Machina Volatus
-Fabrico Tempestas 13
-Aer Aqua Herba Bestia Motus Victus Fabrico Humanus Instrumentum Ordo Machina Messis Tempestas
+Fabrico Tempestas 11
+Aer Aqua Bestia Motus Victus Fabrico Humanus Instrumentum Ordo Machina Tempestas
 Fabrico Tutamen 3
 Fabrico Instrumentum Tutamen
-Fabrico Venenum 12
-Aqua Herba Bestia Victus Fabrico Humanus Instrumentum Perditio Ordo Messis Permutatio Venenum
+Fabrico Venenum 10
+Aqua Bestia Victus Fabrico Humanus Instrumentum Perditio Ordo Permutatio Venenum
 Fabrico Vitium 8
 Praecantatio Fabrico Instrumentum Perditio Ordo Permutatio Potentia Vitium
 Humanus Aer 4
@@ -2233,12 +2233,12 @@ Humanus Vacuos 4
 Vacuos Humanus Fames Lucrum
 Humanus Tenebrae 8
 Vacuos Tenebrae Cognitio Ignis Humanus Fames Lucrum Lux
-Humanus Aqua 6
-Aqua Herba Bestia Victus Humanus Messis
+Humanus Aqua 4
+Aqua Bestia Victus Humanus
+Humanus Arbor 4
+Arbor Herba Humanus Messis
 Humanus Herba 3
 Herba Humanus Messis
-Humanus Arbor 4
-Herba Arbor Humanus Messis
 Humanus Auram 5
 Aer Auram Bestia Motus Humanus
 Humanus Praecantatio 11
@@ -2323,12 +2323,12 @@ Humanus Superbia 8
 Vacuos Bestia Motus Humanus Fames Lucrum Superbia Volatus
 Humanus Volatus 4
 Bestia Motus Humanus Volatus
-Humanus Tempestas 9
-Aer Aqua Herba Bestia Motus Victus Humanus Messis Tempestas
+Humanus Tempestas 7
+Aer Aqua Bestia Motus Victus Humanus Tempestas
 Humanus Tutamen 3
 Humanus Instrumentum Tutamen
-Humanus Venenum 7
-Aqua Herba Bestia Victus Humanus Messis Venenum
+Humanus Venenum 5
+Aqua Bestia Victus Humanus Venenum
 Humanus Vitium 22
 Vacuos Praecantatio Bestia Motus Victus Cognitio Ignis Spiritus Corpus Mortuus Vinculum Humanus Instrumentum Fames Gelum Perditio Infernus Ordo Lucrum Permutatio Potentia Vitium
 Instrumentum Aer 5
@@ -2339,12 +2339,12 @@ Instrumentum Vacuos 13
 Aer Vacuos Praecantatio Motus Humanus Instrumentum Fames Perditio Ordo Lucrum Machina Permutatio Potentia
 Instrumentum Tenebrae 5
 Tenebrae Ignis Instrumentum Telum Lux
-Instrumentum Aqua 16
-Aer Aqua Herba Bestia Motus Victus Humanus Instrumentum Terra Ordo Machina Messis Meto Pannus Sano Tutamen
+Instrumentum Aqua 10
+Aqua Bestia Victus Humanus Instrumentum Terra Ordo Pannus Sano Tutamen
+Instrumentum Arbor 12
+Aer Arbor Herba Motus Humanus Instrumentum Terra Ordo Machina Messis Meto Tutamen
 Instrumentum Herba 7
 Herba Humanus Instrumentum Terra Messis Meto Tutamen
-Instrumentum Arbor 12
-Aer Herba Arbor Motus Humanus Instrumentum Terra Ordo Machina Messis Meto Tutamen
 Instrumentum Auram 8
 Aer Auram Praecantatio Motus Instrumentum Ordo Machina Potentia
 Instrumentum Praecantatio 4
@@ -2447,10 +2447,10 @@ Fames Tenebrae 3
 Vacuos Tenebrae Fames
 Fames Aqua 3
 Aqua Victus Fames
+Fames Arbor 6
+Aer Vacuos Arbor Herba Victus Fames
 Fames Herba 3
 Herba Victus Fames
-Fames Arbor 6
-Aer Vacuos Herba Arbor Victus Fames
 Fames Auram 5
 Aer Vacuos Auram Praecantatio Fames
 Fames Praecantatio 3
@@ -2553,10 +2553,10 @@ Gelum Tenebrae 6
 Vacuos Tenebrae Ignis Gelum Perditio Lux
 Gelum Aqua 4
 Aqua Gelum Perditio Venenum
-Gelum Herba 7
-Aqua Herba Victus Mortuus Gelum Perditio Venenum
 Gelum Arbor 7
 Aer Vacuos Arbor Ignis Gelum Perditio Lux
+Gelum Herba 5
+Herba Victus Mortuus Gelum Perditio
 Gelum Auram 11
 Aer Vacuos Auram Praecantatio Ignis Gelum Perditio Infernus Lux Potentia Vitium
 Gelum Praecantatio 8
@@ -2659,10 +2659,10 @@ Perditio Tenebrae 3
 Vacuos Tenebrae Perditio
 Perditio Aqua 3
 Aqua Perditio Venenum
-Perditio Herba 6
-Aqua Herba Victus Mortuus Perditio Venenum
 Perditio Arbor 4
 Aer Vacuos Arbor Perditio
+Perditio Herba 4
+Herba Victus Mortuus Perditio
 Perditio Auram 6
 Aer Vacuos Auram Praecantatio Perditio Vitium
 Perditio Praecantatio 4
@@ -2723,8 +2723,8 @@ Perditio Luxuria 6
 Vacuos Corpus Mortuus Fames Perditio Luxuria
 Perditio Machina 4
 Motus Vinculum Perditio Machina
-Perditio Messis 7
-Aqua Herba Victus Mortuus Perditio Messis Venenum
+Perditio Messis 5
+Herba Victus Mortuus Perditio Messis
 Perditio Metallum 8
 Victus Mortuus Perditio Terra Ordo Metallum Vitreus Permutatio
 Perditio Vitreus 4
@@ -2763,12 +2763,12 @@ Gula Vacuos 2
 Vacuos Gula
 Gula Tenebrae 3
 Vacuos Tenebrae Gula
-Gula Aqua 6
-Aer Vacuos Aqua Victus Fames Gula
-Gula Herba 4
-Herba Victus Fames Gula
+Gula Aqua 4
+Aqua Victus Fames Gula
 Gula Arbor 4
 Aer Vacuos Arbor Gula
+Gula Herba 4
+Herba Victus Fames Gula
 Gula Auram 5
 Aer Vacuos Auram Praecantatio Gula
 Gula Praecantatio 3
@@ -2861,22 +2861,22 @@ Gula Venenum 4
 Vacuos Perditio Gula Venenum
 Gula Vitium 5
 Vacuos Praecantatio Perditio Gula Vitium
-Terra Aer 8
-Aer Aqua Herba Arbor Motus Victus Terra Iter
+Terra Aer 6
+Aer Arbor Herba Motus Terra Iter
 Terra Alienis 5
 Alienis Vacuos Victus Fames Terra
 Terra Vacuos 4
 Vacuos Victus Fames Terra
 Terra Tenebrae 5
 Vacuos Tenebrae Victus Fames Terra
-Terra Aqua 4
-Aqua Herba Victus Terra
+Terra Aqua 3
+Aqua Victus Terra
+Terra Arbor 3
+Arbor Herba Terra
 Terra Herba 2
 Herba Terra
-Terra Arbor 3
-Herba Arbor Terra
-Terra Auram 9
-Aer Aqua Herba Arbor Auram Motus Victus Terra Iter
+Terra Auram 7
+Aer Arbor Herba Auram Motus Terra Iter
 Terra Praecantatio 8
 Vacuos Praecantatio Victus Fames Terra Ordo Vitreus Potentia
 Terra Bestia 3
@@ -2929,8 +2929,8 @@ Terra Limus 3
 Victus Terra Limus
 Terra Lucrum 6
 Victus Humanus Fames Terra Lucrum Perfodio
-Terra Lux 9
-Aer Aqua Herba Arbor Motus Victus Terra Iter Lux
+Terra Lux 7
+Aer Arbor Herba Motus Terra Iter Lux
 Terra Luxuria 4
 Victus Fames Terra Luxuria
 Terra Machina 6
@@ -2959,12 +2959,12 @@ Terra Superbia 8
 Vacuos Motus Victus Fames Terra Iter Superbia Volatus
 Terra Volatus 4
 Motus Terra Iter Volatus
-Terra Tempestas 5
-Aqua Herba Victus Terra Tempestas
+Terra Tempestas 4
+Aqua Victus Terra Tempestas
 Terra Tutamen 2
 Terra Tutamen
-Terra Venenum 5
-Aqua Herba Victus Terra Venenum
+Terra Venenum 4
+Aqua Victus Terra Venenum
 Terra Vitium 5
 Victus Mortuus Perditio Terra Vitium
 Infernus Aer 7
@@ -2975,12 +2975,12 @@ Infernus Vacuos 3
 Vacuos Praecantatio Infernus
 Infernus Tenebrae 6
 Vacuos Tenebrae Praecantatio Ignis Infernus Lux
-Infernus Aqua 8
-Aer Vacuos Aqua Auram Praecantatio Ignis Infernus Lux
-Infernus Herba 16
-Aer Vacuos Aqua Herba Arbor Auram Praecantatio Victus Cognitio Ignis Spiritus Humanus Fames Infernus Lux Messis
+Infernus Aqua 17
+Aer Vacuos Aqua Auram Praecantatio Victus Cognitio Ignis Spiritus Fames Gelum Perditio Infernus Lux Tempestas Venenum Vitium
 Infernus Arbor 8
 Aer Vacuos Arbor Auram Praecantatio Ignis Infernus Lux
+Infernus Herba 15
+Aer Vacuos Arbor Herba Auram Praecantatio Victus Cognitio Ignis Spiritus Humanus Fames Infernus Lux Messis
 Infernus Auram 3
 Auram Praecantatio Infernus
 Infernus Praecantatio 2
@@ -3031,8 +3031,8 @@ Infernus Telum 3
 Ignis Infernus Telum
 Infernus Iter 11
 Aer Vacuos Auram Praecantatio Motus Ignis Infernus Ordo Iter Lux Potentia
-Infernus Limus 13
-Aer Vacuos Aqua Auram Praecantatio Victus Cognitio Ignis Spiritus Fames Infernus Limus Lux
+Infernus Limus 9
+Vacuos Praecantatio Victus Cognitio Ignis Spiritus Fames Infernus Limus
 Infernus Lucrum 8
 Vacuos Praecantatio Cognitio Ignis Humanus Fames Infernus Lucrum
 Infernus Lux 3
@@ -3081,12 +3081,12 @@ Ordo Vacuos 8
 Aer Vacuos Praecantatio Motus Perditio Ordo Permutatio Potentia
 Ordo Tenebrae 11
 Aer Vacuos Tenebrae Praecantatio Motus Ignis Perditio Ordo Lux Permutatio Potentia
-Ordo Aqua 6
-Aer Aqua Motus Victus Ordo Sano
-Ordo Herba 6
-Herba Victus Terra Ordo Vitreus Sano
+Ordo Aqua 4
+Aqua Victus Ordo Sano
 Ordo Arbor 4
 Aer Arbor Motus Ordo
+Ordo Herba 6
+Herba Victus Terra Ordo Vitreus Sano
 Ordo Auram 6
 Aer Auram Praecantatio Motus Ordo Potentia
 Ordo Praecantatio 3
@@ -3187,12 +3187,12 @@ Ira Vacuos 11
 Aer Vacuos Tenebrae Praecantatio Ignis Gelum Perditio Infernus Ira Lux Potentia
 Ira Tenebrae 4
 Tenebrae Ignis Ira Lux
-Ira Aqua 5
-Aer Aqua Ignis Ira Lux
-Ira Herba 17
-Aer Aqua Herba Arbor Victus Cognitio Ignis Spiritus Humanus Instrumentum Terra Ira Telum Lux Messis Meto Tutamen
+Ira Aqua 12
+Aer Aqua Victus Cognitio Ignis Spiritus Gelum Perditio Ira Lux Tempestas Venenum
 Ira Arbor 5
 Aer Arbor Ignis Ira Lux
+Ira Herba 16
+Aer Arbor Herba Victus Cognitio Ignis Spiritus Humanus Instrumentum Terra Ira Telum Lux Messis Meto Tutamen
 Ira Auram 8
 Aer Auram Praecantatio Ignis Infernus Ira Lux Potentia
 Ira Praecantatio 5
@@ -3243,8 +3243,8 @@ Ira Telum 2
 Ira Telum
 Ira Iter 13
 Aer Motus Ignis Instrumentum Terra Ordo Ira Telum Iter Lux Machina Potentia Tutamen
-Ira Limus 9
-Aer Aqua Victus Cognitio Ignis Spiritus Ira Limus Lux
+Ira Limus 6
+Victus Cognitio Ignis Spiritus Ira Limus
 Ira Lucrum 7
 Cognitio Ignis Humanus Instrumentum Ira Telum Lucrum
 Ira Lux 3
@@ -3293,12 +3293,12 @@ Telum Vacuos 11
 Aer Vacuos Tenebrae Praecantatio Ignis Gelum Perditio Infernus Telum Lux Potentia
 Telum Tenebrae 4
 Tenebrae Ignis Telum Lux
-Telum Aqua 5
-Aer Aqua Ignis Telum Lux
-Telum Herba 8
-Herba Humanus Instrumentum Terra Telum Messis Meto Tutamen
+Telum Aqua 20
+Aer Aqua Bestia Victus Cognitio Ignis Spiritus Humanus Instrumentum Gelum Perditio Terra Ordo Telum Lux Pannus Sano Tempestas Tutamen Venenum
 Telum Arbor 5
 Aer Arbor Ignis Telum Lux
+Telum Herba 8
+Herba Humanus Instrumentum Terra Telum Messis Meto Tutamen
 Telum Auram 8
 Aer Auram Praecantatio Ignis Infernus Telum Lux Potentia
 Telum Praecantatio 5
@@ -3349,8 +3349,8 @@ Telum Ira 2
 Ira Telum
 Telum Iter 8
 Motus Instrumentum Terra Ordo Telum Iter Machina Tutamen
-Telum Limus 17
-Aer Aqua Bestia Victus Cognitio Ignis Spiritus Humanus Instrumentum Terra Ordo Telum Limus Lux Pannus Sano Tutamen
+Telum Limus 14
+Bestia Victus Cognitio Ignis Spiritus Humanus Instrumentum Terra Ordo Telum Limus Pannus Sano Tutamen
 Telum Lucrum 4
 Humanus Instrumentum Telum Lucrum
 Telum Lux 3
@@ -3399,12 +3399,12 @@ Iter Vacuos 4
 Aer Vacuos Motus Iter
 Iter Tenebrae 6
 Aer Vacuos Tenebrae Motus Iter Lux
-Iter Aqua 7
-Aer Aqua Herba Motus Victus Terra Iter
+Iter Aqua 4
+Aqua Victus Terra Iter
+Iter Arbor 6
+Aer Arbor Herba Motus Terra Iter
 Iter Herba 3
 Herba Terra Iter
-Iter Arbor 6
-Aer Herba Arbor Motus Terra Iter
 Iter Auram 4
 Aer Auram Motus Iter
 Iter Praecantatio 8
@@ -3493,38 +3493,38 @@ Iter Tempestas 4
 Aer Motus Iter Tempestas
 Iter Tutamen 3
 Terra Iter Tutamen
-Iter Venenum 10
-Aer Aqua Herba Motus Victus Vinculum Perditio Terra Iter Venenum
+Iter Venenum 8
+Aqua Motus Victus Vinculum Perditio Terra Iter Venenum
 Iter Vitium 5
 Motus Vinculum Perditio Iter Vitium
-Limus Aer 3
-Aer Aqua Limus
-Limus Alienis 7
-Aer Alienis Vacuos Aqua Victus Fames Limus
-Limus Vacuos 6
-Aer Vacuos Aqua Victus Fames Limus
-Limus Tenebrae 8
-Aer Vacuos Tenebrae Aqua Victus Fames Limus Lux
+Limus Aer 4
+Aer Aqua Limus Tempestas
+Limus Alienis 5
+Alienis Vacuos Victus Fames Limus
+Limus Vacuos 4
+Vacuos Victus Fames Limus
+Limus Tenebrae 5
+Vacuos Tenebrae Victus Fames Limus
 Limus Aqua 2
 Aqua Limus
-Limus Herba 4
-Aqua Herba Victus Limus
-Limus Arbor 6
-Aer Aqua Herba Arbor Victus Limus
-Limus Auram 4
-Aer Aqua Auram Limus
-Limus Praecantatio 8
-Aer Vacuos Aqua Auram Praecantatio Victus Fames Limus
+Limus Arbor 4
+Arbor Herba Victus Limus
+Limus Herba 3
+Herba Victus Limus
+Limus Auram 5
+Aer Aqua Auram Limus Tempestas
+Limus Praecantatio 5
+Vacuos Praecantatio Victus Fames Limus
 Limus Bestia 3
 Bestia Victus Limus
-Limus Motus 6
-Aer Aqua Bestia Motus Victus Limus
+Limus Motus 4
+Bestia Motus Victus Limus
 Limus Victus 2
 Victus Limus
 Limus Cognitio 4
 Victus Cognitio Spiritus Limus
-Limus Ignis 8
-Aer Aqua Victus Cognitio Ignis Spiritus Limus Lux
+Limus Ignis 5
+Victus Cognitio Ignis Spiritus Limus
 Limus Spiritus 3
 Victus Spiritus Limus
 Limus Corpus 5
@@ -3533,8 +3533,8 @@ Limus Mortuus 3
 Victus Mortuus Limus
 Limus Desidia 4
 Victus Spiritus Desidia Limus
-Limus Vinculum 12
-Aer Aqua Bestia Motus Victus Spiritus Mortuus Desidia Vinculum Perditio Limus Venenum
+Limus Vinculum 11
+Aqua Bestia Motus Victus Spiritus Mortuus Desidia Vinculum Perditio Limus Venenum
 Limus Exanimus 4
 Victus Mortuus Exanimus Limus
 Limus Fabrico 5
@@ -3553,32 +3553,32 @@ Limus Gula 4
 Victus Fames Gula Limus
 Limus Terra 3
 Victus Terra Limus
-Limus Infernus 13
-Aer Vacuos Aqua Auram Praecantatio Victus Cognitio Ignis Spiritus Fames Infernus Limus Lux
+Limus Infernus 9
+Vacuos Praecantatio Victus Cognitio Ignis Spiritus Fames Infernus Limus
 Limus Ordo 4
 Victus Ordo Limus Sano
-Limus Ira 9
-Aer Aqua Victus Cognitio Ignis Spiritus Ira Limus Lux
-Limus Telum 17
-Aer Aqua Bestia Victus Cognitio Ignis Spiritus Humanus Instrumentum Terra Ordo Telum Limus Lux Pannus Sano Tutamen
+Limus Ira 6
+Victus Cognitio Ignis Spiritus Ira Limus
+Limus Telum 14
+Bestia Victus Cognitio Ignis Spiritus Humanus Instrumentum Terra Ordo Telum Limus Pannus Sano Tutamen
 Limus Iter 4
 Victus Terra Iter Limus
 Limus Lucrum 4
 Victus Fames Limus Lucrum
-Limus Lux 4
-Aer Aqua Limus Lux
+Limus Lux 5
+Aer Aqua Limus Lux Tempestas
 Limus Luxuria 4
 Victus Fames Limus Luxuria
-Limus Machina 7
-Aer Aqua Bestia Motus Victus Limus Machina
-Limus Messis 5
-Aqua Herba Victus Limus Messis
+Limus Machina 5
+Bestia Motus Victus Limus Machina
+Limus Messis 4
+Herba Victus Limus Messis
 Limus Metallum 4
 Victus Terra Limus Metallum
 Limus Vitreus 4
 Victus Terra Limus Vitreus
-Limus Meto 6
-Aqua Herba Victus Limus Messis Meto
+Limus Meto 5
+Herba Victus Limus Messis Meto
 Limus Pannus 4
 Bestia Victus Limus Pannus
 Limus Perfodio 4
@@ -3589,12 +3589,12 @@ Limus Potentia 5
 Victus Ordo Limus Potentia Sano
 Limus Sano 3
 Victus Limus Sano
-Limus Sensus 6
-Aer Aqua Victus Spiritus Limus Sensus
-Limus Superbia 8
-Aer Vacuos Aqua Victus Fames Limus Superbia Volatus
-Limus Volatus 4
-Aer Aqua Limus Volatus
+Limus Sensus 4
+Victus Spiritus Limus Sensus
+Limus Superbia 5
+Vacuos Victus Fames Limus Superbia
+Limus Volatus 8
+Aer Aqua Bestia Motus Victus Limus Volatus Tempestas
 Limus Tempestas 3
 Aqua Limus Tempestas
 Limus Tutamen 4
@@ -3613,10 +3613,10 @@ Lucrum Tenebrae 4
 Vacuos Tenebrae Fames Lucrum
 Lucrum Aqua 4
 Aqua Victus Fames Lucrum
+Lucrum Arbor 9
+Aer Vacuos Arbor Herba Victus Humanus Fames Lucrum Messis
 Lucrum Herba 6
 Herba Victus Humanus Fames Lucrum Messis
-Lucrum Arbor 9
-Aer Vacuos Herba Arbor Victus Humanus Fames Lucrum Messis
 Lucrum Auram 6
 Aer Vacuos Auram Praecantatio Fames Lucrum
 Lucrum Praecantatio 4
@@ -3717,12 +3717,12 @@ Lux Vacuos 4
 Aer Vacuos Tenebrae Lux
 Lux Tenebrae 2
 Tenebrae Lux
-Lux Aqua 3
-Aer Aqua Lux
-Lux Herba 5
-Aer Aqua Herba Arbor Lux
+Lux Aqua 4
+Aer Aqua Lux Tempestas
 Lux Arbor 3
 Aer Arbor Lux
+Lux Herba 4
+Aer Arbor Herba Lux
 Lux Auram 3
 Aer Auram Lux
 Lux Praecantatio 9
@@ -3731,8 +3731,8 @@ Lux Bestia 4
 Aer Bestia Motus Lux
 Lux Motus 3
 Aer Motus Lux
-Lux Victus 4
-Aer Aqua Victus Lux
+Lux Victus 16
+Aer Vacuos Tenebrae Aqua Arbor Herba Bestia Motus Victus Cognitio Ignis Spiritus Fames Lux Sensus Tempestas
 Lux Cognitio 3
 Cognitio Ignis Lux
 Lux Ignis 2
@@ -3741,8 +3741,8 @@ Lux Spiritus 6
 Aer Cognitio Ignis Spiritus Lux Sensus
 Lux Corpus 5
 Aer Bestia Motus Corpus Lux
-Lux Mortuus 15
-Aer Vacuos Tenebrae Aqua Motus Victus Cognitio Ignis Spiritus Mortuus Exanimus Gelum Perditio Lux Sensus
+Lux Mortuus 13
+Aer Vacuos Tenebrae Motus Cognitio Ignis Spiritus Mortuus Exanimus Gelum Perditio Lux Sensus
 Lux Desidia 9
 Aer Motus Cognitio Ignis Spiritus Desidia Vinculum Lux Sensus
 Lux Vinculum 4
@@ -3763,8 +3763,8 @@ Lux Perditio 7
 Aer Vacuos Tenebrae Ignis Gelum Perditio Lux
 Lux Gula 5
 Aer Vacuos Tenebrae Gula Lux
-Lux Terra 9
-Aer Aqua Herba Arbor Motus Victus Terra Iter Lux
+Lux Terra 7
+Aer Arbor Herba Motus Terra Iter Lux
 Lux Infernus 3
 Ignis Infernus Lux
 Lux Ordo 6
@@ -3775,18 +3775,18 @@ Lux Telum 3
 Ignis Telum Lux
 Lux Iter 4
 Aer Motus Iter Lux
-Lux Limus 4
-Aer Aqua Limus Lux
+Lux Limus 5
+Aer Aqua Limus Lux Tempestas
 Lux Lucrum 9
 Aer Vacuos Tenebrae Cognitio Ignis Humanus Fames Lucrum Lux
 Lux Luxuria 6
 Aer Vacuos Tenebrae Fames Lux Luxuria
 Lux Machina 4
 Aer Motus Lux Machina
-Lux Messis 9
-Aer Aqua Herba Arbor Cognitio Ignis Humanus Lux Messis
-Lux Metallum 14
-Aer Aqua Herba Arbor Motus Victus Ignis Terra Ordo Iter Lux Metallum Vitreus Potentia
+Lux Messis 8
+Aer Arbor Herba Cognitio Ignis Humanus Lux Messis
+Lux Metallum 12
+Aer Arbor Herba Motus Ignis Terra Ordo Iter Lux Metallum Vitreus Potentia
 Lux Vitreus 7
 Aer Motus Ignis Ordo Lux Vitreus Potentia
 Lux Meto 5
@@ -3799,8 +3799,8 @@ Lux Permutatio 11
 Aer Vacuos Tenebrae Motus Ignis Gelum Perditio Ordo Lux Permutatio Potentia
 Lux Potentia 3
 Ignis Lux Potentia
-Lux Sano 9
-Aer Aqua Motus Victus Ignis Ordo Lux Potentia Sano
+Lux Sano 7
+Aer Motus Ignis Ordo Lux Potentia Sano
 Lux Sensus 3
 Aer Lux Sensus
 Lux Superbia 6
@@ -3811,8 +3811,8 @@ Lux Tempestas 3
 Aer Lux Tempestas
 Lux Tutamen 5
 Ignis Instrumentum Telum Lux Tutamen
-Lux Venenum 4
-Aer Aqua Lux Venenum
+Lux Venenum 10
+Aer Vacuos Tenebrae Aqua Ignis Gelum Perditio Lux Tempestas Venenum
 Lux Vitium 12
 Aer Vacuos Tenebrae Auram Praecantatio Ignis Gelum Perditio Infernus Lux Potentia Vitium
 Luxuria Aer 4
@@ -3825,10 +3825,10 @@ Luxuria Tenebrae 4
 Vacuos Tenebrae Fames Luxuria
 Luxuria Aqua 4
 Aqua Victus Fames Luxuria
+Luxuria Arbor 7
+Aer Vacuos Arbor Herba Victus Fames Luxuria
 Luxuria Herba 4
 Herba Victus Fames Luxuria
-Luxuria Arbor 7
-Aer Vacuos Herba Arbor Victus Fames Luxuria
 Luxuria Auram 6
 Aer Vacuos Auram Praecantatio Fames Luxuria
 Luxuria Praecantatio 4
@@ -3929,12 +3929,12 @@ Machina Vacuos 4
 Aer Vacuos Motus Machina
 Machina Tenebrae 6
 Aer Vacuos Tenebrae Motus Lux Machina
-Machina Aqua 4
-Aer Aqua Motus Machina
-Machina Herba 15
-Aer Aqua Herba Arbor Bestia Motus Victus Humanus Instrumentum Terra Iter Machina Messis Meto Tutamen
+Machina Aqua 7
+Aer Aqua Bestia Motus Victus Machina Tempestas
 Machina Arbor 4
 Aer Arbor Motus Machina
+Machina Herba 14
+Aer Arbor Herba Bestia Motus Victus Humanus Instrumentum Terra Iter Machina Messis Meto Tutamen
 Machina Auram 4
 Aer Auram Motus Machina
 Machina Praecantatio 9
@@ -3987,8 +3987,8 @@ Machina Telum 3
 Instrumentum Telum Machina
 Machina Iter 3
 Motus Iter Machina
-Machina Limus 7
-Aer Aqua Bestia Motus Victus Limus Machina
+Machina Limus 5
+Bestia Motus Victus Limus Machina
 Machina Lucrum 4
 Humanus Instrumentum Lucrum Machina
 Machina Lux 4
@@ -4023,28 +4023,28 @@ Machina Tempestas 4
 Aer Motus Machina Tempestas
 Machina Tutamen 3
 Instrumentum Machina Tutamen
-Machina Venenum 7
-Aer Aqua Motus Vinculum Perditio Machina Venenum
+Machina Venenum 5
+Motus Vinculum Perditio Machina Venenum
 Machina Vitium 5
 Motus Vinculum Perditio Machina Vitium
-Messis Aer 5
-Aer Aqua Herba Arbor Messis
-Messis Alienis 11
-Aer Alienis Vacuos Aqua Herba Arbor Victus Humanus Fames Lucrum Messis
-Messis Vacuos 10
-Aer Vacuos Aqua Herba Arbor Victus Humanus Fames Lucrum Messis
-Messis Tenebrae 14
-Aer Vacuos Tenebrae Aqua Herba Arbor Victus Cognitio Ignis Humanus Fames Lucrum Lux Messis
-Messis Aqua 3
-Aqua Herba Messis
+Messis Aer 4
+Aer Arbor Herba Messis
+Messis Alienis 10
+Aer Alienis Vacuos Arbor Herba Victus Humanus Fames Lucrum Messis
+Messis Vacuos 9
+Aer Vacuos Arbor Herba Victus Humanus Fames Lucrum Messis
+Messis Tenebrae 13
+Aer Vacuos Tenebrae Arbor Herba Victus Cognitio Ignis Humanus Fames Lucrum Lux Messis
+Messis Aqua 4
+Aqua Herba Victus Messis
+Messis Arbor 3
+Arbor Herba Messis
 Messis Herba 2
 Herba Messis
-Messis Arbor 3
-Herba Arbor Messis
-Messis Auram 6
-Aer Aqua Herba Arbor Auram Messis
-Messis Praecantatio 19
-Aer Vacuos Aqua Herba Arbor Auram Praecantatio Victus Cognitio Ignis Humanus Instrumentum Fames Infernus Ordo Lucrum Messis Meto Potentia
+Messis Auram 5
+Aer Arbor Herba Auram Messis
+Messis Praecantatio 18
+Aer Vacuos Arbor Herba Auram Praecantatio Victus Cognitio Ignis Humanus Instrumentum Fames Infernus Ordo Lucrum Messis Meto Potentia
 Messis Bestia 3
 Bestia Humanus Messis
 Messis Motus 4
@@ -4077,8 +4077,8 @@ Messis Fames 6
 Herba Victus Humanus Fames Lucrum Messis
 Messis Gelum 5
 Cognitio Ignis Humanus Gelum Messis
-Messis Perditio 7
-Aqua Herba Victus Mortuus Perditio Messis Venenum
+Messis Perditio 5
+Herba Victus Mortuus Perditio Messis
 Messis Gula 7
 Herba Victus Humanus Fames Gula Lucrum Messis
 Messis Terra 3
@@ -4093,12 +4093,12 @@ Messis Telum 5
 Humanus Instrumentum Telum Messis Meto
 Messis Iter 4
 Herba Terra Iter Messis
-Messis Limus 5
-Aqua Herba Victus Limus Messis
+Messis Limus 4
+Herba Victus Limus Messis
 Messis Lucrum 3
 Humanus Lucrum Messis
-Messis Lux 9
-Aer Aqua Herba Arbor Cognitio Ignis Humanus Lux Messis
+Messis Lux 8
+Aer Arbor Herba Cognitio Ignis Humanus Lux Messis
 Messis Luxuria 9
 Herba Bestia Victus Corpus Humanus Fames Lucrum Luxuria Messis
 Messis Machina 5
@@ -4119,36 +4119,36 @@ Messis Potentia 8
 Cognitio Ignis Humanus Instrumentum Ordo Messis Meto Potentia
 Messis Sano 4
 Herba Victus Messis Sano
-Messis Sensus 10
-Aer Aqua Herba Arbor Victus Cognitio Spiritus Humanus Messis Sensus
-Messis Superbia 14
-Aer Vacuos Aqua Herba Arbor Bestia Motus Victus Humanus Fames Lucrum Messis Superbia Volatus
-Messis Volatus 9
-Aer Aqua Herba Arbor Bestia Motus Humanus Messis Volatus
-Messis Tempestas 4
-Aqua Herba Messis Tempestas
+Messis Sensus 9
+Aer Arbor Herba Victus Cognitio Spiritus Humanus Messis Sensus
+Messis Superbia 13
+Aer Vacuos Arbor Herba Bestia Motus Victus Humanus Fames Lucrum Messis Superbia Volatus
+Messis Volatus 8
+Aer Arbor Herba Bestia Motus Humanus Messis Volatus
+Messis Tempestas 7
+Aer Aqua Arbor Herba Victus Messis Tempestas
 Messis Tutamen 7
 Herba Humanus Instrumentum Terra Messis Meto Tutamen
-Messis Venenum 4
-Aqua Herba Messis Venenum
-Messis Vitium 8
-Aqua Herba Victus Mortuus Perditio Messis Venenum Vitium
-Metallum Aer 11
-Aer Aqua Herba Arbor Motus Victus Terra Ordo Iter Metallum Vitreus
+Messis Venenum 5
+Aqua Herba Victus Messis Venenum
+Messis Vitium 6
+Herba Victus Mortuus Perditio Messis Vitium
+Metallum Aer 9
+Aer Arbor Herba Motus Terra Ordo Iter Metallum Vitreus
 Metallum Alienis 6
 Alienis Vacuos Victus Fames Terra Metallum
 Metallum Vacuos 5
 Vacuos Victus Fames Terra Metallum
 Metallum Tenebrae 6
 Vacuos Tenebrae Victus Fames Terra Metallum
-Metallum Aqua 5
-Aqua Herba Victus Terra Metallum
+Metallum Aqua 4
+Aqua Victus Terra Metallum
+Metallum Arbor 4
+Arbor Herba Terra Metallum
 Metallum Herba 3
 Herba Terra Metallum
-Metallum Arbor 4
-Herba Arbor Terra Metallum
-Metallum Auram 14
-Aer Aqua Herba Arbor Auram Praecantatio Motus Victus Terra Ordo Iter Metallum Vitreus Potentia
+Metallum Auram 12
+Aer Arbor Herba Auram Praecantatio Motus Terra Ordo Iter Metallum Vitreus Potentia
 Metallum Praecantatio 5
 Praecantatio Ordo Metallum Vitreus Potentia
 Metallum Bestia 4
@@ -4203,8 +4203,8 @@ Metallum Limus 4
 Victus Terra Limus Metallum
 Metallum Lucrum 7
 Victus Humanus Fames Terra Lucrum Metallum Perfodio
-Metallum Lux 14
-Aer Aqua Herba Arbor Motus Victus Ignis Terra Ordo Iter Lux Metallum Vitreus Potentia
+Metallum Lux 12
+Aer Arbor Herba Motus Ignis Terra Ordo Iter Lux Metallum Vitreus Potentia
 Metallum Luxuria 5
 Victus Fames Terra Luxuria Metallum
 Metallum Machina 9
@@ -4231,12 +4231,12 @@ Metallum Superbia 11
 Vacuos Motus Victus Fames Terra Ordo Iter Metallum Vitreus Superbia Volatus
 Metallum Volatus 7
 Motus Terra Ordo Iter Metallum Vitreus Volatus
-Metallum Tempestas 6
-Aqua Herba Victus Terra Metallum Tempestas
+Metallum Tempestas 5
+Aqua Victus Terra Metallum Tempestas
 Metallum Tutamen 3
 Terra Metallum Tutamen
-Metallum Venenum 6
-Aqua Herba Victus Terra Metallum Venenum
+Metallum Venenum 5
+Aqua Victus Terra Metallum Venenum
 Metallum Vitium 11
 Praecantatio Victus Mortuus Perditio Terra Ordo Metallum Vitreus Permutatio Potentia Vitium
 Vitreus Aer 4
@@ -4247,12 +4247,12 @@ Vitreus Vacuos 12
 Aer Vacuos Praecantatio Motus Victus Fames Perditio Terra Ordo Vitreus Permutatio Potentia
 Vitreus Tenebrae 15
 Aer Vacuos Tenebrae Praecantatio Motus Victus Ignis Fames Perditio Terra Ordo Lux Vitreus Permutatio Potentia
-Vitreus Aqua 5
-Aqua Herba Victus Terra Vitreus
+Vitreus Aqua 4
+Aqua Victus Terra Vitreus
+Vitreus Arbor 4
+Arbor Herba Terra Vitreus
 Vitreus Herba 3
 Herba Terra Vitreus
-Vitreus Arbor 4
-Herba Arbor Terra Vitreus
 Vitreus Auram 7
 Aer Auram Praecantatio Motus Ordo Vitreus Potentia
 Vitreus Praecantatio 4
@@ -4337,30 +4337,30 @@ Vitreus Superbia 5
 Motus Ordo Vitreus Superbia Volatus
 Vitreus Volatus 4
 Motus Ordo Vitreus Volatus
-Vitreus Tempestas 9
-Aer Aqua Herba Motus Victus Terra Ordo Vitreus Tempestas
+Vitreus Tempestas 8
+Aer Aqua Motus Victus Terra Ordo Vitreus Tempestas
 Vitreus Tutamen 3
 Terra Vitreus Tutamen
-Vitreus Venenum 9
-Aqua Herba Victus Perditio Terra Ordo Vitreus Permutatio Venenum
+Vitreus Venenum 8
+Aqua Victus Perditio Terra Ordo Vitreus Permutatio Venenum
 Vitreus Vitium 7
 Praecantatio Perditio Ordo Vitreus Permutatio Potentia Vitium
-Meto Aer 10
-Aer Aqua Herba Arbor Motus Instrumentum Ordo Machina Messis Meto
-Meto Alienis 24
-Aer Alienis Vacuos Tenebrae Aqua Herba Arbor Praecantatio Motus Victus Ignis Humanus Instrumentum Fames Perditio Ordo Telum Lucrum Lux Machina Messis Meto Permutatio Potentia
-Meto Vacuos 19
-Aer Vacuos Aqua Herba Arbor Praecantatio Motus Victus Humanus Instrumentum Fames Perditio Ordo Lucrum Machina Messis Meto Permutatio Potentia
+Meto Aer 9
+Aer Arbor Herba Motus Instrumentum Ordo Machina Messis Meto
+Meto Alienis 23
+Aer Alienis Vacuos Tenebrae Arbor Herba Praecantatio Motus Victus Ignis Humanus Instrumentum Fames Perditio Ordo Telum Lucrum Lux Machina Messis Meto Permutatio Potentia
+Meto Vacuos 18
+Aer Vacuos Arbor Herba Praecantatio Motus Victus Humanus Instrumentum Fames Perditio Ordo Lucrum Machina Messis Meto Permutatio Potentia
 Meto Tenebrae 6
 Tenebrae Ignis Instrumentum Telum Lux Meto
-Meto Aqua 4
-Aqua Herba Messis Meto
+Meto Aqua 5
+Aqua Herba Victus Messis Meto
+Meto Arbor 4
+Arbor Herba Messis Meto
 Meto Herba 3
 Herba Messis Meto
-Meto Arbor 4
-Herba Arbor Messis Meto
-Meto Auram 13
-Aer Aqua Herba Arbor Auram Praecantatio Motus Instrumentum Ordo Machina Messis Meto Potentia
+Meto Auram 12
+Aer Arbor Herba Auram Praecantatio Motus Instrumentum Ordo Machina Messis Meto Potentia
 Meto Praecantatio 5
 Praecantatio Instrumentum Ordo Meto Potentia
 Meto Bestia 6
@@ -4411,8 +4411,8 @@ Meto Telum 3
 Instrumentum Telum Meto
 Meto Iter 10
 Herba Motus Instrumentum Terra Ordo Iter Machina Messis Meto Tutamen
-Meto Limus 6
-Aqua Herba Victus Limus Messis Meto
+Meto Limus 5
+Herba Victus Limus Messis Meto
 Meto Lucrum 5
 Humanus Instrumentum Lucrum Messis Meto
 Meto Lux 5
@@ -4437,18 +4437,18 @@ Meto Potentia 4
 Instrumentum Ordo Meto Potentia
 Meto Sano 4
 Instrumentum Ordo Meto Sano
-Meto Sensus 15
-Aer Aqua Herba Arbor Motus Victus Cognitio Spiritus Humanus Instrumentum Ordo Machina Messis Meto Sensus
+Meto Sensus 14
+Aer Arbor Herba Motus Victus Cognitio Spiritus Humanus Instrumentum Ordo Machina Messis Meto Sensus
 Meto Superbia 7
 Motus Instrumentum Ordo Machina Meto Superbia Volatus
 Meto Volatus 6
 Motus Instrumentum Ordo Machina Meto Volatus
-Meto Tempestas 5
-Aqua Herba Messis Meto Tempestas
+Meto Tempestas 12
+Aer Aqua Arbor Herba Motus Victus Instrumentum Ordo Machina Messis Meto Tempestas
 Meto Tutamen 3
 Instrumentum Meto Tutamen
-Meto Venenum 5
-Aqua Herba Messis Meto Venenum
+Meto Venenum 10
+Aqua Herba Victus Instrumentum Perditio Ordo Messis Meto Permutatio Venenum
 Meto Vitium 8
 Praecantatio Instrumentum Perditio Ordo Meto Permutatio Potentia Vitium
 Pannus Aer 4
@@ -4461,10 +4461,10 @@ Pannus Tenebrae 12
 Aer Vacuos Tenebrae Bestia Motus Victus Ignis Instrumentum Fames Telum Lux Pannus
 Pannus Aqua 4
 Aqua Bestia Victus Pannus
+Pannus Arbor 7
+Aer Arbor Herba Bestia Motus Victus Pannus
 Pannus Herba 4
 Herba Bestia Victus Pannus
-Pannus Arbor 7
-Aer Herba Arbor Bestia Motus Victus Pannus
 Pannus Auram 5
 Aer Auram Bestia Motus Pannus
 Pannus Praecantatio 5
@@ -4557,22 +4557,22 @@ Pannus Venenum 5
 Aqua Bestia Victus Pannus Venenum
 Pannus Vitium 14
 Praecantatio Bestia Motus Victus Corpus Mortuus Vinculum Instrumentum Perditio Ordo Pannus Permutatio Potentia Vitium
-Perfodio Aer 11
-Aer Aqua Herba Arbor Bestia Motus Victus Humanus Terra Iter Perfodio
+Perfodio Aer 9
+Aer Arbor Herba Bestia Motus Humanus Terra Iter Perfodio
 Perfodio Alienis 8
 Alienis Vacuos Victus Humanus Fames Terra Lucrum Perfodio
 Perfodio Vacuos 7
 Vacuos Victus Humanus Fames Terra Lucrum Perfodio
 Perfodio Tenebrae 11
 Vacuos Tenebrae Victus Cognitio Ignis Humanus Fames Terra Lucrum Lux Perfodio
-Perfodio Aqua 5
-Aqua Herba Victus Terra Perfodio
+Perfodio Aqua 4
+Aqua Victus Terra Perfodio
+Perfodio Arbor 4
+Arbor Herba Terra Perfodio
 Perfodio Herba 3
 Herba Terra Perfodio
-Perfodio Arbor 4
-Herba Arbor Terra Perfodio
-Perfodio Auram 12
-Aer Aqua Herba Arbor Auram Bestia Motus Victus Humanus Terra Iter Perfodio
+Perfodio Auram 10
+Aer Arbor Herba Auram Bestia Motus Humanus Terra Iter Perfodio
 Perfodio Praecantatio 15
 Vacuos Praecantatio Victus Cognitio Ignis Humanus Instrumentum Fames Terra Infernus Ordo Lucrum Vitreus Perfodio Potentia
 Perfodio Bestia 3
@@ -4655,12 +4655,12 @@ Perfodio Superbia 12
 Vacuos Bestia Motus Victus Humanus Fames Terra Iter Lucrum Perfodio Superbia Volatus
 Perfodio Volatus 7
 Bestia Motus Humanus Terra Iter Perfodio Volatus
-Perfodio Tempestas 6
-Aqua Herba Victus Terra Perfodio Tempestas
+Perfodio Tempestas 5
+Aqua Victus Terra Perfodio Tempestas
 Perfodio Tutamen 3
 Terra Perfodio Tutamen
-Perfodio Venenum 6
-Aqua Herba Victus Terra Perfodio Venenum
+Perfodio Venenum 5
+Aqua Victus Terra Perfodio Venenum
 Perfodio Vitium 6
 Victus Mortuus Perditio Terra Perfodio Vitium
 Permutatio Aer 6
@@ -4673,10 +4673,10 @@ Permutatio Tenebrae 4
 Vacuos Tenebrae Perditio Permutatio
 Permutatio Aqua 4
 Aqua Perditio Permutatio Venenum
-Permutatio Herba 11
-Aqua Herba Victus Mortuus Perditio Terra Ordo Vitreus Permutatio Sano Venenum
 Permutatio Arbor 7
 Aer Vacuos Arbor Motus Perditio Ordo Permutatio
+Permutatio Herba 9
+Herba Victus Mortuus Perditio Terra Ordo Vitreus Permutatio Sano
 Permutatio Auram 10
 Aer Vacuos Auram Praecantatio Motus Perditio Ordo Permutatio Potentia Vitium
 Permutatio Praecantatio 7
@@ -4777,12 +4777,12 @@ Potentia Vacuos 3
 Vacuos Praecantatio Potentia
 Potentia Tenebrae 6
 Vacuos Tenebrae Praecantatio Ignis Lux Potentia
-Potentia Aqua 12
-Aer Vacuos Aqua Auram Praecantatio Motus Victus Ignis Ordo Lux Potentia Sano
-Potentia Herba 7
-Herba Victus Terra Ordo Vitreus Potentia Sano
+Potentia Aqua 5
+Aqua Victus Ordo Potentia Sano
 Potentia Arbor 10
 Aer Vacuos Arbor Auram Praecantatio Motus Ignis Ordo Lux Potentia
+Potentia Herba 7
+Herba Victus Terra Ordo Vitreus Potentia Sano
 Potentia Auram 3
 Auram Praecantatio Potentia
 Potentia Praecantatio 2
@@ -4875,8 +4875,8 @@ Potentia Venenum 10
 Vacuos Praecantatio Ignis Gelum Perditio Ordo Permutatio Potentia Venenum Vitium
 Potentia Vitium 3
 Praecantatio Potentia Vitium
-Sano Aer 6
-Aer Aqua Motus Victus Ordo Sano
+Sano Aer 4
+Aer Motus Ordo Sano
 Sano Alienis 5
 Alienis Vacuos Victus Fames Sano
 Sano Vacuos 4
@@ -4885,12 +4885,12 @@ Sano Tenebrae 5
 Vacuos Tenebrae Victus Fames Sano
 Sano Aqua 3
 Aqua Victus Sano
+Sano Arbor 4
+Arbor Herba Victus Sano
 Sano Herba 3
 Herba Victus Sano
-Sano Arbor 4
-Herba Arbor Victus Sano
-Sano Auram 9
-Aer Aqua Auram Praecantatio Motus Victus Ordo Potentia Sano
+Sano Auram 7
+Aer Auram Praecantatio Motus Ordo Potentia Sano
 Sano Praecantatio 4
 Praecantatio Ordo Potentia Sano
 Sano Bestia 3
@@ -4945,8 +4945,8 @@ Sano Limus 3
 Victus Limus Sano
 Sano Lucrum 4
 Victus Fames Lucrum Sano
-Sano Lux 9
-Aer Aqua Motus Victus Ignis Ordo Lux Potentia Sano
+Sano Lux 7
+Aer Motus Ignis Ordo Lux Potentia Sano
 Sano Luxuria 4
 Victus Fames Luxuria Sano
 Sano Machina 5
@@ -4989,12 +4989,12 @@ Sensus Vacuos 3
 Aer Vacuos Sensus
 Sensus Tenebrae 5
 Aer Vacuos Tenebrae Lux Sensus
-Sensus Aqua 3
-Aer Aqua Sensus
-Sensus Herba 7
-Aer Aqua Herba Arbor Victus Spiritus Sensus
+Sensus Aqua 6
+Aer Aqua Victus Spiritus Sensus Tempestas
 Sensus Arbor 3
 Aer Arbor Sensus
+Sensus Herba 6
+Aer Arbor Herba Victus Spiritus Sensus
 Sensus Auram 3
 Aer Auram Sensus
 Sensus Praecantatio 5
@@ -5047,8 +5047,8 @@ Sensus Telum 7
 Aer Cognitio Ignis Spiritus Telum Lux Sensus
 Sensus Iter 4
 Aer Motus Iter Sensus
-Sensus Limus 6
-Aer Aqua Victus Spiritus Limus Sensus
+Sensus Limus 4
+Victus Spiritus Limus Sensus
 Sensus Lucrum 9
 Aer Vacuos Victus Cognitio Spiritus Humanus Fames Lucrum Sensus
 Sensus Lux 3
@@ -5057,14 +5057,14 @@ Sensus Luxuria 9
 Aer Vacuos Victus Spiritus Corpus Mortuus Fames Luxuria Sensus
 Sensus Machina 4
 Aer Motus Machina Sensus
-Sensus Messis 10
-Aer Aqua Herba Arbor Victus Cognitio Spiritus Humanus Messis Sensus
+Sensus Messis 9
+Aer Arbor Herba Victus Cognitio Spiritus Humanus Messis Sensus
 Sensus Metallum 5
 Victus Spiritus Terra Metallum Sensus
 Sensus Vitreus 8
 Aer Motus Victus Spiritus Terra Ordo Vitreus Sensus
-Sensus Meto 15
-Aer Aqua Herba Arbor Motus Victus Cognitio Spiritus Humanus Instrumentum Ordo Machina Messis Meto Sensus
+Sensus Meto 14
+Aer Arbor Herba Motus Victus Cognitio Spiritus Humanus Instrumentum Ordo Machina Messis Meto Sensus
 Sensus Pannus 7
 Aer Bestia Motus Victus Spiritus Pannus Sensus
 Sensus Perfodio 7
@@ -5083,8 +5083,8 @@ Sensus Tempestas 3
 Aer Sensus Tempestas
 Sensus Tutamen 5
 Victus Spiritus Terra Sensus Tutamen
-Sensus Venenum 4
-Aer Aqua Sensus Venenum
+Sensus Venenum 10
+Aer Vacuos Aqua Victus Spiritus Mortuus Perditio Sensus Tempestas Venenum
 Sensus Vitium 9
 Aer Vacuos Auram Praecantatio Spiritus Mortuus Perditio Sensus Vitium
 Superbia Aer 4
@@ -5095,12 +5095,12 @@ Superbia Vacuos 2
 Vacuos Superbia
 Superbia Tenebrae 3
 Vacuos Tenebrae Superbia
-Superbia Aqua 5
-Aer Vacuos Aqua Superbia Volatus
-Superbia Herba 9
-Aer Vacuos Aqua Herba Arbor Victus Fames Superbia Volatus
+Superbia Aqua 10
+Aer Vacuos Aqua Victus Fames Perditio Superbia Volatus Tempestas Venenum
 Superbia Arbor 5
 Aer Vacuos Arbor Superbia Volatus
+Superbia Herba 8
+Aer Vacuos Arbor Herba Victus Fames Superbia Volatus
 Superbia Auram 6
 Aer Vacuos Auram Praecantatio Superbia Volatus
 Superbia Praecantatio 3
@@ -5153,8 +5153,8 @@ Superbia Telum 17
 Aer Vacuos Tenebrae Praecantatio Motus Ignis Instrumentum Gelum Perditio Infernus Ordo Telum Lux Machina Potentia Superbia Volatus
 Superbia Iter 4
 Motus Iter Superbia Volatus
-Superbia Limus 8
-Aer Vacuos Aqua Victus Fames Limus Superbia Volatus
+Superbia Limus 5
+Vacuos Victus Fames Limus Superbia
 Superbia Lucrum 4
 Vacuos Fames Lucrum Superbia
 Superbia Lux 6
@@ -5163,8 +5163,8 @@ Superbia Luxuria 4
 Vacuos Fames Luxuria Superbia
 Superbia Machina 4
 Motus Machina Superbia Volatus
-Superbia Messis 14
-Aer Vacuos Aqua Herba Arbor Bestia Motus Victus Humanus Fames Lucrum Messis Superbia Volatus
+Superbia Messis 13
+Aer Vacuos Arbor Herba Bestia Motus Victus Humanus Fames Lucrum Messis Superbia Volatus
 Superbia Metallum 11
 Vacuos Motus Victus Fames Terra Ordo Iter Metallum Vitreus Superbia Volatus
 Superbia Vitreus 5
@@ -5201,12 +5201,12 @@ Volatus Vacuos 4
 Aer Vacuos Superbia Volatus
 Volatus Tenebrae 6
 Aer Vacuos Tenebrae Lux Superbia Volatus
-Volatus Aqua 3
-Aer Aqua Volatus
-Volatus Herba 5
-Aer Aqua Herba Arbor Volatus
+Volatus Aqua 4
+Aer Aqua Volatus Tempestas
 Volatus Arbor 3
 Aer Arbor Volatus
+Volatus Herba 4
+Aer Arbor Herba Volatus
 Volatus Auram 3
 Aer Auram Volatus
 Volatus Praecantatio 6
@@ -5215,8 +5215,8 @@ Volatus Bestia 3
 Bestia Motus Volatus
 Volatus Motus 2
 Motus Volatus
-Volatus Victus 6
-Aer Aqua Bestia Motus Victus Volatus
+Volatus Victus 4
+Bestia Motus Victus Volatus
 Volatus Cognitio 10
 Aer Bestia Motus Cognitio Ignis Spiritus Humanus Lux Sensus Volatus
 Volatus Ignis 4
@@ -5259,8 +5259,8 @@ Volatus Telum 9
 Aer Motus Ignis Instrumentum Ordo Telum Lux Machina Volatus
 Volatus Iter 3
 Motus Iter Volatus
-Volatus Limus 4
-Aer Aqua Limus Volatus
+Volatus Limus 8
+Aer Aqua Bestia Motus Victus Limus Volatus Tempestas
 Volatus Lucrum 9
 Aer Vacuos Bestia Motus Humanus Fames Lucrum Superbia Volatus
 Volatus Lux 3
@@ -5269,8 +5269,8 @@ Volatus Luxuria 9
 Aer Vacuos Bestia Motus Corpus Fames Luxuria Superbia Volatus
 Volatus Machina 3
 Motus Machina Volatus
-Volatus Messis 9
-Aer Aqua Herba Arbor Bestia Motus Humanus Messis Volatus
+Volatus Messis 8
+Aer Arbor Herba Bestia Motus Humanus Messis Volatus
 Volatus Metallum 7
 Motus Terra Ordo Iter Metallum Vitreus Volatus
 Volatus Vitreus 4
@@ -5295,8 +5295,8 @@ Volatus Tempestas 3
 Aer Volatus Tempestas
 Volatus Tutamen 8
 Motus Instrumentum Terra Ordo Iter Machina Volatus Tutamen
-Volatus Venenum 4
-Aer Aqua Volatus Venenum
+Volatus Venenum 10
+Aer Vacuos Aqua Motus Vinculum Perditio Superbia Volatus Tempestas Venenum
 Volatus Vitium 10
 Aer Vacuos Auram Praecantatio Motus Vinculum Perditio Superbia Volatus Vitium
 Tempestas Aer 2
@@ -5309,10 +5309,10 @@ Tempestas Tenebrae 5
 Aer Vacuos Tenebrae Lux Tempestas
 Tempestas Aqua 2
 Aqua Tempestas
-Tempestas Herba 3
-Aqua Herba Tempestas
 Tempestas Arbor 3
 Aer Arbor Tempestas
+Tempestas Herba 6
+Aer Aqua Arbor Herba Victus Tempestas
 Tempestas Auram 3
 Aer Auram Tempestas
 Tempestas Praecantatio 5
@@ -5339,10 +5339,10 @@ Tempestas Vinculum 4
 Aer Motus Vinculum Tempestas
 Tempestas Exanimus 4
 Aer Motus Exanimus Tempestas
-Tempestas Fabrico 13
-Aer Aqua Herba Bestia Motus Victus Fabrico Humanus Instrumentum Ordo Machina Messis Tempestas
-Tempestas Humanus 9
-Aer Aqua Herba Bestia Motus Victus Humanus Messis Tempestas
+Tempestas Fabrico 11
+Aer Aqua Bestia Motus Victus Fabrico Humanus Instrumentum Ordo Machina Tempestas
+Tempestas Humanus 7
+Aer Aqua Bestia Motus Victus Humanus Tempestas
 Tempestas Instrumentum 6
 Aer Motus Instrumentum Ordo Machina Tempestas
 Tempestas Fames 6
@@ -5353,8 +5353,8 @@ Tempestas Perditio 6
 Aer Vacuos Aqua Perditio Tempestas Venenum
 Tempestas Gula 4
 Aer Vacuos Gula Tempestas
-Tempestas Terra 5
-Aqua Herba Victus Terra Tempestas
+Tempestas Terra 4
+Aqua Victus Terra Tempestas
 Tempestas Infernus 8
 Aer Vacuos Auram Praecantatio Ignis Infernus Lux Tempestas
 Tempestas Ordo 4
@@ -5375,18 +5375,18 @@ Tempestas Luxuria 7
 Aer Vacuos Aqua Victus Fames Luxuria Tempestas
 Tempestas Machina 4
 Aer Motus Machina Tempestas
-Tempestas Messis 4
-Aqua Herba Messis Tempestas
-Tempestas Metallum 6
-Aqua Herba Victus Terra Metallum Tempestas
-Tempestas Vitreus 9
-Aer Aqua Herba Motus Victus Terra Ordo Vitreus Tempestas
-Tempestas Meto 5
-Aqua Herba Messis Meto Tempestas
+Tempestas Messis 7
+Aer Aqua Arbor Herba Victus Messis Tempestas
+Tempestas Metallum 5
+Aqua Victus Terra Metallum Tempestas
+Tempestas Vitreus 8
+Aer Aqua Motus Victus Terra Ordo Vitreus Tempestas
+Tempestas Meto 12
+Aer Aqua Arbor Herba Motus Victus Instrumentum Ordo Machina Messis Meto Tempestas
 Tempestas Pannus 7
 Aer Aqua Bestia Motus Victus Pannus Tempestas
-Tempestas Perfodio 6
-Aqua Herba Victus Terra Perfodio Tempestas
+Tempestas Perfodio 5
+Aqua Victus Terra Perfodio Tempestas
 Tempestas Permutatio 9
 Aer Vacuos Aqua Motus Perditio Ordo Permutatio Tempestas Venenum
 Tempestas Potentia 10
@@ -5399,28 +5399,28 @@ Tempestas Superbia 5
 Aer Vacuos Superbia Volatus Tempestas
 Tempestas Volatus 3
 Aer Volatus Tempestas
-Tempestas Tutamen 6
-Aqua Herba Victus Terra Tempestas Tutamen
+Tempestas Tutamen 5
+Aqua Victus Terra Tempestas Tutamen
 Tempestas Venenum 3
 Aqua Tempestas Venenum
 Tempestas Vitium 9
 Aer Vacuos Aqua Auram Praecantatio Perditio Tempestas Venenum Vitium
-Tutamen Aer 12
-Aer Aqua Herba Arbor Motus Victus Instrumentum Terra Ordo Iter Machina Tutamen
+Tutamen Aer 10
+Aer Arbor Herba Motus Instrumentum Terra Ordo Iter Machina Tutamen
 Tutamen Alienis 6
 Alienis Vacuos Victus Fames Terra Tutamen
 Tutamen Vacuos 5
 Vacuos Victus Fames Terra Tutamen
 Tutamen Tenebrae 10
 Vacuos Tenebrae Victus Ignis Instrumentum Fames Terra Telum Lux Tutamen
-Tutamen Aqua 5
-Aqua Herba Victus Terra Tutamen
+Tutamen Aqua 4
+Aqua Victus Terra Tutamen
+Tutamen Arbor 4
+Arbor Herba Terra Tutamen
 Tutamen Herba 3
 Herba Terra Tutamen
-Tutamen Arbor 4
-Herba Arbor Terra Tutamen
-Tutamen Auram 15
-Aer Aqua Herba Arbor Auram Praecantatio Motus Victus Instrumentum Terra Ordo Iter Machina Potentia Tutamen
+Tutamen Auram 13
+Aer Arbor Herba Auram Praecantatio Motus Instrumentum Terra Ordo Iter Machina Potentia Tutamen
 Tutamen Praecantatio 5
 Praecantatio Instrumentum Ordo Potentia Tutamen
 Tutamen Bestia 7
@@ -5505,14 +5505,14 @@ Tutamen Superbia 12
 Vacuos Motus Victus Instrumentum Fames Terra Ordo Iter Machina Superbia Volatus Tutamen
 Tutamen Volatus 8
 Motus Instrumentum Terra Ordo Iter Machina Volatus Tutamen
-Tutamen Tempestas 6
-Aqua Herba Victus Terra Tempestas Tutamen
-Tutamen Venenum 6
-Aqua Herba Victus Terra Tutamen Venenum
+Tutamen Tempestas 5
+Aqua Victus Terra Tempestas Tutamen
+Tutamen Venenum 5
+Aqua Victus Terra Tutamen Venenum
 Tutamen Vitium 11
 Praecantatio Victus Mortuus Instrumentum Perditio Terra Ordo Permutatio Potentia Tutamen Vitium
-Venenum Aer 3
-Aer Aqua Venenum
+Venenum Aer 6
+Aer Vacuos Aqua Perditio Tempestas Venenum
 Venenum Alienis 4
 Alienis Vacuos Perditio Venenum
 Venenum Vacuos 3
@@ -5521,18 +5521,18 @@ Venenum Tenebrae 4
 Vacuos Tenebrae Perditio Venenum
 Venenum Aqua 2
 Aqua Venenum
-Venenum Herba 3
-Aqua Herba Venenum
-Venenum Arbor 5
-Aer Aqua Herba Arbor Venenum
-Venenum Auram 4
-Aer Aqua Auram Venenum
+Venenum Arbor 9
+Aer Vacuos Aqua Arbor Herba Victus Perditio Tempestas Venenum
+Venenum Herba 4
+Aqua Herba Victus Venenum
+Venenum Auram 9
+Aer Vacuos Aqua Auram Praecantatio Perditio Tempestas Venenum Vitium
 Venenum Praecantatio 5
 Vacuos Praecantatio Perditio Venenum Vitium
 Venenum Bestia 4
 Aqua Bestia Victus Venenum
-Venenum Motus 6
-Aer Aqua Motus Vinculum Perditio Venenum
+Venenum Motus 4
+Motus Vinculum Perditio Venenum
 Venenum Victus 3
 Aqua Victus Venenum
 Venenum Cognitio 9
@@ -5551,10 +5551,10 @@ Venenum Vinculum 3
 Vinculum Perditio Venenum
 Venenum Exanimus 4
 Mortuus Exanimus Perditio Venenum
-Venenum Fabrico 12
-Aqua Herba Bestia Victus Fabrico Humanus Instrumentum Perditio Ordo Messis Permutatio Venenum
-Venenum Humanus 7
-Aqua Herba Bestia Victus Humanus Messis Venenum
+Venenum Fabrico 10
+Aqua Bestia Victus Fabrico Humanus Instrumentum Perditio Ordo Permutatio Venenum
+Venenum Humanus 5
+Aqua Bestia Victus Humanus Venenum
 Venenum Instrumentum 5
 Instrumentum Perditio Ordo Permutatio Venenum
 Venenum Fames 6
@@ -5565,8 +5565,8 @@ Venenum Perditio 2
 Perditio Venenum
 Venenum Gula 4
 Vacuos Perditio Gula Venenum
-Venenum Terra 5
-Aqua Herba Victus Terra Venenum
+Venenum Terra 4
+Aqua Victus Terra Venenum
 Venenum Infernus 8
 Vacuos Praecantatio Ignis Gelum Perditio Infernus Venenum Vitium
 Venenum Ordo 4
@@ -5575,46 +5575,46 @@ Venenum Ira 5
 Ignis Gelum Perditio Ira Venenum
 Venenum Telum 5
 Ignis Gelum Perditio Telum Venenum
-Venenum Iter 10
-Aer Aqua Herba Motus Victus Vinculum Perditio Terra Iter Venenum
+Venenum Iter 8
+Aqua Motus Victus Vinculum Perditio Terra Iter Venenum
 Venenum Limus 3
 Aqua Limus Venenum
 Venenum Lucrum 7
 Vacuos Aqua Victus Fames Perditio Lucrum Venenum
-Venenum Lux 4
-Aer Aqua Lux Venenum
+Venenum Lux 10
+Aer Vacuos Tenebrae Aqua Ignis Gelum Perditio Lux Tempestas Venenum
 Venenum Luxuria 9
 Vacuos Aqua Victus Corpus Mortuus Fames Perditio Luxuria Venenum
-Venenum Machina 7
-Aer Aqua Motus Vinculum Perditio Machina Venenum
-Venenum Messis 4
-Aqua Herba Messis Venenum
-Venenum Metallum 6
-Aqua Herba Victus Terra Metallum Venenum
-Venenum Vitreus 9
-Aqua Herba Victus Perditio Terra Ordo Vitreus Permutatio Venenum
-Venenum Meto 5
-Aqua Herba Messis Meto Venenum
+Venenum Machina 5
+Motus Vinculum Perditio Machina Venenum
+Venenum Messis 5
+Aqua Herba Victus Messis Venenum
+Venenum Metallum 5
+Aqua Victus Terra Metallum Venenum
+Venenum Vitreus 8
+Aqua Victus Perditio Terra Ordo Vitreus Permutatio Venenum
+Venenum Meto 10
+Aqua Herba Victus Instrumentum Perditio Ordo Messis Meto Permutatio Venenum
 Venenum Pannus 5
 Aqua Bestia Victus Pannus Venenum
-Venenum Perfodio 6
-Aqua Herba Victus Terra Perfodio Venenum
+Venenum Perfodio 5
+Aqua Victus Terra Perfodio Venenum
 Venenum Permutatio 3
 Perditio Permutatio Venenum
 Venenum Potentia 10
 Vacuos Praecantatio Ignis Gelum Perditio Ordo Permutatio Potentia Venenum Vitium
 Venenum Sano 4
 Aqua Victus Sano Venenum
-Venenum Sensus 4
-Aer Aqua Sensus Venenum
+Venenum Sensus 10
+Aer Vacuos Aqua Victus Spiritus Mortuus Perditio Sensus Tempestas Venenum
 Venenum Superbia 4
 Vacuos Perditio Superbia Venenum
-Venenum Volatus 4
-Aer Aqua Volatus Venenum
+Venenum Volatus 10
+Aer Vacuos Aqua Motus Vinculum Perditio Superbia Volatus Tempestas Venenum
 Venenum Tempestas 3
 Aqua Tempestas Venenum
-Venenum Tutamen 6
-Aqua Herba Victus Terra Tutamen Venenum
+Venenum Tutamen 5
+Aqua Victus Terra Tutamen Venenum
 Venenum Vitium 3
 Perditio Venenum Vitium
 Vitium Aer 6
@@ -5627,10 +5627,10 @@ Vitium Tenebrae 5
 Vacuos Tenebrae Praecantatio Perditio Vitium
 Vitium Aqua 4
 Aqua Perditio Venenum Vitium
-Vitium Herba 7
-Aqua Herba Victus Mortuus Perditio Venenum Vitium
 Vitium Arbor 7
 Aer Vacuos Arbor Auram Praecantatio Perditio Vitium
+Vitium Herba 5
+Herba Victus Mortuus Perditio Vitium
 Vitium Auram 3
 Auram Praecantatio Vitium
 Vitium Praecantatio 2
@@ -5693,8 +5693,8 @@ Vitium Luxuria 8
 Vacuos Praecantatio Corpus Mortuus Fames Perditio Luxuria Vitium
 Vitium Machina 5
 Motus Vinculum Perditio Machina Vitium
-Vitium Messis 8
-Aqua Herba Victus Mortuus Perditio Messis Venenum Vitium
+Vitium Messis 6
+Herba Victus Mortuus Perditio Messis Vitium
 Vitium Metallum 11
 Praecantatio Victus Mortuus Perditio Terra Ordo Metallum Vitreus Permutatio Potentia Vitium
 Vitium Vitreus 7

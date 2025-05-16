@@ -11,10 +11,14 @@
             "id": "f249475a5defa98c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Volatus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Volatus"
             }
           }
         ]
@@ -163,12 +167,6 @@
   },
   "active": "f249475a5defa98c",
   "lastOpenFiles": [
-    "Aer.md",
-    "Alienis.md",
-    "Aqua.md",
-    "Auram.md",
-    "Arbor.md",
-    "Volatus.md",
     "Vitreus.md",
     "Vitium.md",
     "Vinculum.md",
@@ -176,8 +174,6 @@
     "Venenum.md",
     "Vacuos.md",
     "Tutamen.md",
-    "Untitled 1.md",
-    "Untitled.md",
     "Terra.md",
     "Tenebrae.md",
     "Tempestas.md",
@@ -188,6 +184,14 @@
     "Sano.md",
     "Praecantatio.md",
     "Potentia.md",
-    "Permutatio.md"
+    "Permutatio.md",
+    "Perfodio.md",
+    "Perditio.md",
+    "Pannus.md",
+    "Ordo.md",
+    "Motus.md",
+    "Mortuus.md",
+    "Meto.md",
+    "Metallum.md"
   ]
 }
