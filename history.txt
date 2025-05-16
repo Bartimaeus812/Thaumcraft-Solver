@@ -1,319 +1,5725 @@
-159
+2862
+Aer Alienis 3
+Aer Vacuos Alienis
+Aer Vacuos 2
+Aer Vacuos
+Aer Tenebrae 3
+Aer Vacuos Tenebrae
+Aer Aqua 2
+Aer Aqua
 Aer Herba 3
 Aer Aqua Herba
+Aer Arbor 2
+Aer Arbor
+Aer Auram 2
+Aer Auram
 Aer Praecantatio 3
 Aer Vacuos Praecantatio
+Aer Bestia 3
+Aer Motus Bestia
+Aer Motus 2
+Aer Motus
+Aer Victus 3
+Aer Aqua Victus
+Aer Cognitio 4
+Aer Lux Ignis Cognitio
+Aer Ignis 3
+Aer Lux Ignis
+Aer Spiritus 3
+Aer Sensus Spiritus
+Aer Corpus 4
+Aer Motus Bestia Corpus
+Aer Mortuus 4
+Aer Vacuos Perditio Mortuus
+Aer Desidia 4
+Aer Motus Vinculum Desidia
+Aer Vinculum 3
+Aer Motus Vinculum
+Aer Exanimus 3
+Aer Motus Exanimus
+Aer Fabrico 5
+Aer Motus Bestia Humanus Fabrico
+Aer Humanus 4
+Aer Motus Bestia Humanus
+Aer Instrumentum 4
+Aer Motus Ordo Instrumentum
+Aer Fames 3
+Aer Vacuos Fames
+Aer Gelum 4
+Aer Vacuos Perditio Gelum
+Aer Perditio 3
+Aer Vacuos Perditio
+Aer Gula 3
+Aer Vacuos Gula
+Aer Terra 4
+Aer Aqua Herba Terra
+Aer Infernus 4
+Aer Vacuos Praecantatio Infernus
+Aer Ordo 3
+Aer Motus Ordo
+Aer Ira 4
+Aer Lux Ignis Ira
+Aer Telum 4
+Aer Lux Ignis Telum
+Aer Iter 3
+Aer Motus Iter
+Aer Limus 3
+Aer Aqua Limus
+Aer Lucrum 4
+Aer Vacuos Fames Lucrum
+Aer Lux 2
+Aer Lux
+Aer Luxuria 4
+Aer Vacuos Fames Luxuria
+Aer Machina 3
+Aer Motus Machina
+Aer Messis 4
+Aer Aqua Herba Messis
 Aer Metallum 5
 Aer Aqua Herba Terra Metallum
+Aer Vitreus 4
+Aer Motus Ordo Vitreus
+Aer Meto 5
+Aer Aqua Herba Messis Meto
+Aer Pannus 4
+Aer Motus Bestia Pannus
+Aer Perfodio 5
+Aer Aqua Herba Terra Perfodio
+Aer Permutatio 4
+Aer Vacuos Perditio Permutatio
+Aer Potentia 4
+Aer Vacuos Praecantatio Potentia
+Aer Sano 4
+Aer Aqua Victus Sano
+Aer Sensus 2
+Aer Sensus
+Aer Superbia 3
+Aer Vacuos Superbia
+Aer Volatus 2
+Aer Volatus
+Aer Tempestas 2
+Aer Tempestas
+Aer Tutamen 5
+Aer Aqua Herba Terra Tutamen
+Aer Venenum 3
+Aer Aqua Venenum
+Aer Vitium 4
+Aer Vacuos Praecantatio Vitium
+Alienis Aer 3
+Alienis Vacuos Aer
+Alienis Vacuos 2
+Alienis Vacuos
+Alienis Tenebrae 2
+Alienis Tenebrae
+Alienis Aqua 4
+Alienis Vacuos Aer Aqua
 Alienis Herba 5
 Alienis Vacuos Aer Aqua Herba
+Alienis Arbor 4
+Alienis Vacuos Aer Arbor
+Alienis Auram 4
+Alienis Vacuos Aer Auram
 Alienis Praecantatio 3
 Alienis Vacuos Praecantatio
+Alienis Bestia 5
+Alienis Vacuos Aer Motus Bestia
+Alienis Motus 4
+Alienis Vacuos Aer Motus
+Alienis Victus 4
+Alienis Vacuos Fames Victus
+Alienis Cognitio 5
+Alienis Tenebrae Lux Ignis Cognitio
+Alienis Ignis 4
+Alienis Tenebrae Lux Ignis
+Alienis Spiritus 5
+Alienis Vacuos Aer Sensus Spiritus
+Alienis Corpus 5
+Alienis Vacuos Fames Luxuria Corpus
+Alienis Mortuus 4
+Alienis Vacuos Perditio Mortuus
+Alienis Desidia 5
+Alienis Vacuos Perditio Vinculum Desidia
+Alienis Vinculum 4
+Alienis Vacuos Perditio Vinculum
+Alienis Exanimus 5
+Alienis Vacuos Aer Motus Exanimus
+Alienis Fabrico 6
+Alienis Vacuos Fames Lucrum Humanus Fabrico
+Alienis Humanus 5
+Alienis Vacuos Fames Lucrum Humanus
+Alienis Instrumentum 6
+Alienis Vacuos Aer Motus Ordo Instrumentum
+Alienis Fames 3
+Alienis Vacuos Fames
+Alienis Gelum 4
+Alienis Vacuos Perditio Gelum
+Alienis Perditio 3
+Alienis Vacuos Perditio
+Alienis Gula 3
+Alienis Vacuos Gula
+Alienis Terra 5
+Alienis Vacuos Fames Victus Terra
+Alienis Infernus 4
+Alienis Vacuos Praecantatio Infernus
+Alienis Ordo 5
+Alienis Vacuos Aer Motus Ordo
+Alienis Ira 5
+Alienis Tenebrae Lux Ignis Ira
+Alienis Telum 5
+Alienis Tenebrae Lux Ignis Telum
+Alienis Iter 5
+Alienis Vacuos Aer Motus Iter
+Alienis Limus 5
+Alienis Vacuos Aer Aqua Limus
+Alienis Lucrum 4
+Alienis Vacuos Fames Lucrum
+Alienis Lux 3
+Alienis Tenebrae Lux
+Alienis Luxuria 4
+Alienis Vacuos Fames Luxuria
+Alienis Machina 5
+Alienis Vacuos Aer Motus Machina
+Alienis Messis 6
+Alienis Vacuos Aer Aqua Herba Messis
 Alienis Metallum 6
 Alienis Vacuos Fames Victus Terra Metallum
+Alienis Vitreus 6
+Alienis Vacuos Aer Motus Ordo Vitreus
+Alienis Meto 7
+Alienis Vacuos Aer Aqua Herba Messis Meto
+Alienis Pannus 6
+Alienis Vacuos Aer Motus Bestia Pannus
+Alienis Perfodio 6
+Alienis Vacuos Fames Victus Terra Perfodio
+Alienis Permutatio 4
+Alienis Vacuos Perditio Permutatio
+Alienis Potentia 4
+Alienis Vacuos Praecantatio Potentia
+Alienis Sano 5
+Alienis Vacuos Fames Victus Sano
+Alienis Sensus 4
+Alienis Vacuos Aer Sensus
+Alienis Superbia 3
+Alienis Vacuos Superbia
+Alienis Volatus 4
+Alienis Vacuos Aer Volatus
+Alienis Tempestas 4
+Alienis Vacuos Aer Tempestas
+Alienis Tutamen 6
+Alienis Vacuos Fames Victus Terra Tutamen
+Alienis Venenum 4
+Alienis Vacuos Perditio Venenum
+Alienis Vitium 4
+Alienis Vacuos Praecantatio Vitium
+Vacuos Aer 2
+Vacuos Aer
+Vacuos Alienis 2
+Vacuos Alienis
+Vacuos Tenebrae 2
+Vacuos Tenebrae
+Vacuos Aqua 3
+Vacuos Aer Aqua
 Vacuos Herba 4
 Vacuos Aer Aqua Herba
+Vacuos Arbor 3
+Vacuos Aer Arbor
+Vacuos Auram 3
+Vacuos Aer Auram
 Vacuos Praecantatio 2
 Vacuos Praecantatio
+Vacuos Bestia 4
+Vacuos Aer Motus Bestia
+Vacuos Motus 3
+Vacuos Aer Motus
+Vacuos Victus 3
+Vacuos Fames Victus
+Vacuos Cognitio 5
+Vacuos Aer Lux Ignis Cognitio
+Vacuos Ignis 4
+Vacuos Aer Lux Ignis
+Vacuos Spiritus 4
+Vacuos Aer Sensus Spiritus
+Vacuos Corpus 4
+Vacuos Fames Luxuria Corpus
+Vacuos Mortuus 3
+Vacuos Perditio Mortuus
+Vacuos Desidia 4
+Vacuos Perditio Vinculum Desidia
+Vacuos Vinculum 3
+Vacuos Perditio Vinculum
+Vacuos Exanimus 4
+Vacuos Aer Motus Exanimus
+Vacuos Fabrico 5
+Vacuos Fames Lucrum Humanus Fabrico
+Vacuos Humanus 4
+Vacuos Fames Lucrum Humanus
+Vacuos Instrumentum 5
+Vacuos Aer Motus Ordo Instrumentum
+Vacuos Fames 2
+Vacuos Fames
+Vacuos Gelum 3
+Vacuos Perditio Gelum
+Vacuos Perditio 2
+Vacuos Perditio
+Vacuos Gula 2
+Vacuos Gula
+Vacuos Terra 4
+Vacuos Fames Victus Terra
+Vacuos Infernus 3
+Vacuos Praecantatio Infernus
+Vacuos Ordo 4
+Vacuos Aer Motus Ordo
+Vacuos Ira 5
+Vacuos Aer Lux Ignis Ira
+Vacuos Telum 5
+Vacuos Aer Lux Ignis Telum
+Vacuos Iter 4
+Vacuos Aer Motus Iter
+Vacuos Limus 4
+Vacuos Aer Aqua Limus
+Vacuos Lucrum 3
+Vacuos Fames Lucrum
+Vacuos Lux 3
+Vacuos Aer Lux
+Vacuos Luxuria 3
+Vacuos Fames Luxuria
+Vacuos Machina 4
+Vacuos Aer Motus Machina
+Vacuos Messis 5
+Vacuos Aer Aqua Herba Messis
 Vacuos Metallum 5
 Vacuos Fames Victus Terra Metallum
+Vacuos Vitreus 5
+Vacuos Aer Motus Ordo Vitreus
+Vacuos Meto 6
+Vacuos Aer Aqua Herba Messis Meto
+Vacuos Pannus 5
+Vacuos Aer Motus Bestia Pannus
+Vacuos Perfodio 5
+Vacuos Fames Victus Terra Perfodio
+Vacuos Permutatio 3
+Vacuos Perditio Permutatio
+Vacuos Potentia 3
+Vacuos Praecantatio Potentia
+Vacuos Sano 4
+Vacuos Fames Victus Sano
+Vacuos Sensus 3
+Vacuos Aer Sensus
+Vacuos Superbia 2
+Vacuos Superbia
+Vacuos Volatus 3
+Vacuos Aer Volatus
+Vacuos Tempestas 3
+Vacuos Aer Tempestas
+Vacuos Tutamen 5
+Vacuos Fames Victus Terra Tutamen
+Vacuos Venenum 3
+Vacuos Perditio Venenum
+Vacuos Vitium 3
+Vacuos Praecantatio Vitium
+Tenebrae Aer 3
+Tenebrae Vacuos Aer
+Tenebrae Alienis 2
+Tenebrae Alienis
+Tenebrae Vacuos 2
+Tenebrae Vacuos
+Tenebrae Aqua 4
+Tenebrae Vacuos Aer Aqua
 Tenebrae Herba 5
 Tenebrae Vacuos Aer Aqua Herba
+Tenebrae Arbor 4
+Tenebrae Vacuos Aer Arbor
+Tenebrae Auram 4
+Tenebrae Vacuos Aer Auram
 Tenebrae Praecantatio 3
 Tenebrae Vacuos Praecantatio
+Tenebrae Bestia 5
+Tenebrae Vacuos Aer Motus Bestia
+Tenebrae Motus 4
+Tenebrae Vacuos Aer Motus
+Tenebrae Victus 4
+Tenebrae Vacuos Fames Victus
+Tenebrae Cognitio 4
+Tenebrae Lux Ignis Cognitio
+Tenebrae Ignis 3
+Tenebrae Lux Ignis
+Tenebrae Spiritus 5
+Tenebrae Vacuos Aer Sensus Spiritus
+Tenebrae Corpus 5
+Tenebrae Vacuos Fames Luxuria Corpus
+Tenebrae Mortuus 4
+Tenebrae Vacuos Perditio Mortuus
+Tenebrae Desidia 5
+Tenebrae Vacuos Perditio Vinculum Desidia
+Tenebrae Vinculum 4
+Tenebrae Vacuos Perditio Vinculum
+Tenebrae Exanimus 5
+Tenebrae Vacuos Aer Motus Exanimus
+Tenebrae Fabrico 6
+Tenebrae Vacuos Fames Lucrum Humanus Fabrico
+Tenebrae Humanus 5
+Tenebrae Vacuos Fames Lucrum Humanus
+Tenebrae Instrumentum 5
+Tenebrae Lux Ignis Telum Instrumentum
+Tenebrae Fames 3
+Tenebrae Vacuos Fames
+Tenebrae Gelum 4
+Tenebrae Vacuos Perditio Gelum
+Tenebrae Perditio 3
+Tenebrae Vacuos Perditio
+Tenebrae Gula 3
+Tenebrae Vacuos Gula
+Tenebrae Terra 5
+Tenebrae Vacuos Fames Victus Terra
+Tenebrae Infernus 4
+Tenebrae Vacuos Praecantatio Infernus
+Tenebrae Ordo 5
+Tenebrae Vacuos Aer Motus Ordo
+Tenebrae Ira 4
+Tenebrae Lux Ignis Ira
+Tenebrae Telum 4
+Tenebrae Lux Ignis Telum
+Tenebrae Iter 5
+Tenebrae Vacuos Aer Motus Iter
+Tenebrae Limus 5
+Tenebrae Vacuos Aer Aqua Limus
+Tenebrae Lucrum 4
+Tenebrae Vacuos Fames Lucrum
+Tenebrae Lux 2
+Tenebrae Lux
+Tenebrae Luxuria 4
+Tenebrae Vacuos Fames Luxuria
+Tenebrae Machina 5
+Tenebrae Vacuos Aer Motus Machina
+Tenebrae Messis 6
+Tenebrae Vacuos Aer Aqua Herba Messis
 Tenebrae Metallum 6
 Tenebrae Vacuos Fames Victus Terra Metallum
+Tenebrae Vitreus 6
+Tenebrae Vacuos Aer Motus Ordo Vitreus
+Tenebrae Meto 6
+Tenebrae Lux Ignis Telum Instrumentum Meto
+Tenebrae Pannus 6
+Tenebrae Vacuos Aer Motus Bestia Pannus
+Tenebrae Perfodio 6
+Tenebrae Vacuos Fames Victus Terra Perfodio
+Tenebrae Permutatio 4
+Tenebrae Vacuos Perditio Permutatio
+Tenebrae Potentia 4
+Tenebrae Vacuos Praecantatio Potentia
+Tenebrae Sano 5
+Tenebrae Vacuos Fames Victus Sano
+Tenebrae Sensus 4
+Tenebrae Vacuos Aer Sensus
+Tenebrae Superbia 3
+Tenebrae Vacuos Superbia
+Tenebrae Volatus 4
+Tenebrae Vacuos Aer Volatus
+Tenebrae Tempestas 4
+Tenebrae Vacuos Aer Tempestas
+Tenebrae Tutamen 6
+Tenebrae Vacuos Fames Victus Terra Tutamen
+Tenebrae Venenum 4
+Tenebrae Vacuos Perditio Venenum
+Tenebrae Vitium 4
+Tenebrae Vacuos Praecantatio Vitium
+Aqua Aer 2
+Aqua Aer
+Aqua Alienis 4
+Aqua Aer Vacuos Alienis
+Aqua Vacuos 3
+Aqua Aer Vacuos
+Aqua Tenebrae 4
+Aqua Aer Vacuos Tenebrae
 Aqua Herba 2
 Aqua Herba
+Aqua Arbor 3
+Aqua Aer Arbor
+Aqua Auram 3
+Aqua Aer Auram
 Aqua Praecantatio 4
 Aqua Aer Vacuos Praecantatio
+Aqua Bestia 3
+Aqua Victus Bestia
+Aqua Motus 3
+Aqua Aer Motus
+Aqua Victus 2
+Aqua Victus
+Aqua Cognitio 4
+Aqua Victus Spiritus Cognitio
+Aqua Ignis 4
+Aqua Aer Lux Ignis
+Aqua Spiritus 3
+Aqua Victus Spiritus
+Aqua Corpus 4
+Aqua Victus Bestia Corpus
+Aqua Mortuus 3
+Aqua Victus Mortuus
+Aqua Desidia 4
+Aqua Victus Spiritus Desidia
+Aqua Vinculum 4
+Aqua Aer Motus Vinculum
+Aqua Exanimus 4
+Aqua Aer Motus Exanimus
+Aqua Fabrico 5
+Aqua Herba Messis Humanus Fabrico
+Aqua Humanus 4
+Aqua Herba Messis Humanus
+Aqua Instrumentum 5
+Aqua Aer Motus Ordo Instrumentum
+Aqua Fames 3
+Aqua Victus Fames
+Aqua Gelum 4
+Aqua Venenum Perditio Gelum
+Aqua Perditio 3
+Aqua Venenum Perditio
+Aqua Gula 4
+Aqua Aer Vacuos Gula
+Aqua Terra 3
+Aqua Herba Terra
+Aqua Infernus 5
+Aqua Aer Vacuos Praecantatio Infernus
+Aqua Ordo 4
+Aqua Aer Motus Ordo
+Aqua Ira 5
+Aqua Aer Lux Ignis Ira
+Aqua Telum 5
+Aqua Aer Lux Ignis Telum
+Aqua Iter 4
+Aqua Aer Motus Iter
+Aqua Limus 2
+Aqua Limus
+Aqua Lucrum 4
+Aqua Victus Fames Lucrum
+Aqua Lux 3
+Aqua Aer Lux
+Aqua Luxuria 4
+Aqua Victus Fames Luxuria
+Aqua Machina 4
+Aqua Aer Motus Machina
+Aqua Messis 3
+Aqua Herba Messis
 Aqua Metallum 4
 Aqua Herba Terra Metallum
+Aqua Vitreus 4
+Aqua Herba Terra Vitreus
+Aqua Meto 4
+Aqua Herba Messis Meto
+Aqua Pannus 4
+Aqua Victus Bestia Pannus
+Aqua Perfodio 4
+Aqua Herba Terra Perfodio
+Aqua Permutatio 4
+Aqua Venenum Perditio Permutatio
+Aqua Potentia 5
+Aqua Aer Vacuos Praecantatio Potentia
+Aqua Sano 3
+Aqua Victus Sano
+Aqua Sensus 3
+Aqua Aer Sensus
+Aqua Superbia 4
+Aqua Aer Vacuos Superbia
+Aqua Volatus 3
+Aqua Aer Volatus
+Aqua Tempestas 2
+Aqua Tempestas
+Aqua Tutamen 4
+Aqua Herba Terra Tutamen
+Aqua Venenum 2
+Aqua Venenum
+Aqua Vitium 4
+Aqua Venenum Perditio Vitium
+Herba Aer 3
+Herba Aqua Aer
+Herba Alienis 5
+Herba Aqua Aer Vacuos Alienis
+Herba Vacuos 4
+Herba Aqua Aer Vacuos
+Herba Tenebrae 5
+Herba Aqua Aer Vacuos Tenebrae
+Herba Aqua 2
+Herba Aqua
+Herba Arbor 2
+Herba Arbor
+Herba Auram 4
+Herba Aqua Aer Auram
 Herba Praecantatio 5
 Herba Aqua Aer Vacuos Praecantatio
+Herba Bestia 3
+Herba Victus Bestia
+Herba Motus 4
+Herba Aqua Aer Motus
+Herba Victus 2
+Herba Victus
+Herba Cognitio 4
+Herba Victus Spiritus Cognitio
+Herba Ignis 5
+Herba Aqua Aer Lux Ignis
+Herba Spiritus 3
+Herba Victus Spiritus
+Herba Corpus 4
+Herba Victus Bestia Corpus
+Herba Mortuus 3
+Herba Victus Mortuus
+Herba Desidia 4
+Herba Victus Spiritus Desidia
+Herba Vinculum 5
+Herba Aqua Aer Motus Vinculum
+Herba Exanimus 4
+Herba Victus Mortuus Exanimus
+Herba Fabrico 4
+Herba Messis Humanus Fabrico
+Herba Humanus 3
+Herba Messis Humanus
+Herba Instrumentum 4
+Herba Terra Tutamen Instrumentum
+Herba Fames 3
+Herba Victus Fames
+Herba Gelum 5
+Herba Aqua Venenum Perditio Gelum
+Herba Perditio 4
+Herba Aqua Venenum Perditio
+Herba Gula 4
+Herba Victus Fames Gula
+Herba Terra 2
+Herba Terra
+Herba Infernus 6
+Herba Aqua Aer Vacuos Praecantatio Infernus
+Herba Ordo 4
+Herba Victus Sano Ordo
+Herba Ira 6
+Herba Aqua Aer Lux Ignis Ira
+Herba Telum 5
+Herba Terra Tutamen Instrumentum Telum
+Herba Iter 3
+Herba Terra Iter
+Herba Limus 3
+Herba Aqua Limus
+Herba Lucrum 4
+Herba Victus Fames Lucrum
+Herba Lux 4
+Herba Aqua Aer Lux
+Herba Luxuria 4
+Herba Victus Fames Luxuria
+Herba Machina 5
+Herba Aqua Aer Motus Machina
+Herba Messis 2
+Herba Messis
 Herba Metallum 3
 Herba Terra Metallum
+Herba Vitreus 3
+Herba Terra Vitreus
+Herba Meto 3
+Herba Messis Meto
+Herba Pannus 4
+Herba Victus Bestia Pannus
+Herba Perfodio 3
+Herba Terra Perfodio
+Herba Permutatio 5
+Herba Aqua Venenum Perditio Permutatio
+Herba Potentia 5
+Herba Victus Sano Ordo Potentia
+Herba Sano 3
+Herba Victus Sano
+Herba Sensus 4
+Herba Aqua Aer Sensus
+Herba Superbia 5
+Herba Aqua Aer Vacuos Superbia
+Herba Volatus 4
+Herba Aqua Aer Volatus
+Herba Tempestas 3
+Herba Aqua Tempestas
+Herba Tutamen 3
+Herba Terra Tutamen
+Herba Venenum 3
+Herba Aqua Venenum
+Herba Vitium 5
+Herba Aqua Venenum Perditio Vitium
+Arbor Aer 2
+Arbor Aer
+Arbor Alienis 4
+Arbor Aer Vacuos Alienis
+Arbor Vacuos 3
+Arbor Aer Vacuos
+Arbor Tenebrae 4
+Arbor Aer Vacuos Tenebrae
+Arbor Aqua 3
+Arbor Aer Aqua
 Arbor Herba 2
 Arbor Herba
+Arbor Auram 3
+Arbor Aer Auram
 Arbor Praecantatio 4
 Arbor Aer Vacuos Praecantatio
+Arbor Bestia 4
+Arbor Aer Motus Bestia
+Arbor Motus 3
+Arbor Aer Motus
+Arbor Victus 3
+Arbor Herba Victus
+Arbor Cognitio 5
+Arbor Aer Lux Ignis Cognitio
+Arbor Ignis 4
+Arbor Aer Lux Ignis
+Arbor Spiritus 4
+Arbor Aer Sensus Spiritus
+Arbor Corpus 5
+Arbor Aer Motus Bestia Corpus
+Arbor Mortuus 4
+Arbor Herba Victus Mortuus
+Arbor Desidia 5
+Arbor Aer Motus Vinculum Desidia
+Arbor Vinculum 4
+Arbor Aer Motus Vinculum
+Arbor Exanimus 4
+Arbor Aer Motus Exanimus
+Arbor Fabrico 5
+Arbor Herba Messis Humanus Fabrico
+Arbor Humanus 4
+Arbor Herba Messis Humanus
+Arbor Instrumentum 5
+Arbor Aer Motus Ordo Instrumentum
+Arbor Fames 4
+Arbor Aer Vacuos Fames
+Arbor Gelum 5
+Arbor Aer Vacuos Perditio Gelum
+Arbor Perditio 4
+Arbor Aer Vacuos Perditio
+Arbor Gula 4
+Arbor Aer Vacuos Gula
+Arbor Terra 3
+Arbor Herba Terra
+Arbor Infernus 5
+Arbor Aer Vacuos Praecantatio Infernus
+Arbor Ordo 4
+Arbor Aer Motus Ordo
+Arbor Ira 5
+Arbor Aer Lux Ignis Ira
+Arbor Telum 5
+Arbor Aer Lux Ignis Telum
+Arbor Iter 4
+Arbor Aer Motus Iter
+Arbor Limus 4
+Arbor Aer Aqua Limus
+Arbor Lucrum 5
+Arbor Aer Vacuos Fames Lucrum
+Arbor Lux 3
+Arbor Aer Lux
+Arbor Luxuria 5
+Arbor Aer Vacuos Fames Luxuria
+Arbor Machina 4
+Arbor Aer Motus Machina
+Arbor Messis 3
+Arbor Herba Messis
 Arbor Metallum 4
 Arbor Herba Terra Metallum
+Arbor Vitreus 4
+Arbor Herba Terra Vitreus
+Arbor Meto 4
+Arbor Herba Messis Meto
+Arbor Pannus 5
+Arbor Aer Motus Bestia Pannus
+Arbor Perfodio 4
+Arbor Herba Terra Perfodio
+Arbor Permutatio 5
+Arbor Aer Vacuos Perditio Permutatio
+Arbor Potentia 5
+Arbor Aer Vacuos Praecantatio Potentia
+Arbor Sano 4
+Arbor Herba Victus Sano
+Arbor Sensus 3
+Arbor Aer Sensus
+Arbor Superbia 4
+Arbor Aer Vacuos Superbia
+Arbor Volatus 3
+Arbor Aer Volatus
+Arbor Tempestas 3
+Arbor Aer Tempestas
+Arbor Tutamen 4
+Arbor Herba Terra Tutamen
+Arbor Venenum 4
+Arbor Aer Aqua Venenum
+Arbor Vitium 5
+Arbor Aer Vacuos Praecantatio Vitium
+Auram Aer 2
+Auram Aer
+Auram Alienis 4
+Auram Aer Vacuos Alienis
+Auram Vacuos 3
+Auram Aer Vacuos
+Auram Tenebrae 4
+Auram Aer Vacuos Tenebrae
+Auram Aqua 3
+Auram Aer Aqua
 Auram Herba 4
 Auram Aer Aqua Herba
+Auram Arbor 3
+Auram Aer Arbor
 Auram Praecantatio 2
 Auram Praecantatio
+Auram Bestia 4
+Auram Aer Motus Bestia
+Auram Motus 3
+Auram Aer Motus
+Auram Victus 4
+Auram Aer Aqua Victus
+Auram Cognitio 5
+Auram Aer Lux Ignis Cognitio
+Auram Ignis 4
+Auram Aer Lux Ignis
+Auram Spiritus 4
+Auram Aer Sensus Spiritus
+Auram Corpus 5
+Auram Aer Motus Bestia Corpus
+Auram Mortuus 5
+Auram Aer Vacuos Perditio Mortuus
+Auram Desidia 5
+Auram Aer Motus Vinculum Desidia
+Auram Vinculum 4
+Auram Aer Motus Vinculum
+Auram Exanimus 4
+Auram Aer Motus Exanimus
+Auram Fabrico 6
+Auram Aer Motus Bestia Humanus Fabrico
+Auram Humanus 5
+Auram Aer Motus Bestia Humanus
+Auram Instrumentum 5
+Auram Aer Motus Ordo Instrumentum
+Auram Fames 4
+Auram Aer Vacuos Fames
+Auram Gelum 5
+Auram Aer Vacuos Perditio Gelum
+Auram Perditio 4
+Auram Aer Vacuos Perditio
+Auram Gula 4
+Auram Aer Vacuos Gula
+Auram Terra 5
+Auram Aer Aqua Herba Terra
+Auram Infernus 3
+Auram Praecantatio Infernus
+Auram Ordo 4
+Auram Aer Motus Ordo
+Auram Ira 5
+Auram Aer Lux Ignis Ira
+Auram Telum 5
+Auram Aer Lux Ignis Telum
+Auram Iter 4
+Auram Aer Motus Iter
+Auram Limus 4
+Auram Aer Aqua Limus
+Auram Lucrum 5
+Auram Aer Vacuos Fames Lucrum
+Auram Lux 3
+Auram Aer Lux
+Auram Luxuria 5
+Auram Aer Vacuos Fames Luxuria
+Auram Machina 4
+Auram Aer Motus Machina
+Auram Messis 5
+Auram Aer Aqua Herba Messis
 Auram Metallum 6
 Auram Aer Aqua Herba Terra Metallum
+Auram Vitreus 5
+Auram Aer Motus Ordo Vitreus
+Auram Meto 6
+Auram Aer Aqua Herba Messis Meto
+Auram Pannus 5
+Auram Aer Motus Bestia Pannus
+Auram Perfodio 6
+Auram Aer Aqua Herba Terra Perfodio
+Auram Permutatio 5
+Auram Aer Vacuos Perditio Permutatio
+Auram Potentia 3
+Auram Praecantatio Potentia
+Auram Sano 5
+Auram Aer Aqua Victus Sano
+Auram Sensus 3
+Auram Aer Sensus
+Auram Superbia 4
+Auram Aer Vacuos Superbia
+Auram Volatus 3
+Auram Aer Volatus
+Auram Tempestas 3
+Auram Aer Tempestas
+Auram Tutamen 6
+Auram Aer Aqua Herba Terra Tutamen
+Auram Venenum 4
+Auram Aer Aqua Venenum
+Auram Vitium 3
+Auram Praecantatio Vitium
+Praecantatio Aer 3
+Praecantatio Vacuos Aer
+Praecantatio Alienis 3
+Praecantatio Vacuos Alienis
+Praecantatio Vacuos 2
+Praecantatio Vacuos
+Praecantatio Tenebrae 3
+Praecantatio Vacuos Tenebrae
+Praecantatio Aqua 4
+Praecantatio Vacuos Aer Aqua
 Praecantatio Herba 5
 Praecantatio Vacuos Aer Aqua Herba
+Praecantatio Arbor 4
+Praecantatio Vacuos Aer Arbor
+Praecantatio Auram 2
+Praecantatio Auram
+Praecantatio Bestia 5
+Praecantatio Vacuos Aer Motus Bestia
+Praecantatio Motus 4
+Praecantatio Vacuos Aer Motus
+Praecantatio Victus 4
+Praecantatio Vacuos Fames Victus
+Praecantatio Cognitio 4
+Praecantatio Infernus Ignis Cognitio
+Praecantatio Ignis 3
+Praecantatio Infernus Ignis
+Praecantatio Spiritus 5
+Praecantatio Vacuos Aer Sensus Spiritus
+Praecantatio Corpus 5
+Praecantatio Vacuos Fames Luxuria Corpus
+Praecantatio Mortuus 4
+Praecantatio Vacuos Perditio Mortuus
+Praecantatio Desidia 5
+Praecantatio Vacuos Perditio Vinculum Desidia
+Praecantatio Vinculum 4
+Praecantatio Vacuos Perditio Vinculum
+Praecantatio Exanimus 5
+Praecantatio Vacuos Aer Motus Exanimus
+Praecantatio Fabrico 5
+Praecantatio Potentia Ordo Instrumentum Fabrico
+Praecantatio Humanus 5
+Praecantatio Vacuos Fames Lucrum Humanus
+Praecantatio Instrumentum 4
+Praecantatio Potentia Ordo Instrumentum
+Praecantatio Fames 3
+Praecantatio Vacuos Fames
+Praecantatio Gelum 4
+Praecantatio Vacuos Perditio Gelum
+Praecantatio Perditio 3
+Praecantatio Vacuos Perditio
+Praecantatio Gula 3
+Praecantatio Vacuos Gula
+Praecantatio Terra 5
+Praecantatio Vacuos Fames Victus Terra
+Praecantatio Infernus 2
+Praecantatio Infernus
+Praecantatio Ordo 3
+Praecantatio Potentia Ordo
+Praecantatio Ira 4
+Praecantatio Infernus Ignis Ira
+Praecantatio Telum 4
+Praecantatio Infernus Ignis Telum
+Praecantatio Iter 5
+Praecantatio Vacuos Aer Motus Iter
+Praecantatio Limus 5
+Praecantatio Vacuos Aer Aqua Limus
+Praecantatio Lucrum 4
+Praecantatio Vacuos Fames Lucrum
+Praecantatio Lux 4
+Praecantatio Vacuos Aer Lux
+Praecantatio Luxuria 4
+Praecantatio Vacuos Fames Luxuria
+Praecantatio Machina 5
+Praecantatio Vacuos Aer Motus Machina
+Praecantatio Messis 6
+Praecantatio Vacuos Aer Aqua Herba Messis
 Praecantatio Metallum 5
 Praecantatio Potentia Ordo Vitreus Metallum
+Praecantatio Vitreus 4
+Praecantatio Potentia Ordo Vitreus
+Praecantatio Meto 5
+Praecantatio Potentia Ordo Instrumentum Meto
+Praecantatio Pannus 5
+Praecantatio Potentia Ordo Instrumentum Pannus
+Praecantatio Perfodio 6
+Praecantatio Vacuos Fames Victus Terra Perfodio
+Praecantatio Permutatio 4
+Praecantatio Vacuos Perditio Permutatio
+Praecantatio Potentia 2
+Praecantatio Potentia
+Praecantatio Sano 4
+Praecantatio Potentia Ordo Sano
+Praecantatio Sensus 4
+Praecantatio Vacuos Aer Sensus
+Praecantatio Superbia 3
+Praecantatio Vacuos Superbia
+Praecantatio Volatus 4
+Praecantatio Vacuos Aer Volatus
+Praecantatio Tempestas 4
+Praecantatio Vacuos Aer Tempestas
+Praecantatio Tutamen 5
+Praecantatio Potentia Ordo Instrumentum Tutamen
+Praecantatio Venenum 4
+Praecantatio Vacuos Perditio Venenum
+Praecantatio Vitium 2
+Praecantatio Vitium
+Bestia Aer 3
+Bestia Motus Aer
+Bestia Alienis 5
+Bestia Motus Aer Vacuos Alienis
+Bestia Vacuos 4
+Bestia Motus Aer Vacuos
+Bestia Tenebrae 5
+Bestia Motus Aer Vacuos Tenebrae
+Bestia Aqua 3
+Bestia Victus Aqua
 Bestia Herba 3
 Bestia Victus Herba
+Bestia Arbor 4
+Bestia Motus Aer Arbor
+Bestia Auram 4
+Bestia Motus Aer Auram
 Bestia Praecantatio 5
 Bestia Motus Aer Vacuos Praecantatio
+Bestia Motus 2
+Bestia Motus
+Bestia Victus 2
+Bestia Victus
+Bestia Cognitio 3
+Bestia Humanus Cognitio
+Bestia Ignis 4
+Bestia Humanus Cognitio Ignis
+Bestia Spiritus 3
+Bestia Victus Spiritus
+Bestia Corpus 2
+Bestia Corpus
+Bestia Mortuus 3
+Bestia Victus Mortuus
+Bestia Desidia 4
+Bestia Motus Vinculum Desidia
+Bestia Vinculum 3
+Bestia Motus Vinculum
+Bestia Exanimus 3
+Bestia Motus Exanimus
+Bestia Fabrico 3
+Bestia Humanus Fabrico
+Bestia Humanus 2
+Bestia Humanus
+Bestia Instrumentum 3
+Bestia Humanus Instrumentum
+Bestia Fames 3
+Bestia Victus Fames
+Bestia Gelum 5
+Bestia Motus Vinculum Perditio Gelum
+Bestia Perditio 4
+Bestia Motus Vinculum Perditio
+Bestia Gula 4
+Bestia Victus Fames Gula
+Bestia Terra 3
+Bestia Victus Terra
+Bestia Infernus 5
+Bestia Humanus Cognitio Ignis Infernus
+Bestia Ordo 3
+Bestia Motus Ordo
+Bestia Ira 5
+Bestia Humanus Cognitio Ignis Ira
+Bestia Telum 4
+Bestia Humanus Instrumentum Telum
+Bestia Iter 3
+Bestia Motus Iter
+Bestia Limus 3
+Bestia Victus Limus
+Bestia Lucrum 3
+Bestia Humanus Lucrum
+Bestia Lux 4
+Bestia Motus Aer Lux
+Bestia Luxuria 3
+Bestia Corpus Luxuria
+Bestia Machina 3
+Bestia Motus Machina
+Bestia Messis 3
+Bestia Humanus Messis
 Bestia Metallum 4
 Bestia Victus Terra Metallum
+Bestia Vitreus 4
+Bestia Motus Ordo Vitreus
+Bestia Meto 4
+Bestia Humanus Instrumentum Meto
+Bestia Pannus 2
+Bestia Pannus
+Bestia Perfodio 3
+Bestia Humanus Perfodio
+Bestia Permutatio 4
+Bestia Motus Ordo Permutatio
+Bestia Potentia 4
+Bestia Motus Ordo Potentia
+Bestia Sano 3
+Bestia Victus Sano
+Bestia Sensus 4
+Bestia Motus Aer Sensus
+Bestia Superbia 4
+Bestia Motus Volatus Superbia
+Bestia Volatus 3
+Bestia Motus Volatus
+Bestia Tempestas 4
+Bestia Motus Aer Tempestas
+Bestia Tutamen 4
+Bestia Victus Terra Tutamen
+Bestia Venenum 4
+Bestia Victus Aqua Venenum
+Bestia Vitium 5
+Bestia Motus Vinculum Perditio Vitium
+Motus Aer 2
+Motus Aer
+Motus Alienis 4
+Motus Aer Vacuos Alienis
+Motus Vacuos 3
+Motus Aer Vacuos
+Motus Tenebrae 4
+Motus Aer Vacuos Tenebrae
+Motus Aqua 3
+Motus Aer Aqua
 Motus Herba 4
 Motus Aer Aqua Herba
+Motus Arbor 3
+Motus Aer Arbor
+Motus Auram 3
+Motus Aer Auram
 Motus Praecantatio 4
 Motus Aer Vacuos Praecantatio
+Motus Bestia 2
+Motus Bestia
+Motus Victus 3
+Motus Bestia Victus
+Motus Cognitio 4
+Motus Bestia Humanus Cognitio
+Motus Ignis 4
+Motus Aer Lux Ignis
+Motus Spiritus 4
+Motus Aer Sensus Spiritus
+Motus Corpus 3
+Motus Bestia Corpus
+Motus Mortuus 3
+Motus Exanimus Mortuus
+Motus Desidia 3
+Motus Vinculum Desidia
+Motus Vinculum 2
+Motus Vinculum
+Motus Exanimus 2
+Motus Exanimus
+Motus Fabrico 4
+Motus Bestia Humanus Fabrico
+Motus Humanus 3
+Motus Bestia Humanus
+Motus Instrumentum 3
+Motus Ordo Instrumentum
+Motus Fames 4
+Motus Aer Vacuos Fames
+Motus Gelum 4
+Motus Vinculum Perditio Gelum
+Motus Perditio 3
+Motus Vinculum Perditio
+Motus Gula 4
+Motus Aer Vacuos Gula
+Motus Terra 3
+Motus Iter Terra
+Motus Infernus 5
+Motus Aer Vacuos Praecantatio Infernus
+Motus Ordo 2
+Motus Ordo
+Motus Ira 5
+Motus Aer Lux Ignis Ira
+Motus Telum 4
+Motus Ordo Instrumentum Telum
+Motus Iter 2
+Motus Iter
+Motus Limus 4
+Motus Aer Aqua Limus
+Motus Lucrum 4
+Motus Bestia Humanus Lucrum
+Motus Lux 3
+Motus Aer Lux
+Motus Luxuria 4
+Motus Bestia Corpus Luxuria
+Motus Machina 2
+Motus Machina
+Motus Messis 4
+Motus Bestia Humanus Messis
 Motus Metallum 4
 Motus Ordo Vitreus Metallum
+Motus Vitreus 3
+Motus Ordo Vitreus
+Motus Meto 4
+Motus Ordo Instrumentum Meto
+Motus Pannus 3
+Motus Bestia Pannus
+Motus Perfodio 4
+Motus Bestia Humanus Perfodio
+Motus Permutatio 3
+Motus Ordo Permutatio
+Motus Potentia 3
+Motus Ordo Potentia
+Motus Sano 3
+Motus Ordo Sano
+Motus Sensus 3
+Motus Aer Sensus
+Motus Superbia 3
+Motus Volatus Superbia
+Motus Volatus 2
+Motus Volatus
+Motus Tempestas 3
+Motus Aer Tempestas
+Motus Tutamen 4
+Motus Ordo Instrumentum Tutamen
+Motus Venenum 4
+Motus Aer Aqua Venenum
+Motus Vitium 4
+Motus Vinculum Perditio Vitium
+Victus Aer 3
+Victus Aqua Aer
+Victus Alienis 4
+Victus Fames Vacuos Alienis
+Victus Vacuos 3
+Victus Fames Vacuos
+Victus Tenebrae 4
+Victus Fames Vacuos Tenebrae
+Victus Aqua 2
+Victus Aqua
 Victus Herba 2
 Victus Herba
+Victus Arbor 3
+Victus Herba Arbor
+Victus Auram 4
+Victus Aqua Aer Auram
 Victus Praecantatio 4
 Victus Fames Vacuos Praecantatio
+Victus Bestia 2
+Victus Bestia
+Victus Motus 3
+Victus Bestia Motus
+Victus Cognitio 3
+Victus Spiritus Cognitio
+Victus Ignis 4
+Victus Spiritus Cognitio Ignis
+Victus Spiritus 2
+Victus Spiritus
+Victus Corpus 3
+Victus Bestia Corpus
+Victus Mortuus 2
+Victus Mortuus
+Victus Desidia 3
+Victus Spiritus Desidia
+Victus Vinculum 4
+Victus Bestia Motus Vinculum
+Victus Exanimus 3
+Victus Mortuus Exanimus
+Victus Fabrico 4
+Victus Bestia Humanus Fabrico
+Victus Humanus 3
+Victus Bestia Humanus
+Victus Instrumentum 4
+Victus Bestia Humanus Instrumentum
+Victus Fames 2
+Victus Fames
+Victus Gelum 4
+Victus Mortuus Perditio Gelum
+Victus Perditio 3
+Victus Mortuus Perditio
+Victus Gula 3
+Victus Fames Gula
+Victus Terra 2
+Victus Terra
+Victus Infernus 5
+Victus Spiritus Cognitio Ignis Infernus
+Victus Ordo 3
+Victus Sano Ordo
+Victus Ira 5
+Victus Spiritus Cognitio Ignis Ira
+Victus Telum 5
+Victus Bestia Humanus Instrumentum Telum
+Victus Iter 3
+Victus Terra Iter
+Victus Limus 2
+Victus Limus
+Victus Lucrum 3
+Victus Fames Lucrum
+Victus Lux 4
+Victus Aqua Aer Lux
+Victus Luxuria 3
+Victus Fames Luxuria
+Victus Machina 4
+Victus Bestia Motus Machina
+Victus Messis 3
+Victus Herba Messis
 Victus Metallum 3
 Victus Terra Metallum
+Victus Vitreus 3
+Victus Terra Vitreus
+Victus Meto 4
+Victus Herba Messis Meto
+Victus Pannus 3
+Victus Bestia Pannus
+Victus Perfodio 3
+Victus Terra Perfodio
+Victus Permutatio 4
+Victus Mortuus Perditio Permutatio
+Victus Potentia 4
+Victus Sano Ordo Potentia
+Victus Sano 2
+Victus Sano
+Victus Sensus 3
+Victus Spiritus Sensus
+Victus Superbia 4
+Victus Fames Vacuos Superbia
+Victus Volatus 4
+Victus Aqua Aer Volatus
+Victus Tempestas 3
+Victus Aqua Tempestas
+Victus Tutamen 3
+Victus Terra Tutamen
+Victus Venenum 3
+Victus Aqua Venenum
+Victus Vitium 4
+Victus Mortuus Perditio Vitium
+Cognitio Aer 4
+Cognitio Ignis Lux Aer
+Cognitio Alienis 5
+Cognitio Ignis Lux Tenebrae Alienis
+Cognitio Vacuos 5
+Cognitio Ignis Gelum Perditio Vacuos
+Cognitio Tenebrae 4
+Cognitio Ignis Lux Tenebrae
+Cognitio Aqua 4
+Cognitio Spiritus Victus Aqua
 Cognitio Herba 4
 Cognitio Spiritus Victus Herba
+Cognitio Arbor 5
+Cognitio Ignis Lux Aer Arbor
+Cognitio Auram 5
+Cognitio Ignis Infernus Praecantatio Auram
 Cognitio Praecantatio 4
 Cognitio Ignis Infernus Praecantatio
+Cognitio Bestia 3
+Cognitio Humanus Bestia
+Cognitio Motus 4
+Cognitio Humanus Bestia Motus
+Cognitio Victus 3
+Cognitio Spiritus Victus
+Cognitio Ignis 2
+Cognitio Ignis
+Cognitio Spiritus 2
+Cognitio Spiritus
+Cognitio Corpus 4
+Cognitio Spiritus Mortuus Corpus
+Cognitio Mortuus 3
+Cognitio Spiritus Mortuus
+Cognitio Desidia 3
+Cognitio Spiritus Desidia
+Cognitio Vinculum 4
+Cognitio Spiritus Desidia Vinculum
+Cognitio Exanimus 4
+Cognitio Spiritus Mortuus Exanimus
+Cognitio Fabrico 3
+Cognitio Humanus Fabrico
+Cognitio Humanus 2
+Cognitio Humanus
+Cognitio Instrumentum 3
+Cognitio Humanus Instrumentum
+Cognitio Fames 4
+Cognitio Spiritus Victus Fames
+Cognitio Gelum 3
+Cognitio Ignis Gelum
+Cognitio Perditio 4
+Cognitio Ignis Gelum Perditio
+Cognitio Gula 5
+Cognitio Spiritus Victus Fames Gula
+Cognitio Terra 4
+Cognitio Spiritus Victus Terra
+Cognitio Infernus 3
+Cognitio Ignis Infernus
+Cognitio Ordo 4
+Cognitio Ignis Potentia Ordo
+Cognitio Ira 3
+Cognitio Ignis Ira
+Cognitio Telum 3
+Cognitio Ignis Telum
+Cognitio Iter 5
+Cognitio Spiritus Victus Terra Iter
+Cognitio Limus 4
+Cognitio Spiritus Victus Limus
+Cognitio Lucrum 3
+Cognitio Humanus Lucrum
+Cognitio Lux 3
+Cognitio Ignis Lux
+Cognitio Luxuria 5
+Cognitio Spiritus Victus Fames Luxuria
+Cognitio Machina 4
+Cognitio Humanus Instrumentum Machina
+Cognitio Messis 3
+Cognitio Humanus Messis
 Cognitio Metallum 5
 Cognitio Spiritus Victus Terra Metallum
+Cognitio Vitreus 5
+Cognitio Ignis Potentia Ordo Vitreus
+Cognitio Meto 4
+Cognitio Humanus Instrumentum Meto
+Cognitio Pannus 4
+Cognitio Humanus Bestia Pannus
+Cognitio Perfodio 3
+Cognitio Humanus Perfodio
+Cognitio Permutatio 5
+Cognitio Ignis Gelum Perditio Permutatio
+Cognitio Potentia 3
+Cognitio Ignis Potentia
+Cognitio Sano 4
+Cognitio Spiritus Victus Sano
+Cognitio Sensus 3
+Cognitio Spiritus Sensus
+Cognitio Superbia 6
+Cognitio Ignis Gelum Perditio Vacuos Superbia
+Cognitio Volatus 5
+Cognitio Ignis Lux Aer Volatus
+Cognitio Tempestas 5
+Cognitio Ignis Lux Aer Tempestas
+Cognitio Tutamen 4
+Cognitio Humanus Instrumentum Tutamen
+Cognitio Venenum 5
+Cognitio Ignis Gelum Perditio Venenum
+Cognitio Vitium 5
+Cognitio Ignis Gelum Perditio Vitium
+Ignis Aer 3
+Ignis Lux Aer
+Ignis Alienis 4
+Ignis Lux Tenebrae Alienis
+Ignis Vacuos 4
+Ignis Gelum Perditio Vacuos
+Ignis Tenebrae 3
+Ignis Lux Tenebrae
+Ignis Aqua 4
+Ignis Lux Aer Aqua
 Ignis Herba 5
 Ignis Cognitio Spiritus Victus Herba
+Ignis Arbor 4
+Ignis Lux Aer Arbor
+Ignis Auram 4
+Ignis Infernus Praecantatio Auram
 Ignis Praecantatio 3
 Ignis Infernus Praecantatio
+Ignis Bestia 4
+Ignis Cognitio Humanus Bestia
+Ignis Motus 4
+Ignis Lux Aer Motus
+Ignis Victus 4
+Ignis Cognitio Spiritus Victus
+Ignis Cognitio 2
+Ignis Cognitio
+Ignis Spiritus 3
+Ignis Cognitio Spiritus
+Ignis Corpus 5
+Ignis Cognitio Spiritus Mortuus Corpus
+Ignis Mortuus 4
+Ignis Cognitio Spiritus Mortuus
+Ignis Desidia 4
+Ignis Cognitio Spiritus Desidia
+Ignis Vinculum 4
+Ignis Gelum Perditio Vinculum
+Ignis Exanimus 5
+Ignis Cognitio Spiritus Mortuus Exanimus
+Ignis Fabrico 4
+Ignis Cognitio Humanus Fabrico
+Ignis Humanus 3
+Ignis Cognitio Humanus
+Ignis Instrumentum 3
+Ignis Telum Instrumentum
+Ignis Fames 5
+Ignis Cognitio Spiritus Victus Fames
+Ignis Gelum 2
+Ignis Gelum
+Ignis Perditio 3
+Ignis Gelum Perditio
+Ignis Gula 5
+Ignis Gelum Perditio Vacuos Gula
+Ignis Terra 5
+Ignis Cognitio Spiritus Victus Terra
+Ignis Infernus 2
+Ignis Infernus
+Ignis Ordo 3
+Ignis Potentia Ordo
+Ignis Ira 2
+Ignis Ira
+Ignis Telum 2
+Ignis Telum
+Ignis Iter 5
+Ignis Lux Aer Motus Iter
+Ignis Limus 5
+Ignis Cognitio Spiritus Victus Limus
+Ignis Lucrum 4
+Ignis Cognitio Humanus Lucrum
+Ignis Lux 2
+Ignis Lux
+Ignis Luxuria 6
+Ignis Cognitio Spiritus Victus Fames Luxuria
+Ignis Machina 4
+Ignis Telum Instrumentum Machina
+Ignis Messis 4
+Ignis Cognitio Humanus Messis
 Ignis Metallum 5
 Ignis Potentia Ordo Vitreus Metallum
+Ignis Vitreus 4
+Ignis Potentia Ordo Vitreus
+Ignis Meto 4
+Ignis Telum Instrumentum Meto
+Ignis Pannus 4
+Ignis Telum Instrumentum Pannus
+Ignis Perfodio 4
+Ignis Cognitio Humanus Perfodio
+Ignis Permutatio 4
+Ignis Gelum Perditio Permutatio
+Ignis Potentia 2
+Ignis Potentia
+Ignis Sano 4
+Ignis Potentia Ordo Sano
+Ignis Sensus 4
+Ignis Cognitio Spiritus Sensus
+Ignis Superbia 5
+Ignis Gelum Perditio Vacuos Superbia
+Ignis Volatus 4
+Ignis Lux Aer Volatus
+Ignis Tempestas 4
+Ignis Lux Aer Tempestas
+Ignis Tutamen 4
+Ignis Telum Instrumentum Tutamen
+Ignis Venenum 4
+Ignis Gelum Perditio Venenum
+Ignis Vitium 4
+Ignis Gelum Perditio Vitium
+Spiritus Aer 3
+Spiritus Sensus Aer
+Spiritus Alienis 5
+Spiritus Victus Fames Vacuos Alienis
+Spiritus Vacuos 4
+Spiritus Victus Fames Vacuos
+Spiritus Tenebrae 5
+Spiritus Victus Fames Vacuos Tenebrae
+Spiritus Aqua 3
+Spiritus Victus Aqua
 Spiritus Herba 3
 Spiritus Victus Herba
+Spiritus Arbor 4
+Spiritus Victus Herba Arbor
+Spiritus Auram 4
+Spiritus Sensus Aer Auram
 Spiritus Praecantatio 5
 Spiritus Victus Fames Vacuos Praecantatio
+Spiritus Bestia 3
+Spiritus Victus Bestia
+Spiritus Motus 4
+Spiritus Victus Bestia Motus
+Spiritus Victus 2
+Spiritus Victus
+Spiritus Cognitio 2
+Spiritus Cognitio
+Spiritus Ignis 3
+Spiritus Cognitio Ignis
+Spiritus Corpus 3
+Spiritus Mortuus Corpus
+Spiritus Mortuus 2
+Spiritus Mortuus
+Spiritus Desidia 2
+Spiritus Desidia
+Spiritus Vinculum 3
+Spiritus Desidia Vinculum
+Spiritus Exanimus 3
+Spiritus Mortuus Exanimus
+Spiritus Fabrico 4
+Spiritus Cognitio Humanus Fabrico
+Spiritus Humanus 3
+Spiritus Cognitio Humanus
+Spiritus Instrumentum 4
+Spiritus Cognitio Humanus Instrumentum
+Spiritus Fames 3
+Spiritus Victus Fames
+Spiritus Gelum 4
+Spiritus Cognitio Ignis Gelum
+Spiritus Perditio 3
+Spiritus Mortuus Perditio
+Spiritus Gula 4
+Spiritus Victus Fames Gula
+Spiritus Terra 3
+Spiritus Victus Terra
+Spiritus Infernus 4
+Spiritus Cognitio Ignis Infernus
+Spiritus Ordo 4
+Spiritus Victus Sano Ordo
+Spiritus Ira 4
+Spiritus Cognitio Ignis Ira
+Spiritus Telum 4
+Spiritus Cognitio Ignis Telum
+Spiritus Iter 4
+Spiritus Victus Terra Iter
+Spiritus Limus 3
+Spiritus Victus Limus
+Spiritus Lucrum 4
+Spiritus Victus Fames Lucrum
+Spiritus Lux 4
+Spiritus Cognitio Ignis Lux
+Spiritus Luxuria 4
+Spiritus Victus Fames Luxuria
+Spiritus Machina 5
+Spiritus Victus Bestia Motus Machina
+Spiritus Messis 4
+Spiritus Victus Herba Messis
 Spiritus Metallum 4
 Spiritus Victus Terra Metallum
+Spiritus Vitreus 4
+Spiritus Victus Terra Vitreus
+Spiritus Meto 5
+Spiritus Victus Herba Messis Meto
+Spiritus Pannus 4
+Spiritus Victus Bestia Pannus
+Spiritus Perfodio 4
+Spiritus Victus Terra Perfodio
+Spiritus Permutatio 4
+Spiritus Mortuus Perditio Permutatio
+Spiritus Potentia 4
+Spiritus Cognitio Ignis Potentia
+Spiritus Sano 3
+Spiritus Victus Sano
+Spiritus Sensus 2
+Spiritus Sensus
+Spiritus Superbia 5
+Spiritus Victus Fames Vacuos Superbia
+Spiritus Volatus 4
+Spiritus Sensus Aer Volatus
+Spiritus Tempestas 4
+Spiritus Victus Aqua Tempestas
+Spiritus Tutamen 4
+Spiritus Victus Terra Tutamen
+Spiritus Venenum 4
+Spiritus Victus Aqua Venenum
+Spiritus Vitium 4
+Spiritus Mortuus Perditio Vitium
+Corpus Aer 4
+Corpus Bestia Motus Aer
+Corpus Alienis 5
+Corpus Mortuus Perditio Vacuos Alienis
+Corpus Vacuos 4
+Corpus Mortuus Perditio Vacuos
+Corpus Tenebrae 5
+Corpus Mortuus Perditio Vacuos Tenebrae
+Corpus Aqua 4
+Corpus Bestia Victus Aqua
 Corpus Herba 4
 Corpus Bestia Victus Herba
+Corpus Arbor 5
+Corpus Bestia Motus Aer Arbor
+Corpus Auram 5
+Corpus Bestia Motus Aer Auram
 Corpus Praecantatio 5
 Corpus Mortuus Perditio Vacuos Praecantatio
+Corpus Bestia 2
+Corpus Bestia
+Corpus Motus 3
+Corpus Bestia Motus
+Corpus Victus 3
+Corpus Bestia Victus
+Corpus Cognitio 4
+Corpus Bestia Humanus Cognitio
+Corpus Ignis 5
+Corpus Bestia Humanus Cognitio Ignis
+Corpus Spiritus 3
+Corpus Mortuus Spiritus
+Corpus Mortuus 2
+Corpus Mortuus
+Corpus Desidia 4
+Corpus Mortuus Spiritus Desidia
+Corpus Vinculum 4
+Corpus Bestia Motus Vinculum
+Corpus Exanimus 3
+Corpus Mortuus Exanimus
+Corpus Fabrico 4
+Corpus Bestia Humanus Fabrico
+Corpus Humanus 3
+Corpus Bestia Humanus
+Corpus Instrumentum 4
+Corpus Bestia Humanus Instrumentum
+Corpus Fames 3
+Corpus Luxuria Fames
+Corpus Gelum 4
+Corpus Mortuus Perditio Gelum
+Corpus Perditio 3
+Corpus Mortuus Perditio
+Corpus Gula 4
+Corpus Luxuria Fames Gula
+Corpus Terra 4
+Corpus Bestia Victus Terra
+Corpus Infernus 6
+Corpus Bestia Humanus Cognitio Ignis Infernus
+Corpus Ordo 4
+Corpus Bestia Motus Ordo
+Corpus Ira 6
+Corpus Bestia Humanus Cognitio Ignis Ira
+Corpus Telum 5
+Corpus Bestia Humanus Instrumentum Telum
+Corpus Iter 4
+Corpus Bestia Motus Iter
+Corpus Limus 4
+Corpus Bestia Victus Limus
+Corpus Lucrum 4
+Corpus Bestia Humanus Lucrum
+Corpus Lux 5
+Corpus Bestia Motus Aer Lux
+Corpus Luxuria 2
+Corpus Luxuria
+Corpus Machina 4
+Corpus Bestia Motus Machina
+Corpus Messis 4
+Corpus Bestia Humanus Messis
 Corpus Metallum 5
 Corpus Bestia Victus Terra Metallum
+Corpus Vitreus 5
+Corpus Bestia Motus Ordo Vitreus
+Corpus Meto 5
+Corpus Bestia Humanus Instrumentum Meto
+Corpus Pannus 3
+Corpus Bestia Pannus
+Corpus Perfodio 4
+Corpus Bestia Humanus Perfodio
+Corpus Permutatio 4
+Corpus Mortuus Perditio Permutatio
+Corpus Potentia 5
+Corpus Bestia Motus Ordo Potentia
+Corpus Sano 4
+Corpus Bestia Victus Sano
+Corpus Sensus 4
+Corpus Mortuus Spiritus Sensus
+Corpus Superbia 5
+Corpus Bestia Motus Volatus Superbia
+Corpus Volatus 4
+Corpus Bestia Motus Volatus
+Corpus Tempestas 5
+Corpus Bestia Motus Aer Tempestas
+Corpus Tutamen 5
+Corpus Bestia Victus Terra Tutamen
+Corpus Venenum 4
+Corpus Mortuus Perditio Venenum
+Corpus Vitium 4
+Corpus Mortuus Perditio Vitium
+Mortuus Aer 4
+Mortuus Victus Aqua Aer
+Mortuus Alienis 4
+Mortuus Perditio Vacuos Alienis
+Mortuus Vacuos 3
+Mortuus Perditio Vacuos
+Mortuus Tenebrae 4
+Mortuus Perditio Vacuos Tenebrae
+Mortuus Aqua 3
+Mortuus Victus Aqua
 Mortuus Herba 3
 Mortuus Victus Herba
+Mortuus Arbor 4
+Mortuus Victus Herba Arbor
+Mortuus Auram 5
+Mortuus Victus Aqua Aer Auram
 Mortuus Praecantatio 4
 Mortuus Perditio Vacuos Praecantatio
+Mortuus Bestia 3
+Mortuus Victus Bestia
+Mortuus Motus 3
+Mortuus Exanimus Motus
+Mortuus Victus 2
+Mortuus Victus
+Mortuus Cognitio 3
+Mortuus Spiritus Cognitio
+Mortuus Ignis 4
+Mortuus Spiritus Cognitio Ignis
+Mortuus Spiritus 2
+Mortuus Spiritus
+Mortuus Corpus 2
+Mortuus Corpus
+Mortuus Desidia 3
+Mortuus Spiritus Desidia
+Mortuus Vinculum 3
+Mortuus Perditio Vinculum
+Mortuus Exanimus 2
+Mortuus Exanimus
+Mortuus Fabrico 5
+Mortuus Victus Bestia Humanus Fabrico
+Mortuus Humanus 4
+Mortuus Victus Bestia Humanus
+Mortuus Instrumentum 5
+Mortuus Victus Bestia Humanus Instrumentum
+Mortuus Fames 3
+Mortuus Victus Fames
+Mortuus Gelum 3
+Mortuus Perditio Gelum
+Mortuus Perditio 2
+Mortuus Perditio
+Mortuus Gula 4
+Mortuus Victus Fames Gula
+Mortuus Terra 3
+Mortuus Victus Terra
+Mortuus Infernus 5
+Mortuus Spiritus Cognitio Ignis Infernus
+Mortuus Ordo 4
+Mortuus Victus Sano Ordo
+Mortuus Ira 5
+Mortuus Spiritus Cognitio Ignis Ira
+Mortuus Telum 5
+Mortuus Spiritus Cognitio Ignis Telum
+Mortuus Iter 4
+Mortuus Victus Terra Iter
+Mortuus Limus 3
+Mortuus Victus Limus
+Mortuus Lucrum 4
+Mortuus Victus Fames Lucrum
+Mortuus Lux 5
+Mortuus Victus Aqua Aer Lux
+Mortuus Luxuria 3
+Mortuus Corpus Luxuria
+Mortuus Machina 4
+Mortuus Exanimus Motus Machina
+Mortuus Messis 4
+Mortuus Victus Herba Messis
 Mortuus Metallum 4
 Mortuus Victus Terra Metallum
+Mortuus Vitreus 4
+Mortuus Victus Terra Vitreus
+Mortuus Meto 5
+Mortuus Victus Herba Messis Meto
+Mortuus Pannus 4
+Mortuus Victus Bestia Pannus
+Mortuus Perfodio 4
+Mortuus Victus Terra Perfodio
+Mortuus Permutatio 3
+Mortuus Perditio Permutatio
+Mortuus Potentia 5
+Mortuus Victus Sano Ordo Potentia
+Mortuus Sano 3
+Mortuus Victus Sano
+Mortuus Sensus 3
+Mortuus Spiritus Sensus
+Mortuus Superbia 4
+Mortuus Perditio Vacuos Superbia
+Mortuus Volatus 4
+Mortuus Exanimus Motus Volatus
+Mortuus Tempestas 4
+Mortuus Victus Aqua Tempestas
+Mortuus Tutamen 4
+Mortuus Victus Terra Tutamen
+Mortuus Venenum 3
+Mortuus Perditio Venenum
+Mortuus Vitium 3
+Mortuus Perditio Vitium
+Desidia Aer 4
+Desidia Spiritus Sensus Aer
+Desidia Alienis 5
+Desidia Vinculum Perditio Vacuos Alienis
+Desidia Vacuos 4
+Desidia Vinculum Perditio Vacuos
+Desidia Tenebrae 5
+Desidia Vinculum Perditio Vacuos Tenebrae
+Desidia Aqua 4
+Desidia Spiritus Victus Aqua
 Desidia Herba 4
 Desidia Spiritus Victus Herba
+Desidia Arbor 5
+Desidia Spiritus Victus Herba Arbor
+Desidia Auram 5
+Desidia Spiritus Sensus Aer Auram
 Desidia Praecantatio 5
 Desidia Vinculum Perditio Vacuos Praecantatio
+Desidia Bestia 4
+Desidia Spiritus Victus Bestia
+Desidia Motus 3
+Desidia Vinculum Motus
+Desidia Victus 3
+Desidia Spiritus Victus
+Desidia Cognitio 3
+Desidia Spiritus Cognitio
+Desidia Ignis 4
+Desidia Spiritus Cognitio Ignis
+Desidia Spiritus 2
+Desidia Spiritus
+Desidia Corpus 4
+Desidia Spiritus Mortuus Corpus
+Desidia Mortuus 3
+Desidia Spiritus Mortuus
+Desidia Vinculum 2
+Desidia Vinculum
+Desidia Exanimus 4
+Desidia Spiritus Mortuus Exanimus
+Desidia Fabrico 5
+Desidia Spiritus Cognitio Humanus Fabrico
+Desidia Humanus 4
+Desidia Spiritus Cognitio Humanus
+Desidia Instrumentum 5
+Desidia Spiritus Cognitio Humanus Instrumentum
+Desidia Fames 4
+Desidia Spiritus Victus Fames
+Desidia Gelum 4
+Desidia Vinculum Perditio Gelum
+Desidia Perditio 3
+Desidia Vinculum Perditio
+Desidia Gula 5
+Desidia Spiritus Victus Fames Gula
+Desidia Terra 4
+Desidia Spiritus Victus Terra
+Desidia Infernus 5
+Desidia Spiritus Cognitio Ignis Infernus
+Desidia Ordo 4
+Desidia Vinculum Motus Ordo
+Desidia Ira 5
+Desidia Spiritus Cognitio Ignis Ira
+Desidia Telum 5
+Desidia Spiritus Cognitio Ignis Telum
+Desidia Iter 4
+Desidia Vinculum Motus Iter
+Desidia Limus 4
+Desidia Spiritus Victus Limus
+Desidia Lucrum 5
+Desidia Spiritus Victus Fames Lucrum
+Desidia Lux 5
+Desidia Spiritus Cognitio Ignis Lux
+Desidia Luxuria 5
+Desidia Spiritus Victus Fames Luxuria
+Desidia Machina 4
+Desidia Vinculum Motus Machina
+Desidia Messis 5
+Desidia Spiritus Victus Herba Messis
 Desidia Metallum 5
 Desidia Spiritus Victus Terra Metallum
+Desidia Vitreus 5
+Desidia Spiritus Victus Terra Vitreus
+Desidia Meto 6
+Desidia Spiritus Victus Herba Messis Meto
+Desidia Pannus 5
+Desidia Spiritus Victus Bestia Pannus
+Desidia Perfodio 5
+Desidia Spiritus Victus Terra Perfodio
+Desidia Permutatio 4
+Desidia Vinculum Perditio Permutatio
+Desidia Potentia 5
+Desidia Spiritus Cognitio Ignis Potentia
+Desidia Sano 4
+Desidia Spiritus Victus Sano
+Desidia Sensus 3
+Desidia Spiritus Sensus
+Desidia Superbia 5
+Desidia Vinculum Motus Volatus Superbia
+Desidia Volatus 4
+Desidia Vinculum Motus Volatus
+Desidia Tempestas 5
+Desidia Spiritus Victus Aqua Tempestas
+Desidia Tutamen 5
+Desidia Spiritus Victus Terra Tutamen
+Desidia Venenum 4
+Desidia Vinculum Perditio Venenum
+Desidia Vitium 4
+Desidia Vinculum Perditio Vitium
+Vinculum Aer 3
+Vinculum Motus Aer
+Vinculum Alienis 4
+Vinculum Perditio Vacuos Alienis
+Vinculum Vacuos 3
+Vinculum Perditio Vacuos
+Vinculum Tenebrae 4
+Vinculum Perditio Vacuos Tenebrae
+Vinculum Aqua 4
+Vinculum Motus Aer Aqua
 Vinculum Herba 5
 Vinculum Motus Aer Aqua Herba
+Vinculum Arbor 4
+Vinculum Motus Aer Arbor
+Vinculum Auram 4
+Vinculum Motus Aer Auram
 Vinculum Praecantatio 4
 Vinculum Perditio Vacuos Praecantatio
+Vinculum Bestia 3
+Vinculum Motus Bestia
+Vinculum Motus 2
+Vinculum Motus
+Vinculum Victus 4
+Vinculum Motus Bestia Victus
+Vinculum Cognitio 4
+Vinculum Desidia Spiritus Cognitio
+Vinculum Ignis 4
+Vinculum Perditio Gelum Ignis
+Vinculum Spiritus 3
+Vinculum Desidia Spiritus
+Vinculum Corpus 4
+Vinculum Motus Bestia Corpus
+Vinculum Mortuus 3
+Vinculum Perditio Mortuus
+Vinculum Desidia 2
+Vinculum Desidia
+Vinculum Exanimus 3
+Vinculum Motus Exanimus
+Vinculum Fabrico 5
+Vinculum Motus Bestia Humanus Fabrico
+Vinculum Humanus 4
+Vinculum Motus Bestia Humanus
+Vinculum Instrumentum 4
+Vinculum Motus Ordo Instrumentum
+Vinculum Fames 4
+Vinculum Perditio Vacuos Fames
+Vinculum Gelum 3
+Vinculum Perditio Gelum
+Vinculum Perditio 2
+Vinculum Perditio
+Vinculum Gula 4
+Vinculum Perditio Vacuos Gula
+Vinculum Terra 4
+Vinculum Motus Iter Terra
+Vinculum Infernus 5
+Vinculum Perditio Vacuos Praecantatio Infernus
+Vinculum Ordo 3
+Vinculum Motus Ordo
+Vinculum Ira 5
+Vinculum Perditio Gelum Ignis Ira
+Vinculum Telum 5
+Vinculum Motus Ordo Instrumentum Telum
+Vinculum Iter 3
+Vinculum Motus Iter
+Vinculum Limus 5
+Vinculum Motus Aer Aqua Limus
+Vinculum Lucrum 5
+Vinculum Motus Bestia Humanus Lucrum
+Vinculum Lux 4
+Vinculum Motus Aer Lux
+Vinculum Luxuria 5
+Vinculum Motus Bestia Corpus Luxuria
+Vinculum Machina 3
+Vinculum Motus Machina
+Vinculum Messis 5
+Vinculum Motus Bestia Humanus Messis
 Vinculum Metallum 5
 Vinculum Motus Ordo Vitreus Metallum
+Vinculum Vitreus 4
+Vinculum Motus Ordo Vitreus
+Vinculum Meto 5
+Vinculum Motus Ordo Instrumentum Meto
+Vinculum Pannus 4
+Vinculum Motus Bestia Pannus
+Vinculum Perfodio 5
+Vinculum Motus Bestia Humanus Perfodio
+Vinculum Permutatio 3
+Vinculum Perditio Permutatio
+Vinculum Potentia 4
+Vinculum Motus Ordo Potentia
+Vinculum Sano 4
+Vinculum Motus Ordo Sano
+Vinculum Sensus 4
+Vinculum Motus Aer Sensus
+Vinculum Superbia 4
+Vinculum Motus Volatus Superbia
+Vinculum Volatus 3
+Vinculum Motus Volatus
+Vinculum Tempestas 4
+Vinculum Motus Aer Tempestas
+Vinculum Tutamen 5
+Vinculum Motus Ordo Instrumentum Tutamen
+Vinculum Venenum 3
+Vinculum Perditio Venenum
+Vinculum Vitium 3
+Vinculum Perditio Vitium
+Exanimus Aer 3
+Exanimus Motus Aer
+Exanimus Alienis 5
+Exanimus Motus Aer Vacuos Alienis
+Exanimus Vacuos 4
+Exanimus Motus Aer Vacuos
+Exanimus Tenebrae 5
+Exanimus Motus Aer Vacuos Tenebrae
+Exanimus Aqua 4
+Exanimus Motus Aer Aqua
 Exanimus Herba 4
 Exanimus Mortuus Victus Herba
+Exanimus Arbor 4
+Exanimus Motus Aer Arbor
+Exanimus Auram 4
+Exanimus Motus Aer Auram
 Exanimus Praecantatio 5
 Exanimus Motus Aer Vacuos Praecantatio
+Exanimus Bestia 3
+Exanimus Motus Bestia
+Exanimus Motus 2
+Exanimus Motus
+Exanimus Victus 3
+Exanimus Mortuus Victus
+Exanimus Cognitio 4
+Exanimus Mortuus Spiritus Cognitio
+Exanimus Ignis 5
+Exanimus Motus Aer Lux Ignis
+Exanimus Spiritus 3
+Exanimus Mortuus Spiritus
+Exanimus Corpus 3
+Exanimus Mortuus Corpus
+Exanimus Mortuus 2
+Exanimus Mortuus
+Exanimus Desidia 4
+Exanimus Motus Vinculum Desidia
+Exanimus Vinculum 3
+Exanimus Motus Vinculum
+Exanimus Fabrico 5
+Exanimus Motus Bestia Humanus Fabrico
+Exanimus Humanus 4
+Exanimus Motus Bestia Humanus
+Exanimus Instrumentum 4
+Exanimus Motus Ordo Instrumentum
+Exanimus Fames 4
+Exanimus Mortuus Victus Fames
+Exanimus Gelum 4
+Exanimus Mortuus Perditio Gelum
+Exanimus Perditio 3
+Exanimus Mortuus Perditio
+Exanimus Gula 5
+Exanimus Motus Aer Vacuos Gula
+Exanimus Terra 4
+Exanimus Motus Iter Terra
+Exanimus Infernus 6
+Exanimus Motus Aer Vacuos Praecantatio Infernus
+Exanimus Ordo 3
+Exanimus Motus Ordo
+Exanimus Ira 6
+Exanimus Motus Aer Lux Ignis Ira
+Exanimus Telum 5
+Exanimus Motus Ordo Instrumentum Telum
+Exanimus Iter 3
+Exanimus Motus Iter
+Exanimus Limus 4
+Exanimus Mortuus Victus Limus
+Exanimus Lucrum 5
+Exanimus Motus Bestia Humanus Lucrum
+Exanimus Lux 4
+Exanimus Motus Aer Lux
+Exanimus Luxuria 4
+Exanimus Mortuus Corpus Luxuria
+Exanimus Machina 3
+Exanimus Motus Machina
+Exanimus Messis 5
+Exanimus Motus Bestia Humanus Messis
 Exanimus Metallum 5
 Exanimus Motus Ordo Vitreus Metallum
+Exanimus Vitreus 4
+Exanimus Motus Ordo Vitreus
+Exanimus Meto 5
+Exanimus Motus Ordo Instrumentum Meto
+Exanimus Pannus 4
+Exanimus Motus Bestia Pannus
+Exanimus Perfodio 5
+Exanimus Motus Bestia Humanus Perfodio
+Exanimus Permutatio 4
+Exanimus Motus Ordo Permutatio
+Exanimus Potentia 4
+Exanimus Motus Ordo Potentia
+Exanimus Sano 4
+Exanimus Motus Ordo Sano
+Exanimus Sensus 4
+Exanimus Motus Aer Sensus
+Exanimus Superbia 4
+Exanimus Motus Volatus Superbia
+Exanimus Volatus 3
+Exanimus Motus Volatus
+Exanimus Tempestas 4
+Exanimus Motus Aer Tempestas
+Exanimus Tutamen 5
+Exanimus Motus Ordo Instrumentum Tutamen
+Exanimus Venenum 4
+Exanimus Mortuus Perditio Venenum
+Exanimus Vitium 4
+Exanimus Mortuus Perditio Vitium
+Fabrico Aer 5
+Fabrico Humanus Bestia Motus Aer
+Fabrico Alienis 6
+Fabrico Humanus Lucrum Fames Vacuos Alienis
+Fabrico Vacuos 5
+Fabrico Humanus Lucrum Fames Vacuos
+Fabrico Tenebrae 6
+Fabrico Humanus Cognitio Ignis Lux Tenebrae
+Fabrico Aqua 5
+Fabrico Humanus Bestia Victus Aqua
 Fabrico Herba 4
 Fabrico Humanus Messis Herba
+Fabrico Arbor 5
+Fabrico Humanus Messis Herba Arbor
+Fabrico Auram 6
+Fabrico Humanus Bestia Motus Aer Auram
 Fabrico Praecantatio 5
 Fabrico Instrumentum Ordo Potentia Praecantatio
+Fabrico Bestia 3
+Fabrico Humanus Bestia
+Fabrico Motus 4
+Fabrico Humanus Bestia Motus
+Fabrico Victus 4
+Fabrico Humanus Bestia Victus
+Fabrico Cognitio 3
+Fabrico Humanus Cognitio
+Fabrico Ignis 4
+Fabrico Humanus Cognitio Ignis
+Fabrico Spiritus 4
+Fabrico Humanus Cognitio Spiritus
+Fabrico Corpus 4
+Fabrico Humanus Bestia Corpus
+Fabrico Mortuus 5
+Fabrico Humanus Bestia Victus Mortuus
+Fabrico Desidia 5
+Fabrico Humanus Cognitio Spiritus Desidia
+Fabrico Vinculum 5
+Fabrico Humanus Bestia Motus Vinculum
+Fabrico Exanimus 5
+Fabrico Humanus Bestia Motus Exanimus
+Fabrico Humanus 2
+Fabrico Humanus
+Fabrico Instrumentum 2
+Fabrico Instrumentum
+Fabrico Fames 4
+Fabrico Humanus Lucrum Fames
+Fabrico Gelum 5
+Fabrico Humanus Cognitio Ignis Gelum
+Fabrico Perditio 5
+Fabrico Instrumentum Ordo Permutatio Perditio
+Fabrico Gula 5
+Fabrico Humanus Lucrum Fames Gula
+Fabrico Terra 4
+Fabrico Humanus Perfodio Terra
+Fabrico Infernus 5
+Fabrico Humanus Cognitio Ignis Infernus
+Fabrico Ordo 3
+Fabrico Instrumentum Ordo
+Fabrico Ira 4
+Fabrico Instrumentum Telum Ira
+Fabrico Telum 3
+Fabrico Instrumentum Telum
+Fabrico Iter 5
+Fabrico Humanus Bestia Motus Iter
+Fabrico Limus 5
+Fabrico Humanus Bestia Victus Limus
+Fabrico Lucrum 3
+Fabrico Humanus Lucrum
+Fabrico Lux 5
+Fabrico Humanus Cognitio Ignis Lux
+Fabrico Luxuria 5
+Fabrico Humanus Bestia Corpus Luxuria
+Fabrico Machina 3
+Fabrico Instrumentum Machina
+Fabrico Messis 3
+Fabrico Humanus Messis
 Fabrico Metallum 5
 Fabrico Humanus Perfodio Terra Metallum
+Fabrico Vitreus 4
+Fabrico Instrumentum Ordo Vitreus
+Fabrico Meto 3
+Fabrico Instrumentum Meto
+Fabrico Pannus 3
+Fabrico Instrumentum Pannus
+Fabrico Perfodio 3
+Fabrico Humanus Perfodio
+Fabrico Permutatio 4
+Fabrico Instrumentum Ordo Permutatio
+Fabrico Potentia 4
+Fabrico Instrumentum Ordo Potentia
+Fabrico Sano 4
+Fabrico Instrumentum Ordo Sano
+Fabrico Sensus 5
+Fabrico Humanus Cognitio Spiritus Sensus
+Fabrico Superbia 6
+Fabrico Humanus Bestia Motus Volatus Superbia
+Fabrico Volatus 5
+Fabrico Humanus Bestia Motus Volatus
+Fabrico Tempestas 6
+Fabrico Humanus Bestia Motus Aer Tempestas
+Fabrico Tutamen 3
+Fabrico Instrumentum Tutamen
+Fabrico Venenum 6
+Fabrico Humanus Bestia Victus Aqua Venenum
+Fabrico Vitium 6
+Fabrico Instrumentum Ordo Permutatio Perditio Vitium
+Humanus Aer 4
+Humanus Bestia Motus Aer
+Humanus Alienis 5
+Humanus Lucrum Fames Vacuos Alienis
+Humanus Vacuos 4
+Humanus Lucrum Fames Vacuos
+Humanus Tenebrae 5
+Humanus Cognitio Ignis Lux Tenebrae
+Humanus Aqua 4
+Humanus Bestia Victus Aqua
 Humanus Herba 3
 Humanus Messis Herba
+Humanus Arbor 4
+Humanus Messis Herba Arbor
+Humanus Auram 5
+Humanus Bestia Motus Aer Auram
 Humanus Praecantatio 5
 Humanus Cognitio Ignis Infernus Praecantatio
+Humanus Bestia 2
+Humanus Bestia
+Humanus Motus 3
+Humanus Bestia Motus
+Humanus Victus 3
+Humanus Bestia Victus
+Humanus Cognitio 2
+Humanus Cognitio
+Humanus Ignis 3
+Humanus Cognitio Ignis
+Humanus Spiritus 3
+Humanus Cognitio Spiritus
+Humanus Corpus 3
+Humanus Bestia Corpus
+Humanus Mortuus 4
+Humanus Bestia Victus Mortuus
+Humanus Desidia 4
+Humanus Cognitio Spiritus Desidia
+Humanus Vinculum 4
+Humanus Bestia Motus Vinculum
+Humanus Exanimus 4
+Humanus Bestia Motus Exanimus
+Humanus Fabrico 2
+Humanus Fabrico
+Humanus Instrumentum 2
+Humanus Instrumentum
+Humanus Fames 3
+Humanus Lucrum Fames
+Humanus Gelum 4
+Humanus Cognitio Ignis Gelum
+Humanus Perditio 5
+Humanus Bestia Motus Vinculum Perditio
+Humanus Gula 4
+Humanus Lucrum Fames Gula
+Humanus Terra 3
+Humanus Perfodio Terra
+Humanus Infernus 4
+Humanus Cognitio Ignis Infernus
+Humanus Ordo 3
+Humanus Instrumentum Ordo
+Humanus Ira 4
+Humanus Cognitio Ignis Ira
+Humanus Telum 3
+Humanus Instrumentum Telum
+Humanus Iter 4
+Humanus Bestia Motus Iter
+Humanus Limus 4
+Humanus Bestia Victus Limus
+Humanus Lucrum 2
+Humanus Lucrum
+Humanus Lux 4
+Humanus Cognitio Ignis Lux
+Humanus Luxuria 4
+Humanus Bestia Corpus Luxuria
+Humanus Machina 3
+Humanus Instrumentum Machina
+Humanus Messis 2
+Humanus Messis
 Humanus Metallum 4
 Humanus Perfodio Terra Metallum
+Humanus Vitreus 4
+Humanus Instrumentum Ordo Vitreus
+Humanus Meto 3
+Humanus Instrumentum Meto
+Humanus Pannus 3
+Humanus Bestia Pannus
+Humanus Perfodio 2
+Humanus Perfodio
+Humanus Permutatio 4
+Humanus Instrumentum Ordo Permutatio
+Humanus Potentia 4
+Humanus Cognitio Ignis Potentia
+Humanus Sano 4
+Humanus Bestia Victus Sano
+Humanus Sensus 4
+Humanus Cognitio Spiritus Sensus
+Humanus Superbia 5
+Humanus Bestia Motus Volatus Superbia
+Humanus Volatus 4
+Humanus Bestia Motus Volatus
+Humanus Tempestas 5
+Humanus Bestia Motus Aer Tempestas
+Humanus Tutamen 3
+Humanus Instrumentum Tutamen
+Humanus Venenum 5
+Humanus Bestia Victus Aqua Venenum
+Humanus Vitium 6
+Humanus Bestia Motus Vinculum Perditio Vitium
+Instrumentum Aer 4
+Instrumentum Ordo Motus Aer
+Instrumentum Alienis 6
+Instrumentum Humanus Lucrum Fames Vacuos Alienis
+Instrumentum Vacuos 5
+Instrumentum Humanus Lucrum Fames Vacuos
+Instrumentum Tenebrae 5
+Instrumentum Telum Ignis Lux Tenebrae
+Instrumentum Aqua 5
+Instrumentum Humanus Bestia Victus Aqua
 Instrumentum Herba 4
 Instrumentum Humanus Messis Herba
+Instrumentum Arbor 5
+Instrumentum Humanus Messis Herba Arbor
+Instrumentum Auram 5
+Instrumentum Ordo Motus Aer Auram
 Instrumentum Praecantatio 4
 Instrumentum Ordo Potentia Praecantatio
+Instrumentum Bestia 3
+Instrumentum Humanus Bestia
+Instrumentum Motus 3
+Instrumentum Ordo Motus
+Instrumentum Victus 4
+Instrumentum Humanus Bestia Victus
+Instrumentum Cognitio 3
+Instrumentum Humanus Cognitio
+Instrumentum Ignis 3
+Instrumentum Telum Ignis
+Instrumentum Spiritus 4
+Instrumentum Humanus Cognitio Spiritus
+Instrumentum Corpus 4
+Instrumentum Humanus Bestia Corpus
+Instrumentum Mortuus 5
+Instrumentum Humanus Bestia Victus Mortuus
+Instrumentum Desidia 5
+Instrumentum Humanus Cognitio Spiritus Desidia
+Instrumentum Vinculum 4
+Instrumentum Ordo Motus Vinculum
+Instrumentum Exanimus 4
+Instrumentum Ordo Motus Exanimus
+Instrumentum Fabrico 2
+Instrumentum Fabrico
+Instrumentum Humanus 2
+Instrumentum Humanus
+Instrumentum Fames 4
+Instrumentum Humanus Lucrum Fames
+Instrumentum Gelum 4
+Instrumentum Telum Ignis Gelum
+Instrumentum Perditio 4
+Instrumentum Ordo Permutatio Perditio
+Instrumentum Gula 5
+Instrumentum Humanus Lucrum Fames Gula
+Instrumentum Terra 3
+Instrumentum Tutamen Terra
+Instrumentum Infernus 4
+Instrumentum Telum Ignis Infernus
+Instrumentum Ordo 2
+Instrumentum Ordo
+Instrumentum Ira 3
+Instrumentum Telum Ira
+Instrumentum Telum 2
+Instrumentum Telum
+Instrumentum Iter 4
+Instrumentum Ordo Motus Iter
+Instrumentum Limus 5
+Instrumentum Humanus Bestia Victus Limus
+Instrumentum Lucrum 3
+Instrumentum Humanus Lucrum
+Instrumentum Lux 4
+Instrumentum Telum Ignis Lux
+Instrumentum Luxuria 5
+Instrumentum Humanus Bestia Corpus Luxuria
+Instrumentum Machina 2
+Instrumentum Machina
+Instrumentum Messis 3
+Instrumentum Humanus Messis
 Instrumentum Metallum 4
 Instrumentum Ordo Vitreus Metallum
+Instrumentum Vitreus 3
+Instrumentum Ordo Vitreus
+Instrumentum Meto 2
+Instrumentum Meto
+Instrumentum Pannus 2
+Instrumentum Pannus
+Instrumentum Perfodio 3
+Instrumentum Humanus Perfodio
+Instrumentum Permutatio 3
+Instrumentum Ordo Permutatio
+Instrumentum Potentia 3
+Instrumentum Ordo Potentia
+Instrumentum Sano 3
+Instrumentum Ordo Sano
+Instrumentum Sensus 5
+Instrumentum Humanus Cognitio Spiritus Sensus
+Instrumentum Superbia 5
+Instrumentum Ordo Motus Volatus Superbia
+Instrumentum Volatus 4
+Instrumentum Ordo Motus Volatus
+Instrumentum Tempestas 5
+Instrumentum Ordo Motus Aer Tempestas
+Instrumentum Tutamen 2
+Instrumentum Tutamen
+Instrumentum Venenum 5
+Instrumentum Ordo Permutatio Perditio Venenum
+Instrumentum Vitium 5
+Instrumentum Ordo Permutatio Perditio Vitium
+Fames Aer 3
+Fames Vacuos Aer
+Fames Alienis 3
+Fames Vacuos Alienis
+Fames Vacuos 2
+Fames Vacuos
+Fames Tenebrae 3
+Fames Vacuos Tenebrae
+Fames Aqua 3
+Fames Victus Aqua
 Fames Herba 3
 Fames Victus Herba
+Fames Arbor 4
+Fames Vacuos Aer Arbor
+Fames Auram 4
+Fames Vacuos Aer Auram
 Fames Praecantatio 3
 Fames Vacuos Praecantatio
+Fames Bestia 3
+Fames Victus Bestia
+Fames Motus 4
+Fames Vacuos Aer Motus
+Fames Victus 2
+Fames Victus
+Fames Cognitio 4
+Fames Victus Spiritus Cognitio
+Fames Ignis 5
+Fames Vacuos Aer Lux Ignis
+Fames Spiritus 3
+Fames Victus Spiritus
+Fames Corpus 3
+Fames Luxuria Corpus
+Fames Mortuus 3
+Fames Victus Mortuus
+Fames Desidia 4
+Fames Victus Spiritus Desidia
+Fames Vinculum 4
+Fames Vacuos Perditio Vinculum
+Fames Exanimus 4
+Fames Victus Mortuus Exanimus
+Fames Fabrico 4
+Fames Lucrum Humanus Fabrico
+Fames Humanus 3
+Fames Lucrum Humanus
+Fames Instrumentum 4
+Fames Lucrum Humanus Instrumentum
+Fames Gelum 4
+Fames Vacuos Perditio Gelum
+Fames Perditio 3
+Fames Vacuos Perditio
+Fames Gula 2
+Fames Gula
+Fames Terra 3
+Fames Victus Terra
+Fames Infernus 4
+Fames Vacuos Praecantatio Infernus
+Fames Ordo 4
+Fames Victus Sano Ordo
+Fames Ira 6
+Fames Vacuos Aer Lux Ignis Ira
+Fames Telum 5
+Fames Lucrum Humanus Instrumentum Telum
+Fames Iter 4
+Fames Victus Terra Iter
+Fames Limus 3
+Fames Victus Limus
+Fames Lucrum 2
+Fames Lucrum
+Fames Lux 4
+Fames Vacuos Aer Lux
+Fames Luxuria 2
+Fames Luxuria
+Fames Machina 5
+Fames Vacuos Aer Motus Machina
+Fames Messis 4
+Fames Victus Herba Messis
 Fames Metallum 4
 Fames Victus Terra Metallum
+Fames Vitreus 4
+Fames Victus Terra Vitreus
+Fames Meto 5
+Fames Victus Herba Messis Meto
+Fames Pannus 4
+Fames Victus Bestia Pannus
+Fames Perfodio 4
+Fames Victus Terra Perfodio
+Fames Permutatio 4
+Fames Vacuos Perditio Permutatio
+Fames Potentia 4
+Fames Vacuos Praecantatio Potentia
+Fames Sano 3
+Fames Victus Sano
+Fames Sensus 4
+Fames Vacuos Aer Sensus
+Fames Superbia 3
+Fames Vacuos Superbia
+Fames Volatus 4
+Fames Vacuos Aer Volatus
+Fames Tempestas 4
+Fames Vacuos Aer Tempestas
+Fames Tutamen 4
+Fames Victus Terra Tutamen
+Fames Venenum 4
+Fames Vacuos Perditio Venenum
+Fames Vitium 4
+Fames Vacuos Praecantatio Vitium
+Gelum Aer 4
+Gelum Ignis Lux Aer
+Gelum Alienis 4
+Gelum Perditio Vacuos Alienis
+Gelum Vacuos 3
+Gelum Perditio Vacuos
+Gelum Tenebrae 4
+Gelum Ignis Lux Tenebrae
+Gelum Aqua 4
+Gelum Perditio Venenum Aqua
 Gelum Herba 5
 Gelum Perditio Mortuus Victus Herba
+Gelum Arbor 5
+Gelum Ignis Lux Aer Arbor
+Gelum Auram 5
+Gelum Ignis Infernus Praecantatio Auram
 Gelum Praecantatio 4
 Gelum Ignis Infernus Praecantatio
+Gelum Bestia 5
+Gelum Ignis Cognitio Humanus Bestia
+Gelum Motus 4
+Gelum Perditio Vinculum Motus
+Gelum Victus 4
+Gelum Perditio Mortuus Victus
+Gelum Cognitio 3
+Gelum Ignis Cognitio
+Gelum Ignis 2
+Gelum Ignis
+Gelum Spiritus 4
+Gelum Ignis Cognitio Spiritus
+Gelum Corpus 4
+Gelum Perditio Mortuus Corpus
+Gelum Mortuus 3
+Gelum Perditio Mortuus
+Gelum Desidia 4
+Gelum Perditio Vinculum Desidia
+Gelum Vinculum 3
+Gelum Perditio Vinculum
+Gelum Exanimus 4
+Gelum Perditio Mortuus Exanimus
+Gelum Fabrico 5
+Gelum Ignis Cognitio Humanus Fabrico
+Gelum Humanus 4
+Gelum Ignis Cognitio Humanus
+Gelum Instrumentum 4
+Gelum Ignis Telum Instrumentum
+Gelum Fames 4
+Gelum Perditio Vacuos Fames
+Gelum Perditio 2
+Gelum Perditio
+Gelum Gula 4
+Gelum Perditio Vacuos Gula
+Gelum Terra 5
+Gelum Perditio Mortuus Victus Terra
+Gelum Infernus 3
+Gelum Ignis Infernus
+Gelum Ordo 4
+Gelum Ignis Potentia Ordo
+Gelum Ira 3
+Gelum Ignis Ira
+Gelum Telum 3
+Gelum Ignis Telum
+Gelum Iter 5
+Gelum Perditio Vinculum Motus Iter
+Gelum Limus 5
+Gelum Perditio Mortuus Victus Limus
+Gelum Lucrum 5
+Gelum Ignis Cognitio Humanus Lucrum
+Gelum Lux 3
+Gelum Ignis Lux
+Gelum Luxuria 5
+Gelum Perditio Vacuos Fames Luxuria
+Gelum Machina 5
+Gelum Ignis Telum Instrumentum Machina
+Gelum Messis 5
+Gelum Ignis Cognitio Humanus Messis
 Gelum Metallum 6
 Gelum Ignis Potentia Ordo Vitreus Metallum
+Gelum Vitreus 5
+Gelum Ignis Potentia Ordo Vitreus
+Gelum Meto 5
+Gelum Ignis Telum Instrumentum Meto
+Gelum Pannus 5
+Gelum Ignis Telum Instrumentum Pannus
+Gelum Perfodio 5
+Gelum Ignis Cognitio Humanus Perfodio
+Gelum Permutatio 3
+Gelum Perditio Permutatio
+Gelum Potentia 3
+Gelum Ignis Potentia
+Gelum Sano 5
+Gelum Ignis Potentia Ordo Sano
+Gelum Sensus 5
+Gelum Ignis Cognitio Spiritus Sensus
+Gelum Superbia 4
+Gelum Perditio Vacuos Superbia
+Gelum Volatus 5
+Gelum Ignis Lux Aer Volatus
+Gelum Tempestas 5
+Gelum Ignis Lux Aer Tempestas
+Gelum Tutamen 5
+Gelum Ignis Telum Instrumentum Tutamen
+Gelum Venenum 3
+Gelum Perditio Venenum
+Gelum Vitium 3
+Gelum Perditio Vitium
+Perditio Aer 3
+Perditio Vacuos Aer
+Perditio Alienis 3
+Perditio Vacuos Alienis
+Perditio Vacuos 2
+Perditio Vacuos
+Perditio Tenebrae 3
+Perditio Vacuos Tenebrae
+Perditio Aqua 3
+Perditio Venenum Aqua
 Perditio Herba 4
 Perditio Mortuus Victus Herba
+Perditio Arbor 4
+Perditio Vacuos Aer Arbor
+Perditio Auram 4
+Perditio Vacuos Aer Auram
 Perditio Praecantatio 3
 Perditio Vacuos Praecantatio
+Perditio Bestia 4
+Perditio Mortuus Victus Bestia
+Perditio Motus 3
+Perditio Vinculum Motus
+Perditio Victus 3
+Perditio Mortuus Victus
+Perditio Cognitio 4
+Perditio Mortuus Spiritus Cognitio
+Perditio Ignis 3
+Perditio Gelum Ignis
+Perditio Spiritus 3
+Perditio Mortuus Spiritus
+Perditio Corpus 3
+Perditio Mortuus Corpus
+Perditio Mortuus 2
+Perditio Mortuus
+Perditio Desidia 3
+Perditio Vinculum Desidia
+Perditio Vinculum 2
+Perditio Vinculum
+Perditio Exanimus 3
+Perditio Mortuus Exanimus
+Perditio Fabrico 5
+Perditio Permutatio Ordo Instrumentum Fabrico
+Perditio Humanus 5
+Perditio Vacuos Fames Lucrum Humanus
+Perditio Instrumentum 4
+Perditio Permutatio Ordo Instrumentum
+Perditio Fames 3
+Perditio Vacuos Fames
+Perditio Gelum 2
+Perditio Gelum
+Perditio Gula 3
+Perditio Vacuos Gula
+Perditio Terra 4
+Perditio Mortuus Victus Terra
+Perditio Infernus 4
+Perditio Vacuos Praecantatio Infernus
+Perditio Ordo 3
+Perditio Permutatio Ordo
+Perditio Ira 4
+Perditio Gelum Ignis Ira
+Perditio Telum 4
+Perditio Gelum Ignis Telum
+Perditio Iter 4
+Perditio Vinculum Motus Iter
+Perditio Limus 4
+Perditio Mortuus Victus Limus
+Perditio Lucrum 4
+Perditio Vacuos Fames Lucrum
+Perditio Lux 4
+Perditio Vacuos Aer Lux
+Perditio Luxuria 4
+Perditio Vacuos Fames Luxuria
+Perditio Machina 4
+Perditio Vinculum Motus Machina
+Perditio Messis 5
+Perditio Mortuus Victus Herba Messis
 Perditio Metallum 5
 Perditio Mortuus Victus Terra Metallum
+Perditio Vitreus 4
+Perditio Permutatio Ordo Vitreus
+Perditio Meto 5
+Perditio Permutatio Ordo Instrumentum Meto
+Perditio Pannus 5
+Perditio Mortuus Victus Bestia Pannus
+Perditio Perfodio 5
+Perditio Mortuus Victus Terra Perfodio
+Perditio Permutatio 2
+Perditio Permutatio
+Perditio Potentia 4
+Perditio Vacuos Praecantatio Potentia
+Perditio Sano 4
+Perditio Mortuus Victus Sano
+Perditio Sensus 4
+Perditio Vacuos Aer Sensus
+Perditio Superbia 3
+Perditio Vacuos Superbia
+Perditio Volatus 4
+Perditio Vacuos Aer Volatus
+Perditio Tempestas 4
+Perditio Vacuos Aer Tempestas
+Perditio Tutamen 5
+Perditio Mortuus Victus Terra Tutamen
+Perditio Venenum 2
+Perditio Venenum
+Perditio Vitium 2
+Perditio Vitium
+Gula Aer 3
+Gula Vacuos Aer
+Gula Alienis 3
+Gula Vacuos Alienis
+Gula Vacuos 2
+Gula Vacuos
+Gula Tenebrae 3
+Gula Vacuos Tenebrae
+Gula Aqua 4
+Gula Vacuos Aer Aqua
 Gula Herba 4
 Gula Fames Victus Herba
+Gula Arbor 4
+Gula Vacuos Aer Arbor
+Gula Auram 4
+Gula Vacuos Aer Auram
 Gula Praecantatio 3
 Gula Vacuos Praecantatio
+Gula Bestia 4
+Gula Fames Victus Bestia
+Gula Motus 4
+Gula Vacuos Aer Motus
+Gula Victus 3
+Gula Fames Victus
+Gula Cognitio 5
+Gula Fames Victus Spiritus Cognitio
+Gula Ignis 5
+Gula Vacuos Aer Lux Ignis
+Gula Spiritus 4
+Gula Fames Victus Spiritus
+Gula Corpus 4
+Gula Fames Luxuria Corpus
+Gula Mortuus 4
+Gula Vacuos Perditio Mortuus
+Gula Desidia 5
+Gula Vacuos Perditio Vinculum Desidia
+Gula Vinculum 4
+Gula Vacuos Perditio Vinculum
+Gula Exanimus 5
+Gula Vacuos Aer Motus Exanimus
+Gula Fabrico 5
+Gula Fames Lucrum Humanus Fabrico
+Gula Humanus 4
+Gula Fames Lucrum Humanus
+Gula Instrumentum 5
+Gula Fames Lucrum Humanus Instrumentum
+Gula Fames 2
+Gula Fames
+Gula Gelum 4
+Gula Vacuos Perditio Gelum
+Gula Perditio 3
+Gula Vacuos Perditio
+Gula Terra 4
+Gula Fames Victus Terra
+Gula Infernus 4
+Gula Vacuos Praecantatio Infernus
+Gula Ordo 5
+Gula Vacuos Aer Motus Ordo
+Gula Ira 6
+Gula Vacuos Aer Lux Ignis Ira
+Gula Telum 6
+Gula Vacuos Aer Lux Ignis Telum
+Gula Iter 5
+Gula Vacuos Aer Motus Iter
+Gula Limus 4
+Gula Fames Victus Limus
+Gula Lucrum 3
+Gula Fames Lucrum
+Gula Lux 4
+Gula Vacuos Aer Lux
+Gula Luxuria 3
+Gula Fames Luxuria
+Gula Machina 5
+Gula Vacuos Aer Motus Machina
+Gula Messis 5
+Gula Fames Victus Herba Messis
 Gula Metallum 5
 Gula Fames Victus Terra Metallum
+Gula Vitreus 5
+Gula Fames Victus Terra Vitreus
+Gula Meto 6
+Gula Fames Victus Herba Messis Meto
+Gula Pannus 5
+Gula Fames Victus Bestia Pannus
+Gula Perfodio 5
+Gula Fames Victus Terra Perfodio
+Gula Permutatio 4
+Gula Vacuos Perditio Permutatio
+Gula Potentia 4
+Gula Vacuos Praecantatio Potentia
+Gula Sano 4
+Gula Fames Victus Sano
+Gula Sensus 4
+Gula Vacuos Aer Sensus
+Gula Superbia 3
+Gula Vacuos Superbia
+Gula Volatus 4
+Gula Vacuos Aer Volatus
+Gula Tempestas 4
+Gula Vacuos Aer Tempestas
+Gula Tutamen 5
+Gula Fames Victus Terra Tutamen
+Gula Venenum 4
+Gula Vacuos Perditio Venenum
+Gula Vitium 4
+Gula Vacuos Praecantatio Vitium
+Terra Aer 4
+Terra Herba Aqua Aer
+Terra Alienis 5
+Terra Victus Fames Vacuos Alienis
+Terra Vacuos 4
+Terra Victus Fames Vacuos
+Terra Tenebrae 5
+Terra Victus Fames Vacuos Tenebrae
+Terra Aqua 3
+Terra Herba Aqua
 Terra Herba 2
 Terra Herba
+Terra Arbor 3
+Terra Herba Arbor
+Terra Auram 5
+Terra Herba Aqua Aer Auram
 Terra Praecantatio 5
 Terra Victus Fames Vacuos Praecantatio
+Terra Bestia 3
+Terra Victus Bestia
+Terra Motus 3
+Terra Iter Motus
+Terra Victus 2
+Terra Victus
+Terra Cognitio 4
+Terra Victus Spiritus Cognitio
+Terra Ignis 5
+Terra Victus Spiritus Cognitio Ignis
+Terra Spiritus 3
+Terra Victus Spiritus
+Terra Corpus 4
+Terra Victus Bestia Corpus
+Terra Mortuus 3
+Terra Victus Mortuus
+Terra Desidia 4
+Terra Victus Spiritus Desidia
+Terra Vinculum 4
+Terra Iter Motus Vinculum
+Terra Exanimus 4
+Terra Victus Mortuus Exanimus
+Terra Fabrico 4
+Terra Perfodio Humanus Fabrico
+Terra Humanus 3
+Terra Perfodio Humanus
+Terra Instrumentum 3
+Terra Tutamen Instrumentum
+Terra Fames 3
+Terra Victus Fames
+Terra Gelum 5
+Terra Victus Mortuus Perditio Gelum
+Terra Perditio 4
+Terra Victus Mortuus Perditio
+Terra Gula 4
+Terra Victus Fames Gula
+Terra Infernus 6
+Terra Victus Spiritus Cognitio Ignis Infernus
+Terra Ordo 3
+Terra Vitreus Ordo
+Terra Ira 5
+Terra Tutamen Instrumentum Telum Ira
+Terra Telum 4
+Terra Tutamen Instrumentum Telum
+Terra Iter 2
+Terra Iter
+Terra Limus 3
+Terra Victus Limus
+Terra Lucrum 4
+Terra Victus Fames Lucrum
+Terra Lux 5
+Terra Herba Aqua Aer Lux
+Terra Luxuria 4
+Terra Victus Fames Luxuria
+Terra Machina 4
+Terra Iter Motus Machina
+Terra Messis 3
+Terra Herba Messis
 Terra Metallum 2
 Terra Metallum
+Terra Vitreus 2
+Terra Vitreus
+Terra Meto 4
+Terra Herba Messis Meto
+Terra Pannus 4
+Terra Victus Bestia Pannus
+Terra Perfodio 2
+Terra Perfodio
+Terra Permutatio 4
+Terra Vitreus Ordo Permutatio
+Terra Potentia 4
+Terra Vitreus Ordo Potentia
+Terra Sano 3
+Terra Victus Sano
+Terra Sensus 4
+Terra Victus Spiritus Sensus
+Terra Superbia 5
+Terra Victus Fames Vacuos Superbia
+Terra Volatus 4
+Terra Iter Motus Volatus
+Terra Tempestas 4
+Terra Herba Aqua Tempestas
+Terra Tutamen 2
+Terra Tutamen
+Terra Venenum 4
+Terra Herba Aqua Venenum
+Terra Vitium 5
+Terra Victus Mortuus Perditio Vitium
+Infernus Aer 4
+Infernus Praecantatio Vacuos Aer
+Infernus Alienis 4
+Infernus Praecantatio Vacuos Alienis
+Infernus Vacuos 3
+Infernus Praecantatio Vacuos
+Infernus Tenebrae 4
+Infernus Praecantatio Vacuos Tenebrae
+Infernus Aqua 5
+Infernus Praecantatio Vacuos Aer Aqua
 Infernus Herba 6
 Infernus Praecantatio Vacuos Aer Aqua Herba
+Infernus Arbor 5
+Infernus Praecantatio Vacuos Aer Arbor
+Infernus Auram 3
+Infernus Praecantatio Auram
 Infernus Praecantatio 2
 Infernus Praecantatio
+Infernus Bestia 5
+Infernus Ignis Cognitio Humanus Bestia
+Infernus Motus 5
+Infernus Praecantatio Vacuos Aer Motus
+Infernus Victus 5
+Infernus Praecantatio Vacuos Fames Victus
+Infernus Cognitio 3
+Infernus Ignis Cognitio
+Infernus Ignis 2
+Infernus Ignis
+Infernus Spiritus 4
+Infernus Ignis Cognitio Spiritus
+Infernus Corpus 6
+Infernus Praecantatio Vacuos Fames Luxuria Corpus
+Infernus Mortuus 5
+Infernus Praecantatio Vacuos Perditio Mortuus
+Infernus Desidia 5
+Infernus Ignis Cognitio Spiritus Desidia
+Infernus Vinculum 5
+Infernus Praecantatio Vacuos Perditio Vinculum
+Infernus Exanimus 6
+Infernus Praecantatio Vacuos Aer Motus Exanimus
+Infernus Fabrico 5
+Infernus Ignis Cognitio Humanus Fabrico
+Infernus Humanus 4
+Infernus Ignis Cognitio Humanus
+Infernus Instrumentum 4
+Infernus Ignis Telum Instrumentum
+Infernus Fames 4
+Infernus Praecantatio Vacuos Fames
+Infernus Gelum 3
+Infernus Ignis Gelum
+Infernus Perditio 4
+Infernus Praecantatio Vacuos Perditio
+Infernus Gula 4
+Infernus Praecantatio Vacuos Gula
+Infernus Terra 6
+Infernus Praecantatio Vacuos Fames Victus Terra
+Infernus Ordo 4
+Infernus Praecantatio Potentia Ordo
+Infernus Ira 3
+Infernus Ignis Ira
+Infernus Telum 3
+Infernus Ignis Telum
+Infernus Iter 6
+Infernus Praecantatio Vacuos Aer Motus Iter
+Infernus Limus 6
+Infernus Praecantatio Vacuos Aer Aqua Limus
+Infernus Lucrum 5
+Infernus Praecantatio Vacuos Fames Lucrum
+Infernus Lux 3
+Infernus Ignis Lux
+Infernus Luxuria 5
+Infernus Praecantatio Vacuos Fames Luxuria
+Infernus Machina 5
+Infernus Ignis Telum Instrumentum Machina
+Infernus Messis 5
+Infernus Ignis Cognitio Humanus Messis
 Infernus Metallum 6
 Infernus Praecantatio Potentia Ordo Vitreus Metallum
+Infernus Vitreus 5
+Infernus Praecantatio Potentia Ordo Vitreus
+Infernus Meto 5
+Infernus Ignis Telum Instrumentum Meto
+Infernus Pannus 5
+Infernus Ignis Telum Instrumentum Pannus
+Infernus Perfodio 5
+Infernus Ignis Cognitio Humanus Perfodio
+Infernus Permutatio 5
+Infernus Praecantatio Vacuos Perditio Permutatio
+Infernus Potentia 3
+Infernus Praecantatio Potentia
+Infernus Sano 5
+Infernus Praecantatio Potentia Ordo Sano
+Infernus Sensus 5
+Infernus Praecantatio Vacuos Aer Sensus
+Infernus Superbia 4
+Infernus Praecantatio Vacuos Superbia
+Infernus Volatus 5
+Infernus Praecantatio Vacuos Aer Volatus
+Infernus Tempestas 5
+Infernus Praecantatio Vacuos Aer Tempestas
+Infernus Tutamen 5
+Infernus Ignis Telum Instrumentum Tutamen
+Infernus Venenum 5
+Infernus Praecantatio Vacuos Perditio Venenum
+Infernus Vitium 3
+Infernus Praecantatio Vitium
+Ordo Aer 3
+Ordo Motus Aer
+Ordo Alienis 5
+Ordo Motus Aer Vacuos Alienis
+Ordo Vacuos 4
+Ordo Motus Aer Vacuos
+Ordo Tenebrae 5
+Ordo Motus Aer Vacuos Tenebrae
+Ordo Aqua 4
+Ordo Motus Aer Aqua
 Ordo Herba 4
 Ordo Vitreus Terra Herba
+Ordo Arbor 4
+Ordo Motus Aer Arbor
+Ordo Auram 4
+Ordo Motus Aer Auram
 Ordo Praecantatio 3
 Ordo Potentia Praecantatio
+Ordo Bestia 3
+Ordo Motus Bestia
+Ordo Motus 2
+Ordo Motus
+Ordo Victus 3
+Ordo Sano Victus
+Ordo Cognitio 4
+Ordo Instrumentum Humanus Cognitio
+Ordo Ignis 3
+Ordo Potentia Ignis
+Ordo Spiritus 4
+Ordo Sano Victus Spiritus
+Ordo Corpus 4
+Ordo Motus Bestia Corpus
+Ordo Mortuus 4
+Ordo Motus Exanimus Mortuus
+Ordo Desidia 4
+Ordo Motus Vinculum Desidia
+Ordo Vinculum 3
+Ordo Motus Vinculum
+Ordo Exanimus 3
+Ordo Motus Exanimus
+Ordo Fabrico 3
+Ordo Instrumentum Fabrico
+Ordo Humanus 3
+Ordo Instrumentum Humanus
+Ordo Instrumentum 2
+Ordo Instrumentum
+Ordo Fames 4
+Ordo Sano Victus Fames
+Ordo Gelum 4
+Ordo Permutatio Perditio Gelum
+Ordo Perditio 3
+Ordo Permutatio Perditio
+Ordo Gula 5
+Ordo Motus Aer Vacuos Gula
+Ordo Terra 3
+Ordo Vitreus Terra
+Ordo Infernus 4
+Ordo Potentia Praecantatio Infernus
+Ordo Ira 4
+Ordo Instrumentum Telum Ira
+Ordo Telum 3
+Ordo Instrumentum Telum
+Ordo Iter 3
+Ordo Motus Iter
+Ordo Limus 4
+Ordo Sano Victus Limus
+Ordo Lucrum 4
+Ordo Instrumentum Humanus Lucrum
+Ordo Lux 4
+Ordo Motus Aer Lux
+Ordo Luxuria 5
+Ordo Motus Bestia Corpus Luxuria
+Ordo Machina 3
+Ordo Motus Machina
+Ordo Messis 4
+Ordo Instrumentum Humanus Messis
 Ordo Metallum 3
 Ordo Vitreus Metallum
+Ordo Vitreus 2
+Ordo Vitreus
+Ordo Meto 3
+Ordo Instrumentum Meto
+Ordo Pannus 3
+Ordo Instrumentum Pannus
+Ordo Perfodio 4
+Ordo Instrumentum Humanus Perfodio
+Ordo Permutatio 2
+Ordo Permutatio
+Ordo Potentia 2
+Ordo Potentia
+Ordo Sano 2
+Ordo Sano
+Ordo Sensus 4
+Ordo Motus Aer Sensus
+Ordo Superbia 4
+Ordo Motus Volatus Superbia
+Ordo Volatus 3
+Ordo Motus Volatus
+Ordo Tempestas 4
+Ordo Motus Aer Tempestas
+Ordo Tutamen 3
+Ordo Instrumentum Tutamen
+Ordo Venenum 4
+Ordo Permutatio Perditio Venenum
+Ordo Vitium 4
+Ordo Permutatio Perditio Vitium
+Ira Aer 4
+Ira Ignis Lux Aer
+Ira Alienis 5
+Ira Ignis Lux Tenebrae Alienis
+Ira Vacuos 5
+Ira Ignis Gelum Perditio Vacuos
+Ira Tenebrae 4
+Ira Ignis Lux Tenebrae
+Ira Aqua 5
+Ira Ignis Lux Aer Aqua
 Ira Herba 6
 Ira Ignis Cognitio Spiritus Victus Herba
+Ira Arbor 5
+Ira Ignis Lux Aer Arbor
+Ira Auram 5
+Ira Ignis Infernus Praecantatio Auram
 Ira Praecantatio 4
 Ira Ignis Infernus Praecantatio
+Ira Bestia 5
+Ira Ignis Cognitio Humanus Bestia
+Ira Motus 5
+Ira Ignis Lux Aer Motus
+Ira Victus 5
+Ira Ignis Cognitio Spiritus Victus
+Ira Cognitio 3
+Ira Ignis Cognitio
+Ira Ignis 2
+Ira Ignis
+Ira Spiritus 4
+Ira Ignis Cognitio Spiritus
+Ira Corpus 6
+Ira Ignis Cognitio Spiritus Mortuus Corpus
+Ira Mortuus 5
+Ira Ignis Cognitio Spiritus Mortuus
+Ira Desidia 5
+Ira Ignis Cognitio Spiritus Desidia
+Ira Vinculum 5
+Ira Ignis Gelum Perditio Vinculum
+Ira Exanimus 6
+Ira Ignis Cognitio Spiritus Mortuus Exanimus
+Ira Fabrico 4
+Ira Telum Instrumentum Fabrico
+Ira Humanus 4
+Ira Ignis Cognitio Humanus
+Ira Instrumentum 3
+Ira Telum Instrumentum
+Ira Fames 6
+Ira Ignis Cognitio Spiritus Victus Fames
+Ira Gelum 3
+Ira Ignis Gelum
+Ira Perditio 4
+Ira Ignis Gelum Perditio
+Ira Gula 6
+Ira Ignis Gelum Perditio Vacuos Gula
+Ira Terra 5
+Ira Telum Instrumentum Tutamen Terra
+Ira Infernus 3
+Ira Ignis Infernus
+Ira Ordo 4
+Ira Ignis Potentia Ordo
+Ira Telum 2
+Ira Telum
+Ira Iter 6
+Ira Ignis Lux Aer Motus Iter
+Ira Limus 6
+Ira Ignis Cognitio Spiritus Victus Limus
+Ira Lucrum 5
+Ira Ignis Cognitio Humanus Lucrum
+Ira Lux 3
+Ira Ignis Lux
+Ira Luxuria 7
+Ira Ignis Cognitio Spiritus Victus Fames Luxuria
+Ira Machina 4
+Ira Telum Instrumentum Machina
+Ira Messis 5
+Ira Ignis Cognitio Humanus Messis
 Ira Metallum 6
 Ira Ignis Potentia Ordo Vitreus Metallum
+Ira Vitreus 5
+Ira Ignis Potentia Ordo Vitreus
+Ira Meto 4
+Ira Telum Instrumentum Meto
+Ira Pannus 4
+Ira Telum Instrumentum Pannus
+Ira Perfodio 5
+Ira Ignis Cognitio Humanus Perfodio
+Ira Permutatio 5
+Ira Ignis Gelum Perditio Permutatio
+Ira Potentia 3
+Ira Ignis Potentia
+Ira Sano 5
+Ira Ignis Potentia Ordo Sano
+Ira Sensus 5
+Ira Ignis Cognitio Spiritus Sensus
+Ira Superbia 6
+Ira Ignis Gelum Perditio Vacuos Superbia
+Ira Volatus 5
+Ira Ignis Lux Aer Volatus
+Ira Tempestas 5
+Ira Ignis Lux Aer Tempestas
+Ira Tutamen 4
+Ira Telum Instrumentum Tutamen
+Ira Venenum 5
+Ira Ignis Gelum Perditio Venenum
+Ira Vitium 5
+Ira Ignis Gelum Perditio Vitium
+Telum Aer 4
+Telum Ignis Lux Aer
+Telum Alienis 5
+Telum Ignis Lux Tenebrae Alienis
+Telum Vacuos 5
+Telum Ignis Gelum Perditio Vacuos
+Telum Tenebrae 4
+Telum Ignis Lux Tenebrae
+Telum Aqua 5
+Telum Ignis Lux Aer Aqua
 Telum Herba 5
 Telum Instrumentum Humanus Messis Herba
+Telum Arbor 5
+Telum Ignis Lux Aer Arbor
+Telum Auram 5
+Telum Ignis Infernus Praecantatio Auram
 Telum Praecantatio 4
 Telum Ignis Infernus Praecantatio
+Telum Bestia 4
+Telum Instrumentum Humanus Bestia
+Telum Motus 4
+Telum Instrumentum Ordo Motus
+Telum Victus 5
+Telum Ignis Cognitio Spiritus Victus
+Telum Cognitio 3
+Telum Ignis Cognitio
+Telum Ignis 2
+Telum Ignis
+Telum Spiritus 4
+Telum Ignis Cognitio Spiritus
+Telum Corpus 5
+Telum Instrumentum Humanus Bestia Corpus
+Telum Mortuus 5
+Telum Ignis Cognitio Spiritus Mortuus
+Telum Desidia 5
+Telum Ignis Cognitio Spiritus Desidia
+Telum Vinculum 5
+Telum Ignis Gelum Perditio Vinculum
+Telum Exanimus 5
+Telum Instrumentum Ordo Motus Exanimus
+Telum Fabrico 3
+Telum Instrumentum Fabrico
+Telum Humanus 3
+Telum Instrumentum Humanus
+Telum Instrumentum 2
+Telum Instrumentum
+Telum Fames 5
+Telum Instrumentum Humanus Lucrum Fames
+Telum Gelum 3
+Telum Ignis Gelum
+Telum Perditio 4
+Telum Ignis Gelum Perditio
+Telum Gula 6
+Telum Ignis Gelum Perditio Vacuos Gula
+Telum Terra 4
+Telum Instrumentum Tutamen Terra
+Telum Infernus 3
+Telum Ignis Infernus
+Telum Ordo 3
+Telum Instrumentum Ordo
+Telum Ira 2
+Telum Ira
+Telum Iter 5
+Telum Instrumentum Ordo Motus Iter
+Telum Limus 6
+Telum Ignis Cognitio Spiritus Victus Limus
+Telum Lucrum 4
+Telum Instrumentum Humanus Lucrum
+Telum Lux 3
+Telum Ignis Lux
+Telum Luxuria 6
+Telum Instrumentum Humanus Bestia Corpus Luxuria
+Telum Machina 3
+Telum Instrumentum Machina
+Telum Messis 4
+Telum Instrumentum Humanus Messis
 Telum Metallum 5
 Telum Instrumentum Ordo Vitreus Metallum
+Telum Vitreus 4
+Telum Instrumentum Ordo Vitreus
+Telum Meto 3
+Telum Instrumentum Meto
+Telum Pannus 3
+Telum Instrumentum Pannus
+Telum Perfodio 4
+Telum Instrumentum Humanus Perfodio
+Telum Permutatio 4
+Telum Instrumentum Ordo Permutatio
+Telum Potentia 3
+Telum Ignis Potentia
+Telum Sano 4
+Telum Instrumentum Ordo Sano
+Telum Sensus 5
+Telum Ignis Cognitio Spiritus Sensus
+Telum Superbia 6
+Telum Ignis Gelum Perditio Vacuos Superbia
+Telum Volatus 5
+Telum Ignis Lux Aer Volatus
+Telum Tempestas 5
+Telum Ignis Lux Aer Tempestas
+Telum Tutamen 3
+Telum Instrumentum Tutamen
+Telum Venenum 5
+Telum Ignis Gelum Perditio Venenum
+Telum Vitium 5
+Telum Ignis Gelum Perditio Vitium
+Iter Aer 3
+Iter Motus Aer
+Iter Alienis 5
+Iter Motus Aer Vacuos Alienis
+Iter Vacuos 4
+Iter Motus Aer Vacuos
+Iter Tenebrae 5
+Iter Motus Aer Vacuos Tenebrae
+Iter Aqua 4
+Iter Motus Aer Aqua
 Iter Herba 3
 Iter Terra Herba
+Iter Arbor 4
+Iter Motus Aer Arbor
+Iter Auram 4
+Iter Motus Aer Auram
 Iter Praecantatio 5
 Iter Motus Aer Vacuos Praecantatio
+Iter Bestia 3
+Iter Motus Bestia
+Iter Motus 2
+Iter Motus
+Iter Victus 3
+Iter Terra Victus
+Iter Cognitio 5
+Iter Motus Bestia Humanus Cognitio
+Iter Ignis 5
+Iter Motus Aer Lux Ignis
+Iter Spiritus 4
+Iter Terra Victus Spiritus
+Iter Corpus 4
+Iter Motus Bestia Corpus
+Iter Mortuus 4
+Iter Motus Exanimus Mortuus
+Iter Desidia 4
+Iter Motus Vinculum Desidia
+Iter Vinculum 3
+Iter Motus Vinculum
+Iter Exanimus 3
+Iter Motus Exanimus
+Iter Fabrico 5
+Iter Motus Bestia Humanus Fabrico
+Iter Humanus 4
+Iter Motus Bestia Humanus
+Iter Instrumentum 4
+Iter Motus Ordo Instrumentum
+Iter Fames 4
+Iter Terra Victus Fames
+Iter Gelum 5
+Iter Motus Vinculum Perditio Gelum
+Iter Perditio 4
+Iter Motus Vinculum Perditio
+Iter Gula 5
+Iter Motus Aer Vacuos Gula
+Iter Terra 2
+Iter Terra
+Iter Infernus 6
+Iter Motus Aer Vacuos Praecantatio Infernus
+Iter Ordo 3
+Iter Motus Ordo
+Iter Ira 6
+Iter Motus Aer Lux Ignis Ira
+Iter Telum 5
+Iter Motus Ordo Instrumentum Telum
+Iter Limus 4
+Iter Terra Victus Limus
+Iter Lucrum 5
+Iter Motus Bestia Humanus Lucrum
+Iter Lux 4
+Iter Motus Aer Lux
+Iter Luxuria 5
+Iter Motus Bestia Corpus Luxuria
+Iter Machina 3
+Iter Motus Machina
+Iter Messis 4
+Iter Terra Herba Messis
 Iter Metallum 3
 Iter Terra Metallum
+Iter Vitreus 3
+Iter Terra Vitreus
+Iter Meto 5
+Iter Motus Ordo Instrumentum Meto
+Iter Pannus 4
+Iter Motus Bestia Pannus
+Iter Perfodio 3
+Iter Terra Perfodio
+Iter Permutatio 4
+Iter Motus Ordo Permutatio
+Iter Potentia 4
+Iter Motus Ordo Potentia
+Iter Sano 4
+Iter Motus Ordo Sano
+Iter Sensus 4
+Iter Motus Aer Sensus
+Iter Superbia 4
+Iter Motus Volatus Superbia
+Iter Volatus 3
+Iter Motus Volatus
+Iter Tempestas 4
+Iter Motus Aer Tempestas
+Iter Tutamen 3
+Iter Terra Tutamen
+Iter Venenum 5
+Iter Motus Aer Aqua Venenum
+Iter Vitium 5
+Iter Motus Vinculum Perditio Vitium
+Limus Aer 3
+Limus Aqua Aer
+Limus Alienis 5
+Limus Aqua Aer Vacuos Alienis
+Limus Vacuos 4
+Limus Aqua Aer Vacuos
+Limus Tenebrae 5
+Limus Aqua Aer Vacuos Tenebrae
+Limus Aqua 2
+Limus Aqua
 Limus Herba 3
 Limus Aqua Herba
+Limus Arbor 4
+Limus Aqua Aer Arbor
+Limus Auram 4
+Limus Aqua Aer Auram
 Limus Praecantatio 5
 Limus Aqua Aer Vacuos Praecantatio
+Limus Bestia 3
+Limus Victus Bestia
+Limus Motus 4
+Limus Aqua Aer Motus
+Limus Victus 2
+Limus Victus
+Limus Cognitio 4
+Limus Victus Spiritus Cognitio
+Limus Ignis 5
+Limus Aqua Aer Lux Ignis
+Limus Spiritus 3
+Limus Victus Spiritus
+Limus Corpus 4
+Limus Victus Bestia Corpus
+Limus Mortuus 3
+Limus Victus Mortuus
+Limus Desidia 4
+Limus Victus Spiritus Desidia
+Limus Vinculum 5
+Limus Aqua Aer Motus Vinculum
+Limus Exanimus 4
+Limus Victus Mortuus Exanimus
+Limus Fabrico 5
+Limus Victus Bestia Humanus Fabrico
+Limus Humanus 4
+Limus Victus Bestia Humanus
+Limus Instrumentum 5
+Limus Victus Bestia Humanus Instrumentum
+Limus Fames 3
+Limus Victus Fames
+Limus Gelum 5
+Limus Aqua Venenum Perditio Gelum
+Limus Perditio 4
+Limus Aqua Venenum Perditio
+Limus Gula 4
+Limus Victus Fames Gula
+Limus Terra 3
+Limus Victus Terra
+Limus Infernus 6
+Limus Aqua Aer Vacuos Praecantatio Infernus
+Limus Ordo 4
+Limus Victus Sano Ordo
+Limus Ira 6
+Limus Aqua Aer Lux Ignis Ira
+Limus Telum 6
+Limus Aqua Aer Lux Ignis Telum
+Limus Iter 4
+Limus Victus Terra Iter
+Limus Lucrum 4
+Limus Victus Fames Lucrum
+Limus Lux 4
+Limus Aqua Aer Lux
+Limus Luxuria 4
+Limus Victus Fames Luxuria
+Limus Machina 5
+Limus Aqua Aer Motus Machina
+Limus Messis 4
+Limus Aqua Herba Messis
 Limus Metallum 4
 Limus Victus Terra Metallum
+Limus Vitreus 4
+Limus Victus Terra Vitreus
+Limus Meto 5
+Limus Aqua Herba Messis Meto
+Limus Pannus 4
+Limus Victus Bestia Pannus
+Limus Perfodio 4
+Limus Victus Terra Perfodio
+Limus Permutatio 5
+Limus Aqua Venenum Perditio Permutatio
+Limus Potentia 5
+Limus Victus Sano Ordo Potentia
+Limus Sano 3
+Limus Victus Sano
+Limus Sensus 4
+Limus Aqua Aer Sensus
+Limus Superbia 5
+Limus Aqua Aer Vacuos Superbia
+Limus Volatus 4
+Limus Aqua Aer Volatus
+Limus Tempestas 3
+Limus Aqua Tempestas
+Limus Tutamen 4
+Limus Victus Terra Tutamen
+Limus Venenum 3
+Limus Aqua Venenum
+Limus Vitium 5
+Limus Aqua Venenum Perditio Vitium
+Lucrum Aer 4
+Lucrum Fames Vacuos Aer
+Lucrum Alienis 4
+Lucrum Fames Vacuos Alienis
+Lucrum Vacuos 3
+Lucrum Fames Vacuos
+Lucrum Tenebrae 4
+Lucrum Fames Vacuos Tenebrae
+Lucrum Aqua 4
+Lucrum Fames Victus Aqua
 Lucrum Herba 4
 Lucrum Humanus Messis Herba
+Lucrum Arbor 5
+Lucrum Humanus Messis Herba Arbor
+Lucrum Auram 5
+Lucrum Fames Vacuos Aer Auram
 Lucrum Praecantatio 4
 Lucrum Fames Vacuos Praecantatio
+Lucrum Bestia 3
+Lucrum Humanus Bestia
+Lucrum Motus 4
+Lucrum Humanus Bestia Motus
+Lucrum Victus 3
+Lucrum Fames Victus
+Lucrum Cognitio 3
+Lucrum Humanus Cognitio
+Lucrum Ignis 4
+Lucrum Humanus Cognitio Ignis
+Lucrum Spiritus 4
+Lucrum Humanus Cognitio Spiritus
+Lucrum Corpus 4
+Lucrum Humanus Bestia Corpus
+Lucrum Mortuus 4
+Lucrum Fames Victus Mortuus
+Lucrum Desidia 5
+Lucrum Humanus Cognitio Spiritus Desidia
+Lucrum Vinculum 5
+Lucrum Humanus Bestia Motus Vinculum
+Lucrum Exanimus 5
+Lucrum Humanus Bestia Motus Exanimus
+Lucrum Fabrico 3
+Lucrum Humanus Fabrico
+Lucrum Humanus 2
+Lucrum Humanus
+Lucrum Instrumentum 3
+Lucrum Humanus Instrumentum
+Lucrum Fames 2
+Lucrum Fames
+Lucrum Gelum 5
+Lucrum Humanus Cognitio Ignis Gelum
+Lucrum Perditio 4
+Lucrum Fames Vacuos Perditio
+Lucrum Gula 3
+Lucrum Fames Gula
+Lucrum Terra 4
+Lucrum Humanus Perfodio Terra
+Lucrum Infernus 5
+Lucrum Humanus Cognitio Ignis Infernus
+Lucrum Ordo 4
+Lucrum Humanus Instrumentum Ordo
+Lucrum Ira 5
+Lucrum Humanus Cognitio Ignis Ira
+Lucrum Telum 4
+Lucrum Humanus Instrumentum Telum
+Lucrum Iter 5
+Lucrum Humanus Bestia Motus Iter
+Lucrum Limus 4
+Lucrum Fames Victus Limus
+Lucrum Lux 5
+Lucrum Humanus Cognitio Ignis Lux
+Lucrum Luxuria 3
+Lucrum Fames Luxuria
+Lucrum Machina 4
+Lucrum Humanus Instrumentum Machina
+Lucrum Messis 3
+Lucrum Humanus Messis
 Lucrum Metallum 5
 Lucrum Humanus Perfodio Terra Metallum
+Lucrum Vitreus 5
+Lucrum Humanus Instrumentum Ordo Vitreus
+Lucrum Meto 4
+Lucrum Humanus Instrumentum Meto
+Lucrum Pannus 4
+Lucrum Humanus Bestia Pannus
+Lucrum Perfodio 3
+Lucrum Humanus Perfodio
+Lucrum Permutatio 5
+Lucrum Humanus Instrumentum Ordo Permutatio
+Lucrum Potentia 5
+Lucrum Humanus Cognitio Ignis Potentia
+Lucrum Sano 4
+Lucrum Fames Victus Sano
+Lucrum Sensus 5
+Lucrum Humanus Cognitio Spiritus Sensus
+Lucrum Superbia 4
+Lucrum Fames Vacuos Superbia
+Lucrum Volatus 5
+Lucrum Humanus Bestia Motus Volatus
+Lucrum Tempestas 5
+Lucrum Fames Vacuos Aer Tempestas
+Lucrum Tutamen 4
+Lucrum Humanus Instrumentum Tutamen
+Lucrum Venenum 5
+Lucrum Fames Vacuos Perditio Venenum
+Lucrum Vitium 5
+Lucrum Fames Vacuos Praecantatio Vitium
+Lux Aer 2
+Lux Aer
+Lux Alienis 3
+Lux Tenebrae Alienis
+Lux Vacuos 3
+Lux Aer Vacuos
+Lux Tenebrae 2
+Lux Tenebrae
+Lux Aqua 3
+Lux Aer Aqua
 Lux Herba 4
 Lux Aer Aqua Herba
+Lux Arbor 3
+Lux Aer Arbor
+Lux Auram 3
+Lux Aer Auram
 Lux Praecantatio 4
 Lux Aer Vacuos Praecantatio
+Lux Bestia 4
+Lux Aer Motus Bestia
+Lux Motus 3
+Lux Aer Motus
+Lux Victus 4
+Lux Aer Aqua Victus
+Lux Cognitio 3
+Lux Ignis Cognitio
+Lux Ignis 2
+Lux Ignis
+Lux Spiritus 4
+Lux Aer Sensus Spiritus
+Lux Corpus 5
+Lux Aer Motus Bestia Corpus
+Lux Mortuus 5
+Lux Aer Vacuos Perditio Mortuus
+Lux Desidia 5
+Lux Aer Motus Vinculum Desidia
+Lux Vinculum 4
+Lux Aer Motus Vinculum
+Lux Exanimus 4
+Lux Aer Motus Exanimus
+Lux Fabrico 5
+Lux Ignis Cognitio Humanus Fabrico
+Lux Humanus 4
+Lux Ignis Cognitio Humanus
+Lux Instrumentum 4
+Lux Ignis Telum Instrumentum
+Lux Fames 4
+Lux Aer Vacuos Fames
+Lux Gelum 3
+Lux Ignis Gelum
+Lux Perditio 4
+Lux Aer Vacuos Perditio
+Lux Gula 4
+Lux Aer Vacuos Gula
+Lux Terra 5
+Lux Aer Aqua Herba Terra
+Lux Infernus 3
+Lux Ignis Infernus
+Lux Ordo 4
+Lux Aer Motus Ordo
+Lux Ira 3
+Lux Ignis Ira
+Lux Telum 3
+Lux Ignis Telum
+Lux Iter 4
+Lux Aer Motus Iter
+Lux Limus 4
+Lux Aer Aqua Limus
+Lux Lucrum 5
+Lux Aer Vacuos Fames Lucrum
+Lux Luxuria 5
+Lux Aer Vacuos Fames Luxuria
+Lux Machina 4
+Lux Aer Motus Machina
+Lux Messis 5
+Lux Aer Aqua Herba Messis
 Lux Metallum 6
 Lux Aer Aqua Herba Terra Metallum
+Lux Vitreus 5
+Lux Aer Motus Ordo Vitreus
+Lux Meto 5
+Lux Ignis Telum Instrumentum Meto
+Lux Pannus 5
+Lux Aer Motus Bestia Pannus
+Lux Perfodio 5
+Lux Ignis Cognitio Humanus Perfodio
+Lux Permutatio 5
+Lux Aer Vacuos Perditio Permutatio
+Lux Potentia 3
+Lux Ignis Potentia
+Lux Sano 5
+Lux Aer Aqua Victus Sano
+Lux Sensus 3
+Lux Aer Sensus
+Lux Superbia 4
+Lux Aer Vacuos Superbia
+Lux Volatus 3
+Lux Aer Volatus
+Lux Tempestas 3
+Lux Aer Tempestas
+Lux Tutamen 5
+Lux Ignis Telum Instrumentum Tutamen
+Lux Venenum 4
+Lux Aer Aqua Venenum
+Lux Vitium 5
+Lux Aer Vacuos Praecantatio Vitium
+Luxuria Aer 4
+Luxuria Fames Vacuos Aer
+Luxuria Alienis 4
+Luxuria Fames Vacuos Alienis
+Luxuria Vacuos 3
+Luxuria Fames Vacuos
+Luxuria Tenebrae 4
+Luxuria Fames Vacuos Tenebrae
+Luxuria Aqua 4
+Luxuria Fames Victus Aqua
 Luxuria Herba 4
 Luxuria Fames Victus Herba
+Luxuria Arbor 5
+Luxuria Fames Vacuos Aer Arbor
+Luxuria Auram 5
+Luxuria Fames Vacuos Aer Auram
 Luxuria Praecantatio 4
 Luxuria Fames Vacuos Praecantatio
+Luxuria Bestia 3
+Luxuria Corpus Bestia
+Luxuria Motus 4
+Luxuria Corpus Bestia Motus
+Luxuria Victus 3
+Luxuria Fames Victus
+Luxuria Cognitio 5
+Luxuria Corpus Bestia Humanus Cognitio
+Luxuria Ignis 6
+Luxuria Corpus Bestia Humanus Cognitio Ignis
+Luxuria Spiritus 4
+Luxuria Corpus Mortuus Spiritus
+Luxuria Corpus 2
+Luxuria Corpus
+Luxuria Mortuus 3
+Luxuria Corpus Mortuus
+Luxuria Desidia 5
+Luxuria Corpus Mortuus Spiritus Desidia
+Luxuria Vinculum 5
+Luxuria Corpus Bestia Motus Vinculum
+Luxuria Exanimus 4
+Luxuria Corpus Mortuus Exanimus
+Luxuria Fabrico 5
+Luxuria Corpus Bestia Humanus Fabrico
+Luxuria Humanus 4
+Luxuria Corpus Bestia Humanus
+Luxuria Instrumentum 5
+Luxuria Corpus Bestia Humanus Instrumentum
+Luxuria Fames 2
+Luxuria Fames
+Luxuria Gelum 5
+Luxuria Corpus Mortuus Perditio Gelum
+Luxuria Perditio 4
+Luxuria Corpus Mortuus Perditio
+Luxuria Gula 3
+Luxuria Fames Gula
+Luxuria Terra 4
+Luxuria Fames Victus Terra
+Luxuria Infernus 5
+Luxuria Fames Vacuos Praecantatio Infernus
+Luxuria Ordo 5
+Luxuria Corpus Bestia Motus Ordo
+Luxuria Ira 7
+Luxuria Corpus Bestia Humanus Cognitio Ignis Ira
+Luxuria Telum 6
+Luxuria Corpus Bestia Humanus Instrumentum Telum
+Luxuria Iter 5
+Luxuria Corpus Bestia Motus Iter
+Luxuria Limus 4
+Luxuria Fames Victus Limus
+Luxuria Lucrum 3
+Luxuria Fames Lucrum
+Luxuria Lux 5
+Luxuria Fames Vacuos Aer Lux
+Luxuria Machina 5
+Luxuria Corpus Bestia Motus Machina
+Luxuria Messis 5
+Luxuria Corpus Bestia Humanus Messis
 Luxuria Metallum 5
 Luxuria Fames Victus Terra Metallum
+Luxuria Vitreus 5
+Luxuria Fames Victus Terra Vitreus
+Luxuria Meto 6
+Luxuria Corpus Bestia Humanus Instrumentum Meto
+Luxuria Pannus 4
+Luxuria Corpus Bestia Pannus
+Luxuria Perfodio 5
+Luxuria Corpus Bestia Humanus Perfodio
+Luxuria Permutatio 5
+Luxuria Corpus Mortuus Perditio Permutatio
+Luxuria Potentia 5
+Luxuria Fames Vacuos Praecantatio Potentia
+Luxuria Sano 4
+Luxuria Fames Victus Sano
+Luxuria Sensus 5
+Luxuria Corpus Mortuus Spiritus Sensus
+Luxuria Superbia 4
+Luxuria Fames Vacuos Superbia
+Luxuria Volatus 5
+Luxuria Corpus Bestia Motus Volatus
+Luxuria Tempestas 5
+Luxuria Fames Vacuos Aer Tempestas
+Luxuria Tutamen 5
+Luxuria Fames Victus Terra Tutamen
+Luxuria Venenum 5
+Luxuria Corpus Mortuus Perditio Venenum
+Luxuria Vitium 5
+Luxuria Corpus Mortuus Perditio Vitium
+Machina Aer 3
+Machina Motus Aer
+Machina Alienis 5
+Machina Motus Aer Vacuos Alienis
+Machina Vacuos 4
+Machina Motus Aer Vacuos
+Machina Tenebrae 5
+Machina Motus Aer Vacuos Tenebrae
+Machina Aqua 4
+Machina Motus Aer Aqua
 Machina Herba 5
 Machina Motus Aer Aqua Herba
+Machina Arbor 4
+Machina Motus Aer Arbor
+Machina Auram 4
+Machina Motus Aer Auram
 Machina Praecantatio 5
 Machina Motus Aer Vacuos Praecantatio
+Machina Bestia 3
+Machina Motus Bestia
+Machina Motus 2
+Machina Motus
+Machina Victus 4
+Machina Motus Bestia Victus
+Machina Cognitio 4
+Machina Instrumentum Humanus Cognitio
+Machina Ignis 4
+Machina Instrumentum Telum Ignis
+Machina Spiritus 5
+Machina Motus Aer Sensus Spiritus
+Machina Corpus 4
+Machina Motus Bestia Corpus
+Machina Mortuus 4
+Machina Motus Exanimus Mortuus
+Machina Desidia 4
+Machina Motus Vinculum Desidia
+Machina Vinculum 3
+Machina Motus Vinculum
+Machina Exanimus 3
+Machina Motus Exanimus
+Machina Fabrico 3
+Machina Instrumentum Fabrico
+Machina Humanus 3
+Machina Instrumentum Humanus
+Machina Instrumentum 2
+Machina Instrumentum
+Machina Fames 5
+Machina Motus Aer Vacuos Fames
+Machina Gelum 5
+Machina Motus Vinculum Perditio Gelum
+Machina Perditio 4
+Machina Motus Vinculum Perditio
+Machina Gula 5
+Machina Motus Aer Vacuos Gula
+Machina Terra 4
+Machina Motus Iter Terra
+Machina Infernus 5
+Machina Instrumentum Telum Ignis Infernus
+Machina Ordo 3
+Machina Motus Ordo
+Machina Ira 4
+Machina Instrumentum Telum Ira
+Machina Telum 3
+Machina Instrumentum Telum
+Machina Iter 3
+Machina Motus Iter
+Machina Limus 5
+Machina Motus Aer Aqua Limus
+Machina Lucrum 4
+Machina Instrumentum Humanus Lucrum
+Machina Lux 4
+Machina Motus Aer Lux
+Machina Luxuria 5
+Machina Motus Bestia Corpus Luxuria
+Machina Messis 4
+Machina Instrumentum Humanus Messis
 Machina Metallum 5
 Machina Motus Ordo Vitreus Metallum
+Machina Vitreus 4
+Machina Motus Ordo Vitreus
+Machina Meto 3
+Machina Instrumentum Meto
+Machina Pannus 3
+Machina Instrumentum Pannus
+Machina Perfodio 4
+Machina Instrumentum Humanus Perfodio
+Machina Permutatio 4
+Machina Motus Ordo Permutatio
+Machina Potentia 4
+Machina Motus Ordo Potentia
+Machina Sano 4
+Machina Motus Ordo Sano
+Machina Sensus 4
+Machina Motus Aer Sensus
+Machina Superbia 4
+Machina Motus Volatus Superbia
+Machina Volatus 3
+Machina Motus Volatus
+Machina Tempestas 4
+Machina Motus Aer Tempestas
+Machina Tutamen 3
+Machina Instrumentum Tutamen
+Machina Venenum 5
+Machina Motus Aer Aqua Venenum
+Machina Vitium 5
+Machina Motus Vinculum Perditio Vitium
+Messis Aer 4
+Messis Herba Aqua Aer
+Messis Alienis 6
+Messis Herba Aqua Aer Vacuos Alienis
+Messis Vacuos 5
+Messis Herba Aqua Aer Vacuos
+Messis Tenebrae 6
+Messis Herba Aqua Aer Vacuos Tenebrae
+Messis Aqua 3
+Messis Herba Aqua
 Messis Herba 2
 Messis Herba
+Messis Arbor 3
+Messis Herba Arbor
+Messis Auram 5
+Messis Herba Aqua Aer Auram
 Messis Praecantatio 6
 Messis Herba Aqua Aer Vacuos Praecantatio
+Messis Bestia 3
+Messis Humanus Bestia
+Messis Motus 4
+Messis Humanus Bestia Motus
+Messis Victus 3
+Messis Herba Victus
+Messis Cognitio 3
+Messis Humanus Cognitio
+Messis Ignis 4
+Messis Humanus Cognitio Ignis
+Messis Spiritus 4
+Messis Herba Victus Spiritus
+Messis Corpus 4
+Messis Humanus Bestia Corpus
+Messis Mortuus 4
+Messis Herba Victus Mortuus
+Messis Desidia 5
+Messis Herba Victus Spiritus Desidia
+Messis Vinculum 5
+Messis Humanus Bestia Motus Vinculum
+Messis Exanimus 5
+Messis Herba Victus Mortuus Exanimus
+Messis Fabrico 3
+Messis Humanus Fabrico
+Messis Humanus 2
+Messis Humanus
+Messis Instrumentum 3
+Messis Humanus Instrumentum
+Messis Fames 4
+Messis Herba Victus Fames
+Messis Gelum 5
+Messis Humanus Cognitio Ignis Gelum
+Messis Perditio 5
+Messis Herba Aqua Venenum Perditio
+Messis Gula 5
+Messis Herba Victus Fames Gula
+Messis Terra 3
+Messis Herba Terra
+Messis Infernus 5
+Messis Humanus Cognitio Ignis Infernus
+Messis Ordo 4
+Messis Humanus Instrumentum Ordo
+Messis Ira 5
+Messis Humanus Cognitio Ignis Ira
+Messis Telum 4
+Messis Humanus Instrumentum Telum
+Messis Iter 4
+Messis Herba Terra Iter
+Messis Limus 4
+Messis Herba Aqua Limus
+Messis Lucrum 3
+Messis Humanus Lucrum
+Messis Lux 5
+Messis Herba Aqua Aer Lux
+Messis Luxuria 5
+Messis Herba Victus Fames Luxuria
+Messis Machina 4
+Messis Humanus Instrumentum Machina
 Messis Metallum 4
 Messis Herba Terra Metallum
+Messis Vitreus 4
+Messis Herba Terra Vitreus
+Messis Meto 2
+Messis Meto
+Messis Pannus 4
+Messis Humanus Bestia Pannus
+Messis Perfodio 3
+Messis Humanus Perfodio
+Messis Permutatio 5
+Messis Humanus Instrumentum Ordo Permutatio
+Messis Potentia 5
+Messis Humanus Cognitio Ignis Potentia
+Messis Sano 4
+Messis Herba Victus Sano
+Messis Sensus 5
+Messis Herba Aqua Aer Sensus
+Messis Superbia 6
+Messis Herba Aqua Aer Vacuos Superbia
+Messis Volatus 5
+Messis Herba Aqua Aer Volatus
+Messis Tempestas 4
+Messis Herba Aqua Tempestas
+Messis Tutamen 4
+Messis Herba Terra Tutamen
+Messis Venenum 4
+Messis Herba Aqua Venenum
+Messis Vitium 6
+Messis Herba Aqua Venenum Perditio Vitium
+Metallum Aer 5
+Metallum Terra Herba Aqua Aer
+Metallum Alienis 6
+Metallum Terra Victus Fames Vacuos Alienis
+Metallum Vacuos 5
+Metallum Terra Victus Fames Vacuos
+Metallum Tenebrae 6
+Metallum Terra Victus Fames Vacuos Tenebrae
+Metallum Aqua 4
+Metallum Terra Herba Aqua
 Metallum Herba 3
 Metallum Terra Herba
+Metallum Arbor 4
+Metallum Terra Herba Arbor
+Metallum Auram 6
+Metallum Terra Herba Aqua Aer Auram
 Metallum Praecantatio 5
 Metallum Vitreus Ordo Potentia Praecantatio
+Metallum Bestia 4
+Metallum Terra Victus Bestia
+Metallum Motus 4
+Metallum Terra Iter Motus
+Metallum Victus 3
+Metallum Terra Victus
+Metallum Cognitio 5
+Metallum Terra Victus Spiritus Cognitio
+Metallum Ignis 5
+Metallum Vitreus Ordo Potentia Ignis
+Metallum Spiritus 4
+Metallum Terra Victus Spiritus
+Metallum Corpus 5
+Metallum Terra Victus Bestia Corpus
+Metallum Mortuus 4
+Metallum Terra Victus Mortuus
+Metallum Desidia 5
+Metallum Terra Victus Spiritus Desidia
+Metallum Vinculum 5
+Metallum Terra Iter Motus Vinculum
+Metallum Exanimus 5
+Metallum Terra Victus Mortuus Exanimus
+Metallum Fabrico 5
+Metallum Terra Perfodio Humanus Fabrico
+Metallum Humanus 4
+Metallum Terra Perfodio Humanus
+Metallum Instrumentum 4
+Metallum Terra Tutamen Instrumentum
+Metallum Fames 4
+Metallum Terra Victus Fames
+Metallum Gelum 6
+Metallum Terra Victus Mortuus Perditio Gelum
+Metallum Perditio 5
+Metallum Terra Victus Mortuus Perditio
+Metallum Gula 5
+Metallum Terra Victus Fames Gula
+Metallum Terra 2
+Metallum Terra
+Metallum Infernus 6
+Metallum Vitreus Ordo Potentia Praecantatio Infernus
+Metallum Ordo 3
+Metallum Vitreus Ordo
+Metallum Ira 6
+Metallum Terra Tutamen Instrumentum Telum Ira
+Metallum Telum 5
+Metallum Terra Tutamen Instrumentum Telum
+Metallum Iter 3
+Metallum Terra Iter
+Metallum Limus 4
+Metallum Terra Victus Limus
+Metallum Lucrum 5
+Metallum Terra Victus Fames Lucrum
+Metallum Lux 6
+Metallum Terra Herba Aqua Aer Lux
+Metallum Luxuria 5
+Metallum Terra Victus Fames Luxuria
+Metallum Machina 5
+Metallum Terra Iter Motus Machina
+Metallum Messis 4
+Metallum Terra Herba Messis
+Metallum Vitreus 2
+Metallum Vitreus
+Metallum Meto 5
+Metallum Terra Herba Messis Meto
+Metallum Pannus 5
+Metallum Terra Victus Bestia Pannus
+Metallum Perfodio 3
+Metallum Terra Perfodio
+Metallum Permutatio 4
+Metallum Vitreus Ordo Permutatio
+Metallum Potentia 4
+Metallum Vitreus Ordo Potentia
+Metallum Sano 4
+Metallum Terra Victus Sano
+Metallum Sensus 5
+Metallum Terra Victus Spiritus Sensus
+Metallum Superbia 6
+Metallum Terra Victus Fames Vacuos Superbia
+Metallum Volatus 5
+Metallum Terra Iter Motus Volatus
+Metallum Tempestas 5
+Metallum Terra Herba Aqua Tempestas
+Metallum Tutamen 3
+Metallum Terra Tutamen
+Metallum Venenum 5
+Metallum Terra Herba Aqua Venenum
+Metallum Vitium 6
+Metallum Terra Victus Mortuus Perditio Vitium
+Vitreus Aer 4
+Vitreus Ordo Motus Aer
+Vitreus Alienis 6
+Vitreus Terra Victus Fames Vacuos Alienis
+Vitreus Vacuos 5
+Vitreus Terra Victus Fames Vacuos
+Vitreus Tenebrae 6
+Vitreus Terra Victus Fames Vacuos Tenebrae
+Vitreus Aqua 4
+Vitreus Terra Herba Aqua
 Vitreus Herba 3
 Vitreus Terra Herba
+Vitreus Arbor 4
+Vitreus Terra Herba Arbor
+Vitreus Auram 5
+Vitreus Ordo Motus Aer Auram
 Vitreus Praecantatio 4
 Vitreus Ordo Potentia Praecantatio
+Vitreus Bestia 4
+Vitreus Terra Victus Bestia
+Vitreus Motus 3
+Vitreus Ordo Motus
+Vitreus Victus 3
+Vitreus Terra Victus
+Vitreus Cognitio 5
+Vitreus Terra Victus Spiritus Cognitio
+Vitreus Ignis 4
+Vitreus Ordo Potentia Ignis
+Vitreus Spiritus 4
+Vitreus Terra Victus Spiritus
+Vitreus Corpus 5
+Vitreus Terra Victus Bestia Corpus
+Vitreus Mortuus 4
+Vitreus Terra Victus Mortuus
+Vitreus Desidia 5
+Vitreus Terra Victus Spiritus Desidia
+Vitreus Vinculum 4
+Vitreus Ordo Motus Vinculum
+Vitreus Exanimus 4
+Vitreus Ordo Motus Exanimus
+Vitreus Fabrico 4
+Vitreus Ordo Instrumentum Fabrico
+Vitreus Humanus 4
+Vitreus Terra Perfodio Humanus
+Vitreus Instrumentum 3
+Vitreus Ordo Instrumentum
+Vitreus Fames 4
+Vitreus Terra Victus Fames
+Vitreus Gelum 5
+Vitreus Ordo Permutatio Perditio Gelum
+Vitreus Perditio 4
+Vitreus Ordo Permutatio Perditio
+Vitreus Gula 5
+Vitreus Terra Victus Fames Gula
+Vitreus Terra 2
+Vitreus Terra
+Vitreus Infernus 5
+Vitreus Ordo Potentia Praecantatio Infernus
+Vitreus Ordo 2
+Vitreus Ordo
+Vitreus Ira 5
+Vitreus Ordo Instrumentum Telum Ira
+Vitreus Telum 4
+Vitreus Ordo Instrumentum Telum
+Vitreus Iter 3
+Vitreus Terra Iter
+Vitreus Limus 4
+Vitreus Terra Victus Limus
+Vitreus Lucrum 5
+Vitreus Terra Victus Fames Lucrum
+Vitreus Lux 5
+Vitreus Ordo Motus Aer Lux
+Vitreus Luxuria 5
+Vitreus Terra Victus Fames Luxuria
+Vitreus Machina 4
+Vitreus Ordo Motus Machina
+Vitreus Messis 4
+Vitreus Terra Herba Messis
 Vitreus Metallum 2
 Vitreus Metallum
+Vitreus Meto 4
+Vitreus Ordo Instrumentum Meto
+Vitreus Pannus 4
+Vitreus Ordo Instrumentum Pannus
+Vitreus Perfodio 3
+Vitreus Terra Perfodio
+Vitreus Permutatio 3
+Vitreus Ordo Permutatio
+Vitreus Potentia 3
+Vitreus Ordo Potentia
+Vitreus Sano 3
+Vitreus Ordo Sano
+Vitreus Sensus 5
+Vitreus Terra Victus Spiritus Sensus
+Vitreus Superbia 5
+Vitreus Ordo Motus Volatus Superbia
+Vitreus Volatus 4
+Vitreus Ordo Motus Volatus
+Vitreus Tempestas 5
+Vitreus Terra Herba Aqua Tempestas
+Vitreus Tutamen 3
+Vitreus Terra Tutamen
+Vitreus Venenum 5
+Vitreus Terra Herba Aqua Venenum
+Vitreus Vitium 5
+Vitreus Ordo Permutatio Perditio Vitium
+Meto Aer 5
+Meto Instrumentum Ordo Motus Aer
+Meto Alienis 7
+Meto Instrumentum Humanus Lucrum Fames Vacuos Alienis
+Meto Vacuos 6
+Meto Instrumentum Humanus Lucrum Fames Vacuos
+Meto Tenebrae 6
+Meto Instrumentum Telum Ignis Lux Tenebrae
+Meto Aqua 4
+Meto Messis Herba Aqua
 Meto Herba 3
 Meto Messis Herba
+Meto Arbor 4
+Meto Messis Herba Arbor
+Meto Auram 6
+Meto Instrumentum Ordo Motus Aer Auram
 Meto Praecantatio 5
 Meto Instrumentum Ordo Potentia Praecantatio
+Meto Bestia 4
+Meto Instrumentum Humanus Bestia
+Meto Motus 4
+Meto Instrumentum Ordo Motus
+Meto Victus 4
+Meto Messis Herba Victus
+Meto Cognitio 4
+Meto Instrumentum Humanus Cognitio
+Meto Ignis 4
+Meto Instrumentum Telum Ignis
+Meto Spiritus 5
+Meto Instrumentum Humanus Cognitio Spiritus
+Meto Corpus 5
+Meto Instrumentum Humanus Bestia Corpus
+Meto Mortuus 5
+Meto Messis Herba Victus Mortuus
+Meto Desidia 6
+Meto Instrumentum Humanus Cognitio Spiritus Desidia
+Meto Vinculum 5
+Meto Instrumentum Ordo Motus Vinculum
+Meto Exanimus 5
+Meto Instrumentum Ordo Motus Exanimus
+Meto Fabrico 3
+Meto Instrumentum Fabrico
+Meto Humanus 3
+Meto Instrumentum Humanus
+Meto Instrumentum 2
+Meto Instrumentum
+Meto Fames 5
+Meto Instrumentum Humanus Lucrum Fames
+Meto Gelum 5
+Meto Instrumentum Telum Ignis Gelum
+Meto Perditio 5
+Meto Instrumentum Ordo Permutatio Perditio
+Meto Gula 6
+Meto Instrumentum Humanus Lucrum Fames Gula
+Meto Terra 4
+Meto Instrumentum Tutamen Terra
+Meto Infernus 5
+Meto Instrumentum Telum Ignis Infernus
+Meto Ordo 3
+Meto Instrumentum Ordo
+Meto Ira 4
+Meto Instrumentum Telum Ira
+Meto Telum 3
+Meto Instrumentum Telum
+Meto Iter 5
+Meto Instrumentum Ordo Motus Iter
+Meto Limus 5
+Meto Messis Herba Aqua Limus
+Meto Lucrum 4
+Meto Instrumentum Humanus Lucrum
+Meto Lux 5
+Meto Instrumentum Telum Ignis Lux
+Meto Luxuria 6
+Meto Instrumentum Humanus Bestia Corpus Luxuria
+Meto Machina 3
+Meto Instrumentum Machina
+Meto Messis 2
+Meto Messis
 Meto Metallum 5
 Meto Instrumentum Ordo Vitreus Metallum
+Meto Vitreus 4
+Meto Instrumentum Ordo Vitreus
+Meto Pannus 3
+Meto Instrumentum Pannus
+Meto Perfodio 4
+Meto Instrumentum Humanus Perfodio
+Meto Permutatio 4
+Meto Instrumentum Ordo Permutatio
+Meto Potentia 4
+Meto Instrumentum Ordo Potentia
+Meto Sano 4
+Meto Instrumentum Ordo Sano
+Meto Sensus 6
+Meto Instrumentum Humanus Cognitio Spiritus Sensus
+Meto Superbia 6
+Meto Instrumentum Ordo Motus Volatus Superbia
+Meto Volatus 5
+Meto Instrumentum Ordo Motus Volatus
+Meto Tempestas 5
+Meto Messis Herba Aqua Tempestas
+Meto Tutamen 3
+Meto Instrumentum Tutamen
+Meto Venenum 5
+Meto Messis Herba Aqua Venenum
+Meto Vitium 6
+Meto Instrumentum Ordo Permutatio Perditio Vitium
+Pannus Aer 4
+Pannus Bestia Motus Aer
+Pannus Alienis 6
+Pannus Bestia Motus Aer Vacuos Alienis
+Pannus Vacuos 5
+Pannus Bestia Motus Aer Vacuos
+Pannus Tenebrae 6
+Pannus Bestia Motus Aer Vacuos Tenebrae
+Pannus Aqua 4
+Pannus Bestia Victus Aqua
 Pannus Herba 4
 Pannus Bestia Victus Herba
+Pannus Arbor 5
+Pannus Bestia Motus Aer Arbor
+Pannus Auram 5
+Pannus Bestia Motus Aer Auram
 Pannus Praecantatio 5
 Pannus Instrumentum Ordo Potentia Praecantatio
+Pannus Bestia 2
+Pannus Bestia
+Pannus Motus 3
+Pannus Bestia Motus
+Pannus Victus 3
+Pannus Bestia Victus
+Pannus Cognitio 4
+Pannus Bestia Humanus Cognitio
+Pannus Ignis 4
+Pannus Instrumentum Telum Ignis
+Pannus Spiritus 4
+Pannus Bestia Victus Spiritus
+Pannus Corpus 3
+Pannus Bestia Corpus
+Pannus Mortuus 4
+Pannus Bestia Victus Mortuus
+Pannus Desidia 5
+Pannus Bestia Motus Vinculum Desidia
+Pannus Vinculum 4
+Pannus Bestia Motus Vinculum
+Pannus Exanimus 4
+Pannus Bestia Motus Exanimus
+Pannus Fabrico 3
+Pannus Instrumentum Fabrico
+Pannus Humanus 3
+Pannus Bestia Humanus
+Pannus Instrumentum 2
+Pannus Instrumentum
+Pannus Fames 4
+Pannus Bestia Victus Fames
+Pannus Gelum 5
+Pannus Instrumentum Telum Ignis Gelum
+Pannus Perditio 5
+Pannus Bestia Motus Vinculum Perditio
+Pannus Gula 5
+Pannus Bestia Victus Fames Gula
+Pannus Terra 4
+Pannus Bestia Victus Terra
+Pannus Infernus 5
+Pannus Instrumentum Telum Ignis Infernus
+Pannus Ordo 3
+Pannus Instrumentum Ordo
+Pannus Ira 4
+Pannus Instrumentum Telum Ira
+Pannus Telum 3
+Pannus Instrumentum Telum
+Pannus Iter 4
+Pannus Bestia Motus Iter
+Pannus Limus 4
+Pannus Bestia Victus Limus
+Pannus Lucrum 4
+Pannus Bestia Humanus Lucrum
+Pannus Lux 5
+Pannus Bestia Motus Aer Lux
+Pannus Luxuria 4
+Pannus Bestia Corpus Luxuria
+Pannus Machina 3
+Pannus Instrumentum Machina
+Pannus Messis 4
+Pannus Bestia Humanus Messis
 Pannus Metallum 5
 Pannus Bestia Victus Terra Metallum
+Pannus Vitreus 4
+Pannus Instrumentum Ordo Vitreus
+Pannus Meto 3
+Pannus Instrumentum Meto
+Pannus Perfodio 4
+Pannus Bestia Humanus Perfodio
+Pannus Permutatio 4
+Pannus Instrumentum Ordo Permutatio
+Pannus Potentia 4
+Pannus Instrumentum Ordo Potentia
+Pannus Sano 4
+Pannus Bestia Victus Sano
+Pannus Sensus 5
+Pannus Bestia Motus Aer Sensus
+Pannus Superbia 5
+Pannus Bestia Motus Volatus Superbia
+Pannus Volatus 4
+Pannus Bestia Motus Volatus
+Pannus Tempestas 5
+Pannus Bestia Motus Aer Tempestas
+Pannus Tutamen 3
+Pannus Instrumentum Tutamen
+Pannus Venenum 5
+Pannus Bestia Victus Aqua Venenum
+Pannus Vitium 6
+Pannus Bestia Motus Vinculum Perditio Vitium
+Perfodio Aer 5
+Perfodio Humanus Bestia Motus Aer
+Perfodio Alienis 6
+Perfodio Humanus Lucrum Fames Vacuos Alienis
+Perfodio Vacuos 5
+Perfodio Humanus Lucrum Fames Vacuos
+Perfodio Tenebrae 6
+Perfodio Humanus Cognitio Ignis Lux Tenebrae
+Perfodio Aqua 4
+Perfodio Terra Herba Aqua
 Perfodio Herba 3
 Perfodio Terra Herba
+Perfodio Arbor 4
+Perfodio Terra Herba Arbor
+Perfodio Auram 6
+Perfodio Humanus Bestia Motus Aer Auram
 Perfodio Praecantatio 6
 Perfodio Humanus Cognitio Ignis Infernus Praecantatio
+Perfodio Bestia 3
+Perfodio Humanus Bestia
+Perfodio Motus 4
+Perfodio Humanus Bestia Motus
+Perfodio Victus 3
+Perfodio Terra Victus
+Perfodio Cognitio 3
+Perfodio Humanus Cognitio
+Perfodio Ignis 4
+Perfodio Humanus Cognitio Ignis
+Perfodio Spiritus 4
+Perfodio Humanus Cognitio Spiritus
+Perfodio Corpus 4
+Perfodio Humanus Bestia Corpus
+Perfodio Mortuus 4
+Perfodio Terra Victus Mortuus
+Perfodio Desidia 5
+Perfodio Humanus Cognitio Spiritus Desidia
+Perfodio Vinculum 5
+Perfodio Humanus Bestia Motus Vinculum
+Perfodio Exanimus 5
+Perfodio Humanus Bestia Motus Exanimus
+Perfodio Fabrico 3
+Perfodio Humanus Fabrico
+Perfodio Humanus 2
+Perfodio Humanus
+Perfodio Instrumentum 3
+Perfodio Humanus Instrumentum
+Perfodio Fames 4
+Perfodio Humanus Lucrum Fames
+Perfodio Gelum 5
+Perfodio Humanus Cognitio Ignis Gelum
+Perfodio Perditio 5
+Perfodio Terra Victus Mortuus Perditio
+Perfodio Gula 5
+Perfodio Humanus Lucrum Fames Gula
+Perfodio Terra 2
+Perfodio Terra
+Perfodio Infernus 5
+Perfodio Humanus Cognitio Ignis Infernus
+Perfodio Ordo 4
+Perfodio Humanus Instrumentum Ordo
+Perfodio Ira 5
+Perfodio Humanus Cognitio Ignis Ira
+Perfodio Telum 4
+Perfodio Humanus Instrumentum Telum
+Perfodio Iter 3
+Perfodio Terra Iter
+Perfodio Limus 4
+Perfodio Terra Victus Limus
+Perfodio Lucrum 3
+Perfodio Humanus Lucrum
+Perfodio Lux 5
+Perfodio Humanus Cognitio Ignis Lux
+Perfodio Luxuria 5
+Perfodio Humanus Bestia Corpus Luxuria
+Perfodio Machina 4
+Perfodio Humanus Instrumentum Machina
+Perfodio Messis 3
+Perfodio Humanus Messis
 Perfodio Metallum 3
 Perfodio Terra Metallum
+Perfodio Vitreus 3
+Perfodio Terra Vitreus
+Perfodio Meto 4
+Perfodio Humanus Instrumentum Meto
+Perfodio Pannus 4
+Perfodio Humanus Bestia Pannus
+Perfodio Permutatio 5
+Perfodio Humanus Instrumentum Ordo Permutatio
+Perfodio Potentia 5
+Perfodio Humanus Cognitio Ignis Potentia
+Perfodio Sano 4
+Perfodio Terra Victus Sano
+Perfodio Sensus 5
+Perfodio Humanus Cognitio Spiritus Sensus
+Perfodio Superbia 6
+Perfodio Humanus Bestia Motus Volatus Superbia
+Perfodio Volatus 5
+Perfodio Humanus Bestia Motus Volatus
+Perfodio Tempestas 5
+Perfodio Terra Herba Aqua Tempestas
+Perfodio Tutamen 3
+Perfodio Terra Tutamen
+Perfodio Venenum 5
+Perfodio Terra Herba Aqua Venenum
+Perfodio Vitium 6
+Perfodio Terra Victus Mortuus Perditio Vitium
+Permutatio Aer 4
+Permutatio Perditio Vacuos Aer
+Permutatio Alienis 4
+Permutatio Perditio Vacuos Alienis
+Permutatio Vacuos 3
+Permutatio Perditio Vacuos
+Permutatio Tenebrae 4
+Permutatio Perditio Vacuos Tenebrae
+Permutatio Aqua 4
+Permutatio Perditio Venenum Aqua
 Permutatio Herba 5
 Permutatio Perditio Mortuus Victus Herba
+Permutatio Arbor 5
+Permutatio Perditio Vacuos Aer Arbor
+Permutatio Auram 5
+Permutatio Perditio Vacuos Aer Auram
 Permutatio Praecantatio 4
 Permutatio Perditio Vacuos Praecantatio
+Permutatio Bestia 4
+Permutatio Ordo Motus Bestia
+Permutatio Motus 3
+Permutatio Ordo Motus
+Permutatio Victus 4
+Permutatio Perditio Mortuus Victus
+Permutatio Cognitio 5
+Permutatio Perditio Mortuus Spiritus Cognitio
+Permutatio Ignis 4
+Permutatio Perditio Gelum Ignis
+Permutatio Spiritus 4
+Permutatio Perditio Mortuus Spiritus
+Permutatio Corpus 4
+Permutatio Perditio Mortuus Corpus
+Permutatio Mortuus 3
+Permutatio Perditio Mortuus
+Permutatio Desidia 4
+Permutatio Perditio Vinculum Desidia
+Permutatio Vinculum 3
+Permutatio Perditio Vinculum
+Permutatio Exanimus 4
+Permutatio Perditio Mortuus Exanimus
+Permutatio Fabrico 4
+Permutatio Ordo Instrumentum Fabrico
+Permutatio Humanus 4
+Permutatio Ordo Instrumentum Humanus
+Permutatio Instrumentum 3
+Permutatio Ordo Instrumentum
+Permutatio Fames 4
+Permutatio Perditio Vacuos Fames
+Permutatio Gelum 3
+Permutatio Perditio Gelum
+Permutatio Perditio 2
+Permutatio Perditio
+Permutatio Gula 4
+Permutatio Perditio Vacuos Gula
+Permutatio Terra 4
+Permutatio Ordo Vitreus Terra
+Permutatio Infernus 5
+Permutatio Perditio Vacuos Praecantatio Infernus
+Permutatio Ordo 2
+Permutatio Ordo
+Permutatio Ira 5
+Permutatio Perditio Gelum Ignis Ira
+Permutatio Telum 4
+Permutatio Ordo Instrumentum Telum
+Permutatio Iter 4
+Permutatio Ordo Motus Iter
+Permutatio Limus 5
+Permutatio Perditio Mortuus Victus Limus
+Permutatio Lucrum 5
+Permutatio Perditio Vacuos Fames Lucrum
+Permutatio Lux 5
+Permutatio Perditio Vacuos Aer Lux
+Permutatio Luxuria 5
+Permutatio Perditio Vacuos Fames Luxuria
+Permutatio Machina 4
+Permutatio Ordo Motus Machina
+Permutatio Messis 5
+Permutatio Ordo Instrumentum Humanus Messis
 Permutatio Metallum 4
 Permutatio Ordo Vitreus Metallum
+Permutatio Vitreus 3
+Permutatio Ordo Vitreus
+Permutatio Meto 4
+Permutatio Ordo Instrumentum Meto
+Permutatio Pannus 4
+Permutatio Ordo Instrumentum Pannus
+Permutatio Perfodio 5
+Permutatio Ordo Instrumentum Humanus Perfodio
+Permutatio Potentia 3
+Permutatio Ordo Potentia
+Permutatio Sano 3
+Permutatio Ordo Sano
+Permutatio Sensus 5
+Permutatio Perditio Vacuos Aer Sensus
+Permutatio Superbia 4
+Permutatio Perditio Vacuos Superbia
+Permutatio Volatus 4
+Permutatio Ordo Motus Volatus
+Permutatio Tempestas 5
+Permutatio Perditio Vacuos Aer Tempestas
+Permutatio Tutamen 4
+Permutatio Ordo Instrumentum Tutamen
+Permutatio Venenum 3
+Permutatio Perditio Venenum
+Permutatio Vitium 3
+Permutatio Perditio Vitium
+Potentia Aer 4
+Potentia Praecantatio Vacuos Aer
+Potentia Alienis 4
+Potentia Praecantatio Vacuos Alienis
+Potentia Vacuos 3
+Potentia Praecantatio Vacuos
+Potentia Tenebrae 4
+Potentia Praecantatio Vacuos Tenebrae
+Potentia Aqua 5
+Potentia Praecantatio Vacuos Aer Aqua
 Potentia Herba 5
 Potentia Ordo Vitreus Terra Herba
+Potentia Arbor 5
+Potentia Praecantatio Vacuos Aer Arbor
+Potentia Auram 3
+Potentia Praecantatio Auram
 Potentia Praecantatio 2
 Potentia Praecantatio
+Potentia Bestia 4
+Potentia Ordo Motus Bestia
+Potentia Motus 3
+Potentia Ordo Motus
+Potentia Victus 4
+Potentia Ordo Sano Victus
+Potentia Cognitio 3
+Potentia Ignis Cognitio
+Potentia Ignis 2
+Potentia Ignis
+Potentia Spiritus 4
+Potentia Ignis Cognitio Spiritus
+Potentia Corpus 5
+Potentia Ordo Motus Bestia Corpus
+Potentia Mortuus 5
+Potentia Praecantatio Vacuos Perditio Mortuus
+Potentia Desidia 5
+Potentia Ignis Cognitio Spiritus Desidia
+Potentia Vinculum 4
+Potentia Ordo Motus Vinculum
+Potentia Exanimus 4
+Potentia Ordo Motus Exanimus
+Potentia Fabrico 4
+Potentia Ordo Instrumentum Fabrico
+Potentia Humanus 4
+Potentia Ignis Cognitio Humanus
+Potentia Instrumentum 3
+Potentia Ordo Instrumentum
+Potentia Fames 4
+Potentia Praecantatio Vacuos Fames
+Potentia Gelum 3
+Potentia Ignis Gelum
+Potentia Perditio 4
+Potentia Praecantatio Vacuos Perditio
+Potentia Gula 4
+Potentia Praecantatio Vacuos Gula
+Potentia Terra 4
+Potentia Ordo Vitreus Terra
+Potentia Infernus 3
+Potentia Praecantatio Infernus
+Potentia Ordo 2
+Potentia Ordo
+Potentia Ira 3
+Potentia Ignis Ira
+Potentia Telum 3
+Potentia Ignis Telum
+Potentia Iter 4
+Potentia Ordo Motus Iter
+Potentia Limus 5
+Potentia Ordo Sano Victus Limus
+Potentia Lucrum 5
+Potentia Praecantatio Vacuos Fames Lucrum
+Potentia Lux 3
+Potentia Ignis Lux
+Potentia Luxuria 5
+Potentia Praecantatio Vacuos Fames Luxuria
+Potentia Machina 4
+Potentia Ordo Motus Machina
+Potentia Messis 5
+Potentia Ignis Cognitio Humanus Messis
 Potentia Metallum 4
 Potentia Ordo Vitreus Metallum
+Potentia Vitreus 3
+Potentia Ordo Vitreus
+Potentia Meto 4
+Potentia Ordo Instrumentum Meto
+Potentia Pannus 4
+Potentia Ordo Instrumentum Pannus
+Potentia Perfodio 5
+Potentia Ignis Cognitio Humanus Perfodio
+Potentia Permutatio 3
+Potentia Ordo Permutatio
+Potentia Sano 3
+Potentia Ordo Sano
+Potentia Sensus 5
+Potentia Praecantatio Vacuos Aer Sensus
+Potentia Superbia 4
+Potentia Praecantatio Vacuos Superbia
+Potentia Volatus 4
+Potentia Ordo Motus Volatus
+Potentia Tempestas 5
+Potentia Praecantatio Vacuos Aer Tempestas
+Potentia Tutamen 4
+Potentia Ordo Instrumentum Tutamen
+Potentia Venenum 5
+Potentia Praecantatio Vacuos Perditio Venenum
+Potentia Vitium 3
+Potentia Praecantatio Vitium
+Sano Aer 4
+Sano Victus Aqua Aer
+Sano Alienis 5
+Sano Victus Fames Vacuos Alienis
+Sano Vacuos 4
+Sano Victus Fames Vacuos
+Sano Tenebrae 5
+Sano Victus Fames Vacuos Tenebrae
+Sano Aqua 3
+Sano Victus Aqua
 Sano Herba 3
 Sano Victus Herba
+Sano Arbor 4
+Sano Victus Herba Arbor
+Sano Auram 5
+Sano Victus Aqua Aer Auram
 Sano Praecantatio 4
 Sano Ordo Potentia Praecantatio
+Sano Bestia 3
+Sano Victus Bestia
+Sano Motus 3
+Sano Ordo Motus
+Sano Victus 2
+Sano Victus
+Sano Cognitio 4
+Sano Victus Spiritus Cognitio
+Sano Ignis 4
+Sano Ordo Potentia Ignis
+Sano Spiritus 3
+Sano Victus Spiritus
+Sano Corpus 4
+Sano Victus Bestia Corpus
+Sano Mortuus 3
+Sano Victus Mortuus
+Sano Desidia 4
+Sano Victus Spiritus Desidia
+Sano Vinculum 4
+Sano Ordo Motus Vinculum
+Sano Exanimus 4
+Sano Victus Mortuus Exanimus
+Sano Fabrico 4
+Sano Ordo Instrumentum Fabrico
+Sano Humanus 4
+Sano Victus Bestia Humanus
+Sano Instrumentum 3
+Sano Ordo Instrumentum
+Sano Fames 3
+Sano Victus Fames
+Sano Gelum 5
+Sano Victus Mortuus Perditio Gelum
+Sano Perditio 4
+Sano Victus Mortuus Perditio
+Sano Gula 4
+Sano Victus Fames Gula
+Sano Terra 3
+Sano Victus Terra
+Sano Infernus 5
+Sano Ordo Potentia Praecantatio Infernus
+Sano Ordo 2
+Sano Ordo
+Sano Ira 5
+Sano Ordo Instrumentum Telum Ira
+Sano Telum 4
+Sano Ordo Instrumentum Telum
+Sano Iter 4
+Sano Victus Terra Iter
+Sano Limus 3
+Sano Victus Limus
+Sano Lucrum 4
+Sano Victus Fames Lucrum
+Sano Lux 5
+Sano Victus Aqua Aer Lux
+Sano Luxuria 4
+Sano Victus Fames Luxuria
+Sano Machina 4
+Sano Ordo Motus Machina
+Sano Messis 4
+Sano Victus Herba Messis
 Sano Metallum 4
 Sano Victus Terra Metallum
+Sano Vitreus 3
+Sano Ordo Vitreus
+Sano Meto 4
+Sano Ordo Instrumentum Meto
+Sano Pannus 4
+Sano Victus Bestia Pannus
+Sano Perfodio 4
+Sano Victus Terra Perfodio
+Sano Permutatio 3
+Sano Ordo Permutatio
+Sano Potentia 3
+Sano Ordo Potentia
+Sano Sensus 4
+Sano Victus Spiritus Sensus
+Sano Superbia 5
+Sano Victus Fames Vacuos Superbia
+Sano Volatus 4
+Sano Ordo Motus Volatus
+Sano Tempestas 4
+Sano Victus Aqua Tempestas
+Sano Tutamen 4
+Sano Victus Terra Tutamen
+Sano Venenum 4
+Sano Victus Aqua Venenum
+Sano Vitium 5
+Sano Victus Mortuus Perditio Vitium
+Sensus Aer 2
+Sensus Aer
+Sensus Alienis 4
+Sensus Aer Vacuos Alienis
+Sensus Vacuos 3
+Sensus Aer Vacuos
+Sensus Tenebrae 4
+Sensus Aer Vacuos Tenebrae
+Sensus Aqua 3
+Sensus Aer Aqua
 Sensus Herba 4
 Sensus Aer Aqua Herba
+Sensus Arbor 3
+Sensus Aer Arbor
+Sensus Auram 3
+Sensus Aer Auram
 Sensus Praecantatio 4
 Sensus Aer Vacuos Praecantatio
+Sensus Bestia 4
+Sensus Aer Motus Bestia
+Sensus Motus 3
+Sensus Aer Motus
+Sensus Victus 3
+Sensus Spiritus Victus
+Sensus Cognitio 3
+Sensus Spiritus Cognitio
+Sensus Ignis 4
+Sensus Aer Lux Ignis
+Sensus Spiritus 2
+Sensus Spiritus
+Sensus Corpus 4
+Sensus Spiritus Mortuus Corpus
+Sensus Mortuus 3
+Sensus Spiritus Mortuus
+Sensus Desidia 3
+Sensus Spiritus Desidia
+Sensus Vinculum 4
+Sensus Aer Motus Vinculum
+Sensus Exanimus 4
+Sensus Aer Motus Exanimus
+Sensus Fabrico 5
+Sensus Spiritus Cognitio Humanus Fabrico
+Sensus Humanus 4
+Sensus Spiritus Cognitio Humanus
+Sensus Instrumentum 5
+Sensus Aer Motus Ordo Instrumentum
+Sensus Fames 4
+Sensus Aer Vacuos Fames
+Sensus Gelum 5
+Sensus Aer Vacuos Perditio Gelum
+Sensus Perditio 4
+Sensus Aer Vacuos Perditio
+Sensus Gula 4
+Sensus Aer Vacuos Gula
+Sensus Terra 4
+Sensus Spiritus Victus Terra
+Sensus Infernus 5
+Sensus Aer Vacuos Praecantatio Infernus
+Sensus Ordo 4
+Sensus Aer Motus Ordo
+Sensus Ira 5
+Sensus Aer Lux Ignis Ira
+Sensus Telum 5
+Sensus Aer Lux Ignis Telum
+Sensus Iter 4
+Sensus Aer Motus Iter
+Sensus Limus 4
+Sensus Aer Aqua Limus
+Sensus Lucrum 5
+Sensus Aer Vacuos Fames Lucrum
+Sensus Lux 3
+Sensus Aer Lux
+Sensus Luxuria 5
+Sensus Aer Vacuos Fames Luxuria
+Sensus Machina 4
+Sensus Aer Motus Machina
+Sensus Messis 5
+Sensus Aer Aqua Herba Messis
 Sensus Metallum 5
 Sensus Spiritus Victus Terra Metallum
+Sensus Vitreus 5
+Sensus Aer Motus Ordo Vitreus
+Sensus Meto 6
+Sensus Aer Aqua Herba Messis Meto
+Sensus Pannus 5
+Sensus Aer Motus Bestia Pannus
+Sensus Perfodio 5
+Sensus Spiritus Victus Terra Perfodio
+Sensus Permutatio 5
+Sensus Aer Vacuos Perditio Permutatio
+Sensus Potentia 5
+Sensus Aer Vacuos Praecantatio Potentia
+Sensus Sano 4
+Sensus Spiritus Victus Sano
+Sensus Superbia 4
+Sensus Aer Vacuos Superbia
+Sensus Volatus 3
+Sensus Aer Volatus
+Sensus Tempestas 3
+Sensus Aer Tempestas
+Sensus Tutamen 5
+Sensus Spiritus Victus Terra Tutamen
+Sensus Venenum 4
+Sensus Aer Aqua Venenum
+Sensus Vitium 5
+Sensus Aer Vacuos Praecantatio Vitium
+Superbia Aer 3
+Superbia Vacuos Aer
+Superbia Alienis 3
+Superbia Vacuos Alienis
+Superbia Vacuos 2
+Superbia Vacuos
+Superbia Tenebrae 3
+Superbia Vacuos Tenebrae
+Superbia Aqua 4
+Superbia Vacuos Aer Aqua
 Superbia Herba 5
 Superbia Vacuos Aer Aqua Herba
+Superbia Arbor 4
+Superbia Vacuos Aer Arbor
+Superbia Auram 4
+Superbia Vacuos Aer Auram
 Superbia Praecantatio 3
 Superbia Vacuos Praecantatio
+Superbia Bestia 4
+Superbia Volatus Motus Bestia
+Superbia Motus 3
+Superbia Volatus Motus
+Superbia Victus 4
+Superbia Vacuos Fames Victus
+Superbia Cognitio 6
+Superbia Vacuos Aer Lux Ignis Cognitio
+Superbia Ignis 5
+Superbia Vacuos Aer Lux Ignis
+Superbia Spiritus 5
+Superbia Vacuos Aer Sensus Spiritus
+Superbia Corpus 5
+Superbia Vacuos Fames Luxuria Corpus
+Superbia Mortuus 4
+Superbia Vacuos Perditio Mortuus
+Superbia Desidia 5
+Superbia Vacuos Perditio Vinculum Desidia
+Superbia Vinculum 4
+Superbia Vacuos Perditio Vinculum
+Superbia Exanimus 4
+Superbia Volatus Motus Exanimus
+Superbia Fabrico 6
+Superbia Vacuos Fames Lucrum Humanus Fabrico
+Superbia Humanus 5
+Superbia Vacuos Fames Lucrum Humanus
+Superbia Instrumentum 5
+Superbia Volatus Motus Ordo Instrumentum
+Superbia Fames 3
+Superbia Vacuos Fames
+Superbia Gelum 4
+Superbia Vacuos Perditio Gelum
+Superbia Perditio 3
+Superbia Vacuos Perditio
+Superbia Gula 3
+Superbia Vacuos Gula
+Superbia Terra 5
+Superbia Vacuos Fames Victus Terra
+Superbia Infernus 4
+Superbia Vacuos Praecantatio Infernus
+Superbia Ordo 4
+Superbia Volatus Motus Ordo
+Superbia Ira 6
+Superbia Vacuos Aer Lux Ignis Ira
+Superbia Telum 6
+Superbia Vacuos Aer Lux Ignis Telum
+Superbia Iter 4
+Superbia Volatus Motus Iter
+Superbia Limus 5
+Superbia Vacuos Aer Aqua Limus
+Superbia Lucrum 4
+Superbia Vacuos Fames Lucrum
+Superbia Lux 4
+Superbia Vacuos Aer Lux
+Superbia Luxuria 4
+Superbia Vacuos Fames Luxuria
+Superbia Machina 4
+Superbia Volatus Motus Machina
+Superbia Messis 6
+Superbia Vacuos Aer Aqua Herba Messis
 Superbia Metallum 6
 Superbia Vacuos Fames Victus Terra Metallum
+Superbia Vitreus 5
+Superbia Volatus Motus Ordo Vitreus
+Superbia Meto 6
+Superbia Volatus Motus Ordo Instrumentum Meto
+Superbia Pannus 5
+Superbia Volatus Motus Bestia Pannus
+Superbia Perfodio 6
+Superbia Vacuos Fames Victus Terra Perfodio
+Superbia Permutatio 4
+Superbia Vacuos Perditio Permutatio
+Superbia Potentia 4
+Superbia Vacuos Praecantatio Potentia
+Superbia Sano 5
+Superbia Vacuos Fames Victus Sano
+Superbia Sensus 4
+Superbia Vacuos Aer Sensus
+Superbia Volatus 2
+Superbia Volatus
+Superbia Tempestas 4
+Superbia Vacuos Aer Tempestas
+Superbia Tutamen 6
+Superbia Vacuos Fames Victus Terra Tutamen
+Superbia Venenum 4
+Superbia Vacuos Perditio Venenum
+Superbia Vitium 4
+Superbia Vacuos Praecantatio Vitium
+Volatus Aer 2
+Volatus Aer
+Volatus Alienis 4
+Volatus Aer Vacuos Alienis
+Volatus Vacuos 3
+Volatus Aer Vacuos
+Volatus Tenebrae 4
+Volatus Aer Vacuos Tenebrae
+Volatus Aqua 3
+Volatus Aer Aqua
 Volatus Herba 4
 Volatus Aer Aqua Herba
+Volatus Arbor 3
+Volatus Aer Arbor
+Volatus Auram 3
+Volatus Aer Auram
 Volatus Praecantatio 4
 Volatus Aer Vacuos Praecantatio
+Volatus Bestia 3
+Volatus Motus Bestia
+Volatus Motus 2
+Volatus Motus
+Volatus Victus 4
+Volatus Aer Aqua Victus
+Volatus Cognitio 5
+Volatus Aer Lux Ignis Cognitio
+Volatus Ignis 4
+Volatus Aer Lux Ignis
+Volatus Spiritus 4
+Volatus Aer Sensus Spiritus
+Volatus Corpus 4
+Volatus Motus Bestia Corpus
+Volatus Mortuus 4
+Volatus Motus Exanimus Mortuus
+Volatus Desidia 4
+Volatus Motus Vinculum Desidia
+Volatus Vinculum 3
+Volatus Motus Vinculum
+Volatus Exanimus 3
+Volatus Motus Exanimus
+Volatus Fabrico 5
+Volatus Motus Bestia Humanus Fabrico
+Volatus Humanus 4
+Volatus Motus Bestia Humanus
+Volatus Instrumentum 4
+Volatus Motus Ordo Instrumentum
+Volatus Fames 4
+Volatus Aer Vacuos Fames
+Volatus Gelum 5
+Volatus Aer Vacuos Perditio Gelum
+Volatus Perditio 4
+Volatus Aer Vacuos Perditio
+Volatus Gula 4
+Volatus Aer Vacuos Gula
+Volatus Terra 4
+Volatus Motus Iter Terra
+Volatus Infernus 5
+Volatus Aer Vacuos Praecantatio Infernus
+Volatus Ordo 3
+Volatus Motus Ordo
+Volatus Ira 5
+Volatus Aer Lux Ignis Ira
+Volatus Telum 5
+Volatus Aer Lux Ignis Telum
+Volatus Iter 3
+Volatus Motus Iter
+Volatus Limus 4
+Volatus Aer Aqua Limus
+Volatus Lucrum 5
+Volatus Aer Vacuos Fames Lucrum
+Volatus Lux 3
+Volatus Aer Lux
+Volatus Luxuria 5
+Volatus Aer Vacuos Fames Luxuria
+Volatus Machina 3
+Volatus Motus Machina
+Volatus Messis 5
+Volatus Aer Aqua Herba Messis
 Volatus Metallum 5
 Volatus Motus Ordo Vitreus Metallum
+Volatus Vitreus 4
+Volatus Motus Ordo Vitreus
+Volatus Meto 5
+Volatus Motus Ordo Instrumentum Meto
+Volatus Pannus 4
+Volatus Motus Bestia Pannus
+Volatus Perfodio 5
+Volatus Motus Bestia Humanus Perfodio
+Volatus Permutatio 4
+Volatus Motus Ordo Permutatio
+Volatus Potentia 4
+Volatus Motus Ordo Potentia
+Volatus Sano 4
+Volatus Motus Ordo Sano
+Volatus Sensus 3
+Volatus Aer Sensus
+Volatus Superbia 2
+Volatus Superbia
+Volatus Tempestas 3
+Volatus Aer Tempestas
+Volatus Tutamen 5
+Volatus Motus Ordo Instrumentum Tutamen
+Volatus Venenum 4
+Volatus Aer Aqua Venenum
+Volatus Vitium 5
+Volatus Aer Vacuos Praecantatio Vitium
+Tempestas Aer 2
+Tempestas Aer
+Tempestas Alienis 4
+Tempestas Aer Vacuos Alienis
+Tempestas Vacuos 3
+Tempestas Aer Vacuos
+Tempestas Tenebrae 4
+Tempestas Aer Vacuos Tenebrae
+Tempestas Aqua 2
+Tempestas Aqua
 Tempestas Herba 3
 Tempestas Aqua Herba
+Tempestas Arbor 3
+Tempestas Aer Arbor
+Tempestas Auram 3
+Tempestas Aer Auram
 Tempestas Praecantatio 4
 Tempestas Aer Vacuos Praecantatio
+Tempestas Bestia 4
+Tempestas Aer Motus Bestia
+Tempestas Motus 3
+Tempestas Aer Motus
+Tempestas Victus 3
+Tempestas Aqua Victus
+Tempestas Cognitio 5
+Tempestas Aer Lux Ignis Cognitio
+Tempestas Ignis 4
+Tempestas Aer Lux Ignis
+Tempestas Spiritus 4
+Tempestas Aer Sensus Spiritus
+Tempestas Corpus 5
+Tempestas Aer Motus Bestia Corpus
+Tempestas Mortuus 4
+Tempestas Aqua Victus Mortuus
+Tempestas Desidia 5
+Tempestas Aer Motus Vinculum Desidia
+Tempestas Vinculum 4
+Tempestas Aer Motus Vinculum
+Tempestas Exanimus 4
+Tempestas Aer Motus Exanimus
+Tempestas Fabrico 6
+Tempestas Aer Motus Bestia Humanus Fabrico
+Tempestas Humanus 5
+Tempestas Aer Motus Bestia Humanus
+Tempestas Instrumentum 5
+Tempestas Aer Motus Ordo Instrumentum
+Tempestas Fames 4
+Tempestas Aer Vacuos Fames
+Tempestas Gelum 5
+Tempestas Aer Vacuos Perditio Gelum
+Tempestas Perditio 4
+Tempestas Aer Vacuos Perditio
+Tempestas Gula 4
+Tempestas Aer Vacuos Gula
+Tempestas Terra 4
+Tempestas Aqua Herba Terra
+Tempestas Infernus 5
+Tempestas Aer Vacuos Praecantatio Infernus
+Tempestas Ordo 4
+Tempestas Aer Motus Ordo
+Tempestas Ira 5
+Tempestas Aer Lux Ignis Ira
+Tempestas Telum 5
+Tempestas Aer Lux Ignis Telum
+Tempestas Iter 4
+Tempestas Aer Motus Iter
+Tempestas Limus 3
+Tempestas Aqua Limus
+Tempestas Lucrum 5
+Tempestas Aer Vacuos Fames Lucrum
+Tempestas Lux 3
+Tempestas Aer Lux
+Tempestas Luxuria 5
+Tempestas Aer Vacuos Fames Luxuria
+Tempestas Machina 4
+Tempestas Aer Motus Machina
+Tempestas Messis 4
+Tempestas Aqua Herba Messis
 Tempestas Metallum 5
 Tempestas Aqua Herba Terra Metallum
+Tempestas Vitreus 5
+Tempestas Aer Motus Ordo Vitreus
+Tempestas Meto 5
+Tempestas Aqua Herba Messis Meto
+Tempestas Pannus 5
+Tempestas Aer Motus Bestia Pannus
+Tempestas Perfodio 5
+Tempestas Aqua Herba Terra Perfodio
+Tempestas Permutatio 5
+Tempestas Aer Vacuos Perditio Permutatio
+Tempestas Potentia 5
+Tempestas Aer Vacuos Praecantatio Potentia
+Tempestas Sano 4
+Tempestas Aqua Victus Sano
+Tempestas Sensus 3
+Tempestas Aer Sensus
+Tempestas Superbia 4
+Tempestas Aer Vacuos Superbia
+Tempestas Volatus 3
+Tempestas Aer Volatus
+Tempestas Tutamen 5
+Tempestas Aqua Herba Terra Tutamen
+Tempestas Venenum 3
+Tempestas Aqua Venenum
+Tempestas Vitium 5
+Tempestas Aer Vacuos Praecantatio Vitium
+Tutamen Aer 5
+Tutamen Instrumentum Ordo Motus Aer
+Tutamen Alienis 6
+Tutamen Terra Victus Fames Vacuos Alienis
+Tutamen Vacuos 5
+Tutamen Terra Victus Fames Vacuos
+Tutamen Tenebrae 6
+Tutamen Instrumentum Telum Ignis Lux Tenebrae
+Tutamen Aqua 4
+Tutamen Terra Herba Aqua
 Tutamen Herba 3
 Tutamen Terra Herba
+Tutamen Arbor 4
+Tutamen Terra Herba Arbor
+Tutamen Auram 6
+Tutamen Instrumentum Ordo Motus Aer Auram
 Tutamen Praecantatio 5
 Tutamen Instrumentum Ordo Potentia Praecantatio
+Tutamen Bestia 4
+Tutamen Instrumentum Humanus Bestia
+Tutamen Motus 4
+Tutamen Instrumentum Ordo Motus
+Tutamen Victus 3
+Tutamen Terra Victus
+Tutamen Cognitio 4
+Tutamen Instrumentum Humanus Cognitio
+Tutamen Ignis 4
+Tutamen Instrumentum Telum Ignis
+Tutamen Spiritus 4
+Tutamen Terra Victus Spiritus
+Tutamen Corpus 5
+Tutamen Instrumentum Humanus Bestia Corpus
+Tutamen Mortuus 4
+Tutamen Terra Victus Mortuus
+Tutamen Desidia 5
+Tutamen Terra Victus Spiritus Desidia
+Tutamen Vinculum 5
+Tutamen Instrumentum Ordo Motus Vinculum
+Tutamen Exanimus 5
+Tutamen Instrumentum Ordo Motus Exanimus
+Tutamen Fabrico 3
+Tutamen Instrumentum Fabrico
+Tutamen Humanus 3
+Tutamen Instrumentum Humanus
+Tutamen Instrumentum 2
+Tutamen Instrumentum
+Tutamen Fames 4
+Tutamen Terra Victus Fames
+Tutamen Gelum 5
+Tutamen Instrumentum Telum Ignis Gelum
+Tutamen Perditio 5
+Tutamen Instrumentum Ordo Permutatio Perditio
+Tutamen Gula 5
+Tutamen Terra Victus Fames Gula
+Tutamen Terra 2
+Tutamen Terra
+Tutamen Infernus 5
+Tutamen Instrumentum Telum Ignis Infernus
+Tutamen Ordo 3
+Tutamen Instrumentum Ordo
+Tutamen Ira 4
+Tutamen Instrumentum Telum Ira
+Tutamen Telum 3
+Tutamen Instrumentum Telum
+Tutamen Iter 3
+Tutamen Terra Iter
+Tutamen Limus 4
+Tutamen Terra Victus Limus
+Tutamen Lucrum 4
+Tutamen Instrumentum Humanus Lucrum
+Tutamen Lux 5
+Tutamen Instrumentum Telum Ignis Lux
+Tutamen Luxuria 5
+Tutamen Terra Victus Fames Luxuria
+Tutamen Machina 3
+Tutamen Instrumentum Machina
+Tutamen Messis 4
+Tutamen Instrumentum Humanus Messis
 Tutamen Metallum 3
 Tutamen Terra Metallum
+Tutamen Vitreus 3
+Tutamen Terra Vitreus
+Tutamen Meto 3
+Tutamen Instrumentum Meto
+Tutamen Pannus 3
+Tutamen Instrumentum Pannus
+Tutamen Perfodio 3
+Tutamen Terra Perfodio
+Tutamen Permutatio 4
+Tutamen Instrumentum Ordo Permutatio
+Tutamen Potentia 4
+Tutamen Instrumentum Ordo Potentia
+Tutamen Sano 4
+Tutamen Instrumentum Ordo Sano
+Tutamen Sensus 5
+Tutamen Terra Victus Spiritus Sensus
+Tutamen Superbia 6
+Tutamen Instrumentum Ordo Motus Volatus Superbia
+Tutamen Volatus 5
+Tutamen Instrumentum Ordo Motus Volatus
+Tutamen Tempestas 5
+Tutamen Terra Herba Aqua Tempestas
+Tutamen Venenum 5
+Tutamen Terra Herba Aqua Venenum
+Tutamen Vitium 6
+Tutamen Instrumentum Ordo Permutatio Perditio Vitium
+Venenum Aer 3
+Venenum Aqua Aer
+Venenum Alienis 4
+Venenum Perditio Vacuos Alienis
+Venenum Vacuos 3
+Venenum Perditio Vacuos
+Venenum Tenebrae 4
+Venenum Perditio Vacuos Tenebrae
+Venenum Aqua 2
+Venenum Aqua
 Venenum Herba 3
 Venenum Aqua Herba
+Venenum Arbor 4
+Venenum Aqua Aer Arbor
+Venenum Auram 4
+Venenum Aqua Aer Auram
 Venenum Praecantatio 4
 Venenum Perditio Vacuos Praecantatio
+Venenum Bestia 4
+Venenum Aqua Victus Bestia
+Venenum Motus 4
+Venenum Aqua Aer Motus
+Venenum Victus 3
+Venenum Aqua Victus
+Venenum Cognitio 5
+Venenum Aqua Victus Spiritus Cognitio
+Venenum Ignis 4
+Venenum Perditio Gelum Ignis
+Venenum Spiritus 4
+Venenum Aqua Victus Spiritus
+Venenum Corpus 4
+Venenum Perditio Mortuus Corpus
+Venenum Mortuus 3
+Venenum Perditio Mortuus
+Venenum Desidia 4
+Venenum Perditio Vinculum Desidia
+Venenum Vinculum 3
+Venenum Perditio Vinculum
+Venenum Exanimus 4
+Venenum Perditio Mortuus Exanimus
+Venenum Fabrico 6
+Venenum Aqua Herba Messis Humanus Fabrico
+Venenum Humanus 5
+Venenum Aqua Herba Messis Humanus
+Venenum Instrumentum 5
+Venenum Perditio Permutatio Ordo Instrumentum
+Venenum Fames 4
+Venenum Aqua Victus Fames
+Venenum Gelum 3
+Venenum Perditio Gelum
+Venenum Perditio 2
+Venenum Perditio
+Venenum Gula 4
+Venenum Perditio Vacuos Gula
+Venenum Terra 4
+Venenum Aqua Herba Terra
+Venenum Infernus 5
+Venenum Perditio Vacuos Praecantatio Infernus
+Venenum Ordo 4
+Venenum Perditio Permutatio Ordo
+Venenum Ira 5
+Venenum Perditio Gelum Ignis Ira
+Venenum Telum 5
+Venenum Perditio Gelum Ignis Telum
+Venenum Iter 5
+Venenum Aqua Aer Motus Iter
+Venenum Limus 3
+Venenum Aqua Limus
+Venenum Lucrum 5
+Venenum Aqua Victus Fames Lucrum
+Venenum Lux 4
+Venenum Aqua Aer Lux
+Venenum Luxuria 5
+Venenum Aqua Victus Fames Luxuria
+Venenum Machina 5
+Venenum Aqua Aer Motus Machina
+Venenum Messis 4
+Venenum Aqua Herba Messis
 Venenum Metallum 5
 Venenum Aqua Herba Terra Metallum
+Venenum Vitreus 5
+Venenum Aqua Herba Terra Vitreus
+Venenum Meto 5
+Venenum Aqua Herba Messis Meto
+Venenum Pannus 5
+Venenum Aqua Victus Bestia Pannus
+Venenum Perfodio 5
+Venenum Aqua Herba Terra Perfodio
+Venenum Permutatio 3
+Venenum Perditio Permutatio
+Venenum Potentia 5
+Venenum Perditio Vacuos Praecantatio Potentia
+Venenum Sano 4
+Venenum Aqua Victus Sano
+Venenum Sensus 4
+Venenum Aqua Aer Sensus
+Venenum Superbia 4
+Venenum Perditio Vacuos Superbia
+Venenum Volatus 4
+Venenum Aqua Aer Volatus
+Venenum Tempestas 3
+Venenum Aqua Tempestas
+Venenum Tutamen 5
+Venenum Aqua Herba Terra Tutamen
+Venenum Vitium 3
+Venenum Perditio Vitium
+Vitium Aer 4
+Vitium Praecantatio Vacuos Aer
+Vitium Alienis 4
+Vitium Praecantatio Vacuos Alienis
+Vitium Vacuos 3
+Vitium Praecantatio Vacuos
+Vitium Tenebrae 4
+Vitium Praecantatio Vacuos Tenebrae
+Vitium Aqua 4
+Vitium Perditio Venenum Aqua
 Vitium Herba 5
 Vitium Perditio Mortuus Victus Herba
+Vitium Arbor 5
+Vitium Praecantatio Vacuos Aer Arbor
+Vitium Auram 3
+Vitium Praecantatio Auram
 Vitium Praecantatio 2
 Vitium Praecantatio
+Vitium Bestia 5
+Vitium Perditio Mortuus Victus Bestia
+Vitium Motus 4
+Vitium Perditio Vinculum Motus
+Vitium Victus 4
+Vitium Perditio Mortuus Victus
+Vitium Cognitio 5
+Vitium Praecantatio Infernus Ignis Cognitio
+Vitium Ignis 4
+Vitium Praecantatio Infernus Ignis
+Vitium Spiritus 4
+Vitium Perditio Mortuus Spiritus
+Vitium Corpus 4
+Vitium Perditio Mortuus Corpus
+Vitium Mortuus 3
+Vitium Perditio Mortuus
+Vitium Desidia 4
+Vitium Perditio Vinculum Desidia
+Vitium Vinculum 3
+Vitium Perditio Vinculum
+Vitium Exanimus 4
+Vitium Perditio Mortuus Exanimus
+Vitium Fabrico 6
+Vitium Praecantatio Potentia Ordo Instrumentum Fabrico
+Vitium Humanus 6
+Vitium Praecantatio Vacuos Fames Lucrum Humanus
+Vitium Instrumentum 5
+Vitium Praecantatio Potentia Ordo Instrumentum
+Vitium Fames 4
+Vitium Praecantatio Vacuos Fames
+Vitium Gelum 3
+Vitium Perditio Gelum
+Vitium Perditio 2
+Vitium Perditio
+Vitium Gula 4
+Vitium Praecantatio Vacuos Gula
+Vitium Terra 5
+Vitium Perditio Mortuus Victus Terra
+Vitium Infernus 3
+Vitium Praecantatio Infernus
+Vitium Ordo 4
+Vitium Praecantatio Potentia Ordo
+Vitium Ira 5
+Vitium Praecantatio Infernus Ignis Ira
+Vitium Telum 5
+Vitium Praecantatio Infernus Ignis Telum
+Vitium Iter 5
+Vitium Perditio Vinculum Motus Iter
+Vitium Limus 5
+Vitium Perditio Mortuus Victus Limus
+Vitium Lucrum 5
+Vitium Praecantatio Vacuos Fames Lucrum
+Vitium Lux 5
+Vitium Praecantatio Vacuos Aer Lux
+Vitium Luxuria 5
+Vitium Praecantatio Vacuos Fames Luxuria
+Vitium Machina 5
+Vitium Perditio Vinculum Motus Machina
+Vitium Messis 6
+Vitium Perditio Mortuus Victus Herba Messis
 Vitium Metallum 6
 Vitium Praecantatio Potentia Ordo Vitreus Metallum
+Vitium Vitreus 5
+Vitium Praecantatio Potentia Ordo Vitreus
+Vitium Meto 6
+Vitium Praecantatio Potentia Ordo Instrumentum Meto
+Vitium Pannus 6
+Vitium Praecantatio Potentia Ordo Instrumentum Pannus
+Vitium Perfodio 6
+Vitium Perditio Mortuus Victus Terra Perfodio
+Vitium Permutatio 3
+Vitium Perditio Permutatio
+Vitium Potentia 3
+Vitium Praecantatio Potentia
+Vitium Sano 5
+Vitium Praecantatio Potentia Ordo Sano
+Vitium Sensus 5
+Vitium Praecantatio Vacuos Aer Sensus
+Vitium Superbia 4
+Vitium Praecantatio Vacuos Superbia
+Vitium Volatus 5
+Vitium Praecantatio Vacuos Aer Volatus
+Vitium Tempestas 5
+Vitium Praecantatio Vacuos Aer Tempestas
+Vitium Tutamen 6
+Vitium Praecantatio Potentia Ordo Instrumentum Tutamen
+Vitium Venenum 3
+Vitium Perditio Venenum

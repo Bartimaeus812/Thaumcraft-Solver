@@ -8,25 +8,19 @@ int main() {
     Obsidian ob(obsidian_path, false);
     Network nodes(ob.getNodes());
     FindCommons fc(nodes);
-    fc.calculateDistances();
-    fc.outputHistory("C:\\Users\\Danny\\Documents\\GitHub\\Thaumcraft-Solver\\history.txt");
-    string input;
+//    fc.calculateDistances();
+    fc.inputHistory("C:\\Users\\Danny\\Documents\\GitHub\\Thaumcraft-Solver\\history.txt");
+    string input0, input1;
     int option;
     cout << "type \"exit\" to exit\n\n";
-    cout << "options\n0: Herba\n1: Metallum\n2: Praecantatio\nType an aspect then a number\nExample: Ordo 2\n";
+    cout << "Type two aspects\nExample: Ordo Herba\n";
     cin.clear();
-    while (input!="exit") {
+    while (input0!="exit") {
         cout << "? ";
-        cin >> input;
-        if (input!="exit") {
-            cin >> option;
-            if (option==0) {
-                fc.oracle(input,fc.tree::Herba);
-            } else if (option==1) {
-                fc.oracle(input,fc.tree::Metallum);
-            } else if (option==2) {
-                fc.oracle(input,fc.tree::Praecantatio);
-            }
+        cin >> input0;
+        if (input0!="exit") {
+            cin >> input1;
+            fc.oracle(input0,input1);
         }
     }
 }

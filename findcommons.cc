@@ -55,41 +55,20 @@ FindCommons::~FindCommons() {
 }*/
 
 void FindCommons::calculateDistances() {
-    string tree0 = "Herba";
-    string tree1 = "Metallum";
-    string tree2 = "Praecantatio";
-    int t0id = network.toInt(tree0);
-    int t1id = network.toInt(tree1);
-    int t2id = network.toInt(tree2);
-    int* targets = new int[3];
-    targets[0] = t0id;
-    targets[1] = t1id;
-    targets[2] = t2id;
-    for (int i = 0; i<3; i++) {
+    for (int i = 0; i<network.size(); i++) {
         for (int j = 0; j<network.size(); j++) {
-            int t = targets[i];
-            if (t!=j) {
-                vector<int>* v = aspectSearch->getPath(t,j);
-                pair<int,int> p(j,t);
-                history[p] = aspectSearch->traversePath(v,t,j);
+            if (i!=j) {
+                vector<int>* v = aspectSearch->getPath(j,i);
+                pair<int,int> p(i,j);
+                history[p] = aspectSearch->traversePath(v,j,i);
             }
         }
     }
 }
 
-void FindCommons::oracle(string aspect, tree option) {
-    int start = network.toInt(aspect);
-    int end = -1;
-    switch (option) {
-        case tree::Herba:
-            end = network.toInt("Herba");
-        break;
-        case tree::Metallum:
-            end = network.toInt("Metallum");
-        break;
-        case tree::Praecantatio:
-            end = network.toInt("Praecantatio");
-    }
+void FindCommons::oracle(string aspect0, string aspect1) {
+    int start = network.toInt(aspect0);
+    int end = network.toInt(aspect1);
     pair<int,int> p(start,end);
     pair<int,int> rp(end,start);
     vector<int>* v;
@@ -121,25 +100,36 @@ void FindCommons::clearHistory() {
 }
 
 void FindCommons::inputHistory(string path) {
-
+    ifstream read(path);
+    int history_size;
+    read >> history_size;
+    for (int i = 0; i<history_size; i++) {
+        string node0, node1;
+        int count;
+        read >> node0 >> node1 >> count;
+        int n0Id = network.toInt(node0);
+        int n1Id = network.toInt(node1);
+        pair<int,int> p(n0Id,n1Id);
+        vector<int>* v = new vector<int>;
+        v->reserve(count);
+        for (int j = 0; j<count; j++) {
+            string node;
+            read >> node;
+            v->push_back(network.toInt(node));
+        }
+        history[p] = v;
+    }
+    read.close();
 }
 
 /*
 file format (when something repeats twice and is followed by ... <> then it will repeat <> times in file)
 :
 history_size
-nodeA0 nodeB0
-node0 node0_count
-0link0 0link1 ... <node0_count>
-node1 node1_count
-1link0 1link1 ... <node1_count>
-... <dij_size>
-nodeA1 nodeB1
-node0 node0_count
-0link0 0link1 ... <node0_count>
-node1 node1_count
-1link0 1link1 ... <node1_count>
-... <dij_size>
+nodeA0 nodeB0 count
+link0 link1 ... <count>
+nodeA1 nodeB1 count
+link0 link1 ... <count>
 ... <history_size>
 */
 void FindCommons::outputHistory(string path) const {

@@ -15,8 +15,7 @@ class FindCommons {
 
 //        void calculateCommons();
         void calculateDistances();
-        enum tree {Herba,Metallum,Praecantatio};
-        void oracle(std::string aspect, tree option);
+        void oracle(std::string aspect0, std::string aspect1);
 
         void addNode(std::string s);
         void clearNodes() {nodes.clear();}
