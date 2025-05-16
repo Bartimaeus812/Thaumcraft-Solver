@@ -2,6 +2,7 @@ Current capabilities of the project:
 
     Read aspect conversions from an Obsidian vault or file, then ability to output to file.
     Search for the quickest path between two aspects using Dijkstra's Algorithm.
+    This search has been preloaded into history.txt, a query for any path can now be made.
 
 Planned capabilities:
 
