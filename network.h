@@ -4,6 +4,7 @@
 #include <map>
 #include <string>
 #include <vector>
+#include "AspectSpelling.h"
 
 class Network {
     public:
@@ -12,7 +13,7 @@ class Network {
         
         std::vector<int> operator[](int i);
         
-        int toInt(std::string s) const {return idTable.at(s);}
+        int toInt(std::string s) const;
         std::string toString(int i) const {return ridTable.at(i);}
         size_t size() const {return _size;}
     private:

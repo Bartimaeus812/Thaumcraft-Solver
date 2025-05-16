@@ -40,4 +40,11 @@ int Network::addId(string s) {
     return idTable[s];
 }
 
+int Network::toInt(string s) const {
+    if (idTable.count(s)==0) {
+        throw AspectSpelling();
+    }
+    return idTable.at(s);
+}
+
 #endif

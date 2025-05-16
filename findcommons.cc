@@ -14,45 +14,24 @@ FindCommons::~FindCommons() {
     clearHistory();
 }
 
-/*void FindCommons::calculateCommons() {
-    vector<pair<int,int>*> searches;
-    //search between all nodes
+void FindCommons::calculateCommons() {
+    commons.clear();
+    set<int> uniques;
     for (int i = 0; i<nodes.size(); i++) {
-        for (int j = 0; j<nodes.size(); j++) {
-            if (i!=j && nodes[i]!=nodes[j]) {
-                pair<int,int>* query = new pair<int,int>(nodes[i],nodes[j]);
-                //check if query in history else
-                //invert query order
-                //check if query in history else
-                //invert query order
-                //add new search to history
-                if (history.count(*query)>0) {
-                    searches.push_back(query);
+        for (int j = i+1; j<nodes.size(); j++) {
+            pair<int,int> p(i,j);
+            set<int> s = *history[p];
+            for (set<int>::const_iterator k = s.cbegin(); k!=s.cend(); k++) {
+                int kk = *k;
+                if (uniques.count(kk)>0||nodes.size()==2) {
+                    commons.push_back(kk);
                 } else {
-                    swap(query->first, query->second);
-                    if (history.count(*query)>0) {
-                        searches.push_back(query);
-                    } else {
-                        swap(query->first, query->second);
-                        history[*query] = aspectSearch->getPath(query->first,query->second);
-                        searches.push_back(query);
-                    }
+                    uniques.insert(kk);
                 }
             }
         }
     }
-    //if single search, add center node of search to common nodes
-    if (searches.size()==1) {
-        pair<int,int>* query = searches[0];
-        vector<int>* dij = history[*query];
-        vector<int>* path = aspectSearch->traversePath(dij, query->first, query->second);
-        commons.push_back((*path)[path->size()/2]);
-        delete path;
-    }
-    for (int i = 0; i<searches.size(); i++) {
-        delete searches[i];
-    }
-}*/
+}
 
 void FindCommons::calculateDistances() {
     for (int i = 0; i<network.size(); i++) {
@@ -60,40 +39,41 @@ void FindCommons::calculateDistances() {
             if (i!=j) {
                 vector<int>* v = aspectSearch->getPath(j,i);
                 pair<int,int> p(i,j);
-                history[p] = aspectSearch->traversePath(v,j,i);
+                history[p] = aspectSearch->getInPath(v,j,i);
+                delete[] v;
             }
         }
     }
 }
 
-void FindCommons::oracle(string aspect0, string aspect1) {
-    int start = network.toInt(aspect0);
-    int end = network.toInt(aspect1);
-    pair<int,int> p(start,end);
-    pair<int,int> rp(end,start);
-    vector<int>* v;
-    if (history.count(p)>0) {
-        v = history[p];
-    } else if (history.count(rp)>0) {
-        v = history[rp];
-    } else {
-        v = aspectSearch->getPath(end,start);
-        v = aspectSearch->traversePath(v, end,start);
-    }
-    cout << v->size() << endl;
-    cout << p.first << ' ' << p.second << endl;
-    for (int i = 0; i<v->size(); i++) {
-        cout << network.toString((*v)[i]) << ' ';
+void FindCommons::displayCommons() {
+    for (int i = 0; i<commons.size(); i++) {
+        cout << network.toString(commons[i]) << ' ';
     }
     cout << endl;
 }
 
-void FindCommons::addNode(string s) {
-    nodes.push_back(network.toInt(s));
+void FindCommons::oracle(string nodeA, string nodeB) {
+    int nA = network.toInt(nodeA);
+    int nB = network.toInt(nodeB);
+    vector<int>* v = aspectSearch->getPath(nB,nA);
+    vector<vector<int>*>* vv = aspectSearch->traversePath(v, nB, nA);
+    for (int i = 0; i<vv->size(); i++) {
+        vector<int>* path = vv->at(i);
+        cout << i << ':';
+        for (int j = 0; j<path->size(); j++) {
+            string node = network.toString(path->at(j));
+            cout << node << ' ';
+        }
+        cout << endl;
+        delete path;
+    }
+    delete[] v;
+    delete vv;
 }
 
 void FindCommons::clearHistory() {
-    for (map<pair<int,int>,vector<int>*>::iterator i = history.begin(); i!=history.end(); i++) {
+    for (map<pair<int,int>,set<int>*>::iterator i = history.begin(); i!=history.end(); i++) {
         delete i->second;
     }
     history.clear();
@@ -110,14 +90,13 @@ void FindCommons::inputHistory(string path) {
         int n0Id = network.toInt(node0);
         int n1Id = network.toInt(node1);
         pair<int,int> p(n0Id,n1Id);
-        vector<int>* v = new vector<int>;
-        v->reserve(count);
+        set<int>* s = new set<int>;
         for (int j = 0; j<count; j++) {
             string node;
             read >> node;
-            v->push_back(network.toInt(node));
+            s->insert(network.toInt(node));
         }
-        history[p] = v;
+        history[p] = s;
     }
     read.close();
 }
@@ -135,19 +114,21 @@ link0 link1 ... <count>
 void FindCommons::outputHistory(string path) const {
     ofstream write(path, ofstream::trunc);
     write << history.size() << endl;
-    for (map<pair<int,int>,vector<int>*>::const_iterator i = history.cbegin(); i!=history.cend(); i++) {
+    for (map<pair<int,int>,set<int>*>::const_iterator i = history.cbegin(); i!=history.cend(); i++) {
         pair<int,int> query = i->first;
-        vector<int> path = *history.at(query);
+        set<int> path = *history.at(query);
         string nodeA = network.toString(query.first);
         string nodeB = network.toString(query.second);
         write << nodeA << ' ' << nodeB << ' ' << path.size() << endl;
-        for (int i = 0; i<path.size(); i++) {
-            write << network.toString(path[i]);
-            if (i<path.size()-1) {
+        int j = 0;
+        for (set<int>::iterator jit = path.begin(); jit!=path.end(); jit++) {
+            write << network.toString(*jit);
+            if (j<path.size()-1) {
                 write << ' ';
             } else {
                 write << endl;
             }
+            j++;
         }
     }
     write.close();

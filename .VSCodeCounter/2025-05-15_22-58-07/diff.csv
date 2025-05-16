@@ -1,0 +1,14 @@
+"filename", "language", "C++", "Batch", "comment", "blank", "total"
+"c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\aspectpath.cc", "C++", 23, 0, 0, 2, 25
+"c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\aspectpath.h", "C++", 3, 0, 1, 0, 4
+"c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\aspectspelling.h", "C++", 7, 0, 0, 1, 8
+"c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\findcommons.cc", "C++", 36, 0, -15, 1, 22
+"c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\findcommons.h", "C++", 4, 0, 2, 2, 8
+"c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\main.cc", "C++", 36, 0, 1, 3, 40
+"c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\main.cpp", "C++", -6, 0, 0, -4, -10
+"c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\make.bat", "Batch", 0, 1, 0, 0, 1
+"c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\network.cc", "C++", 6, 0, 0, 1, 7
+"c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\network.h", "C++", 1, 0, 0, 0, 1
+"c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\obsidian.cc", "C++", 4, 0, 10, 3, 17
+"c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\obsidian.h", "C++", 2, 0, 0, 0, 2
+"Total", "-", 116, 1, -1, 9, 125

@@ -13,11 +13,16 @@ class FindCommons {
         FindCommons(const Network &nodes);
         ~FindCommons();
 
-//        void calculateCommons();
+        void calculateCommons();
+        //calculate nodes in fastest path for all nodes to all nodes
         void calculateDistances();
-        void oracle(std::string aspect0, std::string aspect1);
 
-        void addNode(std::string s);
+        void displayCommons();
+
+        void oracle(std::string nodeA, std::string nodeB);
+
+        //add node to find common for
+        void addNode(std::string s) {nodes.push_back(network.toInt(s));}
         void clearNodes() {nodes.clear();}
         void clearHistory();
 
@@ -28,7 +33,7 @@ class FindCommons {
         AspectPath* aspectSearch;
         std::vector<int> nodes;
         std::vector<int> commons;
-        std::map<std::pair<int,int>,std::vector<int>*> history;
+        std::map<std::pair<int,int>,std::set<int>*> history;
 };
 
 #endif

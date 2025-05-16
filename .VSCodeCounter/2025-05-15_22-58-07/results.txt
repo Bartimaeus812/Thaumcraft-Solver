@@ -1,0 +1,102 @@
+Date : 2025-05-15 22:58:07
+Directory : c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver
+Total : 71 files,  825 codes, 43 comments, 88 blanks, all 956 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| C++      |         10 |        507 |         43 |         75 |        625 |
+| JSON     |          5 |        250 |          0 |          0 |        250 |
+| Markdown |         55 |         67 |          0 |         13 |         80 |
+| Batch    |          1 |          1 |          0 |          0 |          1 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                     | files      | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                        |         71 |        825 |         43 |         88 |        956 |
+| . (Files)                                                                                |         12 |        526 |         43 |         83 |        652 |
+| Thaumcraft                                                                               |         59 |        299 |          0 |          5 |        304 |
+| Thaumcraft (Files)                                                                       |         54 |         49 |          0 |          5 |         54 |
+| Thaumcraft\.obsidian                                                                     |          5 |        250 |          0 |          0 |        250 |
++------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                 | language | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\README.md                              | Markdown |         18 |          0 |          8 |         26 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\Thaumcraft\.obsidian\app.json          | JSON     |          3 |          0 |          0 |          3 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\Thaumcraft\.obsidian\appearance.json   | JSON     |          1 |          0 |          0 |          1 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\Thaumcraft\.obsidian\core-plugins.json | JSON     |         31 |          0 |          0 |         31 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\Thaumcraft\.obsidian\graph.json        | JSON     |         22 |          0 |          0 |         22 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\Thaumcraft\.obsidian\workspace.json    | JSON     |        193 |          0 |          0 |        193 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\Thaumcraft\Aer.md                      | Markdown |          0 |          0 |          1 |          1 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\Thaumcraft\Alienis.md                  | Markdown |          1 |          0 |          0 |          1 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\Thaumcraft\Aqua.md                     | Markdown |          1 |          0 |          0 |          1 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\Thaumcraft\Arbor.md                    | Markdown |          1 |          0 |          0 |          1 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\Thaumcraft\Auram.md                    | Markdown |          1 |          0 |          0 |          1 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\Thaumcraft\Bestia.md                   | Markdown |          1 |          0 |          0 |          1 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\Thaumcraft\Cognitio.md                 | Markdown |          1 |          0 |          0 |          1 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\Thaumcraft\Corpus.md                   | Markdown |          1 |          0 |          0 |          1 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\Thaumcraft\Desidia.md                  | Markdown |          1 |          0 |          0 |          1 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\Thaumcraft\Exanimus.md                 | Markdown |          1 |          0 |          0 |          1 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\Thaumcraft\Fabrico.md                  | Markdown |          1 |          0 |          0 |          1 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\Thaumcraft\Fames.md                    | Markdown |          1 |          0 |          0 |          1 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\Thaumcraft\Gelum.md                    | Markdown |          1 |          0 |          0 |          1 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\Thaumcraft\Gula.md                     | Markdown |          1 |          0 |          0 |          1 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\Thaumcraft\Herba.md                    | Markdown |          1 |          0 |          0 |          1 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\Thaumcraft\Humanus.md                  | Markdown |          1 |          0 |          0 |          1 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\Thaumcraft\Ignis.md                    | Markdown |          0 |          0 |          1 |          1 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\Thaumcraft\Infernus.md                 | Markdown |          1 |          0 |          0 |          1 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\Thaumcraft\Instrumentum.md             | Markdown |          1 |          0 |          0 |          1 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\Thaumcraft\Ira.md                      | Markdown |          1 |          0 |          0 |          1 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\Thaumcraft\Iter.md                     | Markdown |          1 |          0 |          0 |          1 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\Thaumcraft\Limus.md                    | Markdown |          1 |          0 |          0 |          1 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\Thaumcraft\Lucrum.md                   | Markdown |          1 |          0 |          0 |          1 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\Thaumcraft\Lux.md                      | Markdown |          1 |          0 |          0 |          1 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\Thaumcraft\Luxuria.md                  | Markdown |          1 |          0 |          0 |          1 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\Thaumcraft\Machina.md                  | Markdown |          1 |          0 |          0 |          1 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\Thaumcraft\Messis.md                   | Markdown |          1 |          0 |          0 |          1 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\Thaumcraft\Metallum.md                 | Markdown |          1 |          0 |          0 |          1 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\Thaumcraft\Meto.md                     | Markdown |          1 |          0 |          0 |          1 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\Thaumcraft\Mortuus.md                  | Markdown |          1 |          0 |          0 |          1 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\Thaumcraft\Motus.md                    | Markdown |          1 |          0 |          0 |          1 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\Thaumcraft\Ordo.md                     | Markdown |          0 |          0 |          1 |          1 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\Thaumcraft\Pannus.md                   | Markdown |          1 |          0 |          0 |          1 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\Thaumcraft\Perditio.md                 | Markdown |          0 |          0 |          1 |          1 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\Thaumcraft\Perfodio.md                 | Markdown |          1 |          0 |          0 |          1 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\Thaumcraft\Permutatio.md               | Markdown |          1 |          0 |          0 |          1 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\Thaumcraft\Potentia.md                 | Markdown |          1 |          0 |          0 |          1 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\Thaumcraft\Praecantatio.md             | Markdown |          1 |          0 |          0 |          1 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\Thaumcraft\Sano.md                     | Markdown |          1 |          0 |          0 |          1 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\Thaumcraft\Sensus.md                   | Markdown |          1 |          0 |          0 |          1 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\Thaumcraft\Spiritus.md                 | Markdown |          1 |          0 |          0 |          1 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\Thaumcraft\Superbia.md                 | Markdown |          1 |          0 |          0 |          1 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\Thaumcraft\Telum.md                    | Markdown |          1 |          0 |          0 |          1 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\Thaumcraft\Tempestas.md                | Markdown |          1 |          0 |          0 |          1 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\Thaumcraft\Tenebrae.md                 | Markdown |          1 |          0 |          0 |          1 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\Thaumcraft\Terra.md                    | Markdown |          0 |          0 |          1 |          1 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\Thaumcraft\Tutamen.md                  | Markdown |          1 |          0 |          0 |          1 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\Thaumcraft\Vacuos.md                   | Markdown |          1 |          0 |          0 |          1 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\Thaumcraft\Venenum.md                  | Markdown |          1 |          0 |          0 |          1 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\Thaumcraft\Victus.md                   | Markdown |          1 |          0 |          0 |          1 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\Thaumcraft\Vinculum.md                 | Markdown |          1 |          0 |          0 |          1 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\Thaumcraft\Vitium.md                   | Markdown |          1 |          0 |          0 |          1 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\Thaumcraft\Vitreus.md                  | Markdown |          1 |          0 |          0 |          1 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\Thaumcraft\Volatus.md                  | Markdown |          1 |          0 |          0 |          1 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\aspectpath.cc                          | C++      |         87 |          8 |         11 |        106 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\aspectpath.h                           | C++      |         19 |          1 |          4 |         24 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\aspectspelling.h                       | C++      |          7 |          0 |          1 |          8 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\findcommons.cc                         | C++      |        115 |         10 |         13 |        138 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\findcommons.h                          | C++      |         29 |          2 |          9 |         40 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\main.cc                                | C++      |         36 |          1 |          3 |         40 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\make.bat                               | Batch    |          1 |          0 |          0 |          1 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\network.cc                             | C++      |         43 |          0 |          8 |         51 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\network.h                              | C++      |         23 |          0 |          6 |         29 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\obsidian.cc                            | C++      |        121 |         21 |         16 |        158 |
+| c:\Users\Danny\Documents\GitHub\Thaumcraft-Solver\obsidian.h                             | C++      |         27 |          0 |          4 |         31 |
+| Total                                                                                    |          |        825 |         43 |         88 |        956 |
++------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
