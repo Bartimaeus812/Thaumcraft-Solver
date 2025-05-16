@@ -1,17 +1,18 @@
 Current capabilities of the project:
 
     Read aspect conversions from an Obsidian vault or file, then ability to output to file.
-    Search for the quickest path between two aspects using Dijkstra's Algorithm.
-    This search has been preloaded into history.txt, a query for any path can now be made.
+    Identify all nodes in the quickest path between two aspects as a set, this is preloaded as history.txt
+    Find potential common nodes by combining the nodes in the quickest path of all aspects to check
+    Relay all fastest paths between two given aspects
 
 Planned capabilities:
 
     There are two approaches to solving this minigame I will be pursuing: helping tools or game solving.
-    First, I will create helpful tools to make identifying the solutions to each puzzle easier.
+    First, I will create helpful tools to make identifying the solutions to each puzzle easier. (Completed)
     Second, there will be the simulation of the game board and a turn-based game solving algorithm aimed at being efficient with research aspects.
     Also, the research conversions will be easily modifiable
   
-  Helping Tools: This will involve creating two tools:
+  Helping Tools (Completed): This will involve creating two tools:
     
     Finding common aspects between a list of aspects
     Finding reasonable paths between two aspects
