@@ -57,16 +57,15 @@ void FindCommons::oracle(string nodeA, string nodeB) {
     int nA = network.toInt(nodeA);
     int nB = network.toInt(nodeB);
     vector<int>* v = aspectSearch->getPath(nB,nA);
-    vector<vector<int>*>* vv = aspectSearch->traversePath(v, nB, nA);
+    vector<vector<int>>* vv = aspectSearch->traversePath(v, nB, nA);
     for (int i = 0; i<vv->size(); i++) {
-        vector<int>* path = vv->at(i);
+        vector<int> path = vv->at(i);
         cout << i << ':';
-        for (int j = 0; j<path->size(); j++) {
-            string node = network.toString(path->at(j));
+        for (int j = 0; j<path.size(); j++) {
+            string node = network.toString(path[j]);
             cout << node << ' ';
         }
         cout << endl;
-        delete path;
     }
     delete[] v;
     delete vv;

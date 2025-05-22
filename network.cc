@@ -5,15 +5,15 @@
 
 using namespace std;
 
-Network::Network(map<string,pair<string,string>*> nodes) {
+Network::Network(map<string,pair<string,string>> nodes) {
     idCount = 0;
     idTable[""] = -1;
     ridTable[-1] = "";
     _size = nodes.size();
     data = new vector<int>[_size];
-    for (map<string,pair<string,string>*>::const_iterator i = nodes.cbegin(); i!=nodes.cend(); i++) {
+    for (map<string,pair<string,string>>::const_iterator i = nodes.cbegin(); i!=nodes.cend(); i++) {
         string node0 = i->first;
-        pair<string,string> parents = *nodes.at(node0);
+        pair<string,string> parents = nodes.at(node0);
         string node1 = parents.first;
         string node2 = parents.second;
         int nid0 = addId(node0);
@@ -28,7 +28,7 @@ Network::Network(map<string,pair<string,string>*> nodes) {
     }
 }
 
-vector<int> Network::operator[](int i) {
+vector<int> Network::operator[](int i) const {
     return data[i];
 }
 

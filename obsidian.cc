@@ -19,15 +19,15 @@ Obsidian::Obsidian(string path, bool isFileNotFolder) {
                 node1 = "";
                 node2 = "";
             }
-            nodes[node0] = new pair<string,string>(node1,node2);
+            nodes[node0] = pair<string,string>(node1,node2);
         }
         for (int i = 0; i<n; i++) {
             string node;
             int count,maxCount;
             reader >> node >> count >> maxCount;
-            nodeInfo* info = new nodeInfo;
-            info->count = count;
-            info->maxCount = maxCount;
+            nodeInfo info;
+            info.count = count;
+            info.maxCount = maxCount;
             nodeData[node] = info;
         }
     } else {
@@ -51,7 +51,7 @@ Obsidian::Obsidian(string path, bool isFileNotFolder) {
                     node2 = s.substr(0,pos);
                 }
 
-                nodes[node0] = new pair<string,string>(node1,node2);
+                nodes[node0] = pair<string,string>(node1,node2);
                 cout << node0 << " = " << node1 << " + " << node2 << endl;
             }
         }
@@ -59,10 +59,10 @@ Obsidian::Obsidian(string path, bool isFileNotFolder) {
 }
 
 void Obsidian::inputCounts() {
-    for (map<string,pair<string,string>*>::iterator i = nodes.begin(); i!=nodes.end(); i++) {
+    for (map<string,pair<string,string>>::iterator i = nodes.begin(); i!=nodes.end(); i++) {
         string node = i->first;
         cout << "Count of " << node << ": ";
-        cin >> nodeData[node]->count;
+        cin >> nodeData[node].count;
     }
 }
 
@@ -77,9 +77,9 @@ void Obsidian::inputCounts() {
     return v;
 }*/
 
-void Obsidian::calculateMaxCounts() {
+/*void Obsidian::calculateMaxCounts() {
     map<string,int> depths;
-    for (map<string,pair<string,string>*>::iterator i = nodes.begin(); i!=nodes.end(); i++) {
+    for (map<string,pair<string,string>>::iterator i = nodes.begin(); i!=nodes.end(); i++) {
         string node = i->first;
         depths[node] = getDepth(node);
     }
@@ -95,13 +95,13 @@ void Obsidian::calculateMaxCounts() {
     for (int i = 0; i<v.size(); i++) {
         string node = v[i].first;
         if (v[i].second==0) {
-            nodeData[node]->maxCount = nodeData[node]->count;
+            nodeData[node].maxCount = nodeData[node].count;
         } else {
-            pair<string,string> parents = *nodes[node];
-            nodeData[node]->maxCount = min(nodeData[parents.first]->maxCount, nodeData[parents.second]->maxCount);
+            pair<string,string> parents = nodes[node];
+            nodeData[node].maxCount = min(nodeData[parents.first].maxCount, nodeData[parents.second].maxCount);
         }
     }
-}
+}*/
 
 /*
 file format (when something repeats twice and is followed by ... <> then it will repeat <> times in file)
@@ -117,9 +117,9 @@ node1 count1 potential_count1
 void Obsidian::fileOutput(string path) const {
     ofstream write(path, ofstream::trunc);
     write << nodes.size() << endl;
-    for (map<string,pair<string,string>*>::const_iterator i = nodes.cbegin(); i!=nodes.cend(); i++) {
+    for (map<string,pair<string,string>>::const_iterator i = nodes.cbegin(); i!=nodes.cend(); i++) {
         string node0 = i->first;
-        const pair<string,string> parents = *nodes.at(node0);
+        const pair<string,string> parents = nodes.at(node0);
         string node1 = parents.first;
         string node2 = parents.second;
         if (node1=="") {
@@ -128,29 +128,20 @@ void Obsidian::fileOutput(string path) const {
         }
         write << node0 << ' ' << node1 << ' ' << node2 << endl;
     }
-    for (map<string,nodeInfo*>::const_iterator i = nodeData.cbegin(); i!=nodeData.cend(); i++) {
+    for (map<string,nodeInfo>::const_iterator i = nodeData.cbegin(); i!=nodeData.cend(); i++) {
         string node = i->first;
-        const nodeInfo info = *nodeData.at(node);
+        const nodeInfo info = nodeData.at(node);
         int count = info.count;
         int maxCount = info.maxCount;
         write << node << ' ' << count << ' ' << maxCount << endl;
     }
 }
 
-int Obsidian::getDepth(string s) const {
-    pair<string,string> parents = *nodes.at(s);
-    if (parents.first=="") {
-        return 0;
-    } else {
-        return 1+min(getDepth(parents.first), getDepth(parents.second));
-    }
-}
-
-const map<string,pair<string,string>*> Obsidian::getNodes() const {
+const map<string,pair<string,string>> Obsidian::getNodes() const {
     return nodes;
 }
 
-const map<string,Obsidian::nodeInfo*> Obsidian::getData() const {
+const map<string,Obsidian::nodeInfo> Obsidian::getData() const {
     return nodeData;
 }
 

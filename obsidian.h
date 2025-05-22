@@ -17,14 +17,12 @@ class Obsidian {
             int maxCount {0};
         };
         void inputCounts();
-        void calculateMaxCounts();
-        const std::map<std::string,std::pair<std::string,std::string>*> getNodes() const;
-        const std::map<std::string,nodeInfo*> getData() const;
+        const std::map<std::string,std::pair<std::string,std::string>> getNodes() const;
+        const std::map<std::string,nodeInfo> getData() const;
         void fileOutput(std::string path) const;
     private:
-        int getDepth(std::string s) const;
-        std::map<std::string,std::pair<std::string,std::string>*> nodes;
-        std::map<std::string,nodeInfo*> nodeData;
+        std::map<std::string,std::pair<std::string,std::string>> nodes;
+        std::map<std::string,nodeInfo> nodeData;
 };
 
 #endif
